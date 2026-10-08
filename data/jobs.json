@@ -34,41 +34,405 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 10
+    "count": 20
    },
    {
     "value": "Trưởng nhóm",
-    "count": 1
+    "count": 5
    },
    {
     "value": "Trưởng BP",
-    "count": 25
+    "count": 29
    },
    {
     "value": "Giám đốc",
-    "count": 1
+    "count": 2
    }
   ],
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 37
+    "count": 56
    }
   ],
   "industries": [],
   "salary_types": [
    {
     "value": "Có dải lương",
-    "count": 17
+    "count": 28
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 20
+    "count": 28
    }
   ]
  },
- "count": 37,
+ "count": 56,
  "jobs": [
+  {
+   "id": "JOB-2610-00078",
+   "slug": "hrbp-specialist-game-studio-tap-doan-vng",
+   "title": "HRBP Specialist (Game Studio)",
+   "company": "Công Ty Cổ Phần Tập Đoàn VNG",
+   "website": "https://vng.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà VNG Campus, Đường số 13, KCX Tân Thuận",
+   "ward": "P.Tân Thuận Đông",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm HRBP trong ngành công nghệ phần mềm, công nghệ thông tin hoặc game; tiếng Anh thành thạo, có năng lực đánh giá năng suất lao động và văn hóa đội ngũ kỹ thuật.",
+   "apply_url": "https://www.vietnamworks.com/hrbp-specialist-game-studio-vng-2117201-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-08-10",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00079",
+   "slug": "truong-nhom-tuyen-dung-khoi-van-hanh-chuoi-dich-vu-ca-phe-cao-nguyen-highlands-coffee",
+   "title": "Trưởng Nhóm Tuyển Dụng Khối Vận Hành Chuỗi",
+   "company": "Công Ty Cổ Phần Dịch Vụ Cà Phê Cao Nguyên (Highlands Coffee)",
+   "website": "https://highlandscoffee.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Tầng 3, Tòa nhà Bluesky Office, 1 Bạch Đằng",
+   "ward": "Phường 2",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 24000000,
+    "text": "18 - 24 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Ít nhất 3 năm kinh nghiệm tuyển dụng mass cho chuỗi F&B hoặc bán lẻ; quản lý chỉ số tuyển dụng, nguồn cung ứng viên bán thời gian và điều phối lịch phỏng vấn tập trung.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-nhom-tuyen-dung-khoi-van-hanh-highlands.35C89E10.html",
+   "source": "careerviet.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00082",
+   "slug": "hrbp-chuyen-vien-nhan-su-vung-phuc-long-heritage",
+   "title": "HRBP Chuyên Viên Nhân Sự Vùng",
+   "company": "Công Ty Cổ Phần Phúc Long Heritage",
+   "website": "https://phuclong.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Phòng 702, Tầng 7, Tòa nhà Central Plaza, 17 Lê Duẩn",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 18000000,
+    "text": "14 - 18 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Từ 2 năm kinh nghiệm nhân sự đối tác kinh doanh ngành đồ uống, ẩm thực F&B; trực tiếp phụ trách các cửa hàng khu vực nội thành TP.HCM, giải quyết quan hệ lao động và gắn kết nhân viên.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/hrbp-chuyen-vien-nhan-su-vung-phuc-long.35C89E15.html",
+   "source": "careerviet.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00083",
+   "slug": "truong-phong-hanh-chinh-tong-hop-chi-nhanh-mien-nam-thuong-mai-dich-vu-cong-vang-golden",
+   "title": "Trưởng Phòng Hành Chính Tổng Hợp Chi Nhánh Miền Nam",
+   "company": "Công Ty Cổ Phần Thương Mại Dịch Vụ Cổng Vàng (Golden Gate Group)",
+   "website": "https://ggg.com.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 5, Tòa nhà Green Power, 35 Tôn Đức Thắng",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 25000000,
+    "max": 35000000,
+    "text": "25 - 35 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý hành chính doanh nghiệp quy mô lớn; quản lý tài sản, trang thiết bị văn phòng, thủ tục hành chính pháp lý và điều hành đội xe, bảo vệ chi nhánh miền Nam.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-tong-hop-golden-gate/2324105.html",
+   "source": "topcv.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00084",
+   "slug": "truong-nhom-nhan-su-kho-bai-van-hanh-giao-hang-tiet-kiem-ghtk",
+   "title": "Trưởng Nhóm Nhân Sự Kho Bãi & Vận Hành",
+   "company": "Công Ty Cổ Phần Giao Hàng Tiết Kiệm (GHTK)",
+   "website": "https://giaohangtietkiem.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Kho Tân Phú Trung, Quốc lộ 22",
+   "ward": "P.Tân Phú Trung",
+   "district": "H.Củ Chi",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 22000000,
+    "text": "16 - 22 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Ít nhất 3 năm kinh nghiệm quản lý nhân sự kho vận/logistics quy mô hàng trăm tài xế, nhân viên giao hàng; am hiểu luật lao động, giải quyết tranh chấp và kiểm soát định biên nhân sự kho.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-nhom-nhan-su-kho-bai-ghtk/2324109.html",
+   "source": "topcv.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00085",
+   "slug": "chuyen-vien-tuyen-dung-khoi-cong-nghe-tech-recruiter-dich-vu-giao-hang-nhanh-ghn",
+   "title": "Chuyên Viên Tuyển Dụng Khối Công Nghệ (Tech Recruiter)",
+   "company": "Công Ty Cổ Phần Dịch Vụ Giao Hàng Nhanh (GHN)",
+   "website": "https://ghn.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 3, Tòa nhà Rivera Park, 7/28 Thành Thái",
+   "ward": "Phường 14",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Có từ 2 năm kinh nghiệm săn đầu người/tuyển dụng lập trình viên, kỹ sư dữ liệu, Product Manager ngành công nghệ hoặc Logistics Tech; networking rộng và kỹ năng thương lượng offer tốt.",
+   "apply_url": "https://www.vietnamworks.com/tech-recruiter-ghn-logistics-2117210-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-08-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00089",
+   "slug": "talent-development-specialist-chuyen-vien-phat-trien-nhan-tai-xay-dung-coteccons",
+   "title": "Talent Development Specialist (Chuyên Viên Phát Triển Nhân Tài)",
+   "company": "Công Ty Cổ Phần Xây Dựng Coteccons",
+   "website": "https://coteccons.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà Coteccons, 236/6 Điện Biên Phủ",
+   "ward": "Phường 17",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Từ 3 năm kinh nghiệm xây dựng khung năng lực, kế hoạch kế thừa (Succession Planning) và đào tạo lãnh đạo trẻ (Management Trainee); tiếng Anh xuất sắc, có tư duy phát triển tổ chức.",
+   "apply_url": "https://www.vietnamworks.com/talent-development-specialist-coteccons-2117218-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-08-10",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00090",
+   "slug": "giam-doc-nhan-su-khoi-bat-dong-san-tap-doan-dat-xanh",
+   "title": "Giám Đốc Nhân Sự Khối Bất Động Sản",
+   "company": "Công Ty Cổ Phần Tập Đoàn Đất Xanh",
+   "website": "https://datxanh.vn",
+   "level": "Giám đốc",
+   "industry": null,
+   "address": "2W Ung Văn Khiêm",
+   "ward": "Phường 25",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "10 năm",
+   "requirements": "Tối thiểu 10 năm kinh nghiệm nhân sự, trong đó có ít nhất 3 năm cấp Giám đốc nhân sự tại các tập đoàn bất động sản lớn; am hiểu cơ chế lương hoa hồng môi giới, hoạch định cơ cấu tổ chức đa chi nhánh.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/giam-doc-nhan-su-khoi-bds-dat-xanh.35C89E25.html",
+   "source": "careerviet.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-11",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00092",
+   "slug": "truong-nhom-tuyen-dung-khoi-kinh-doanh-tap-doan-hung-thinh",
+   "title": "Trưởng Nhóm Tuyển Dụng Khối Kinh Doanh",
+   "company": "Công Ty Cổ Phần Tập Đoàn Hưng Thịnh",
+   "website": "https://hungthinhcorp.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "110-112 Trần Quốc Toản",
+   "ward": "Phường 7",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 25000000,
+    "text": "18 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Từ 3 năm kinh nghiệm tuyển dụng chuyên viên kinh doanh bất động sản dự án; quản lý đội ngũ tuyển dụng 5 thành viên, thiết lập chiến dịch ngày hội tuyển dụng và mở rộng nguồn ứng viên.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-chinh-sach-nam-long/2324120.html",
+   "source": "topcv.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00093",
+   "slug": "chuyen-vien-nhan-su-quan-ly-lao-dong-nha-may-tap-doan-hoa-sen",
+   "title": "Chuyên Viên Nhân Sự & Quản Lý Lao Động Nhà Máy",
+   "company": "Công Ty Cổ Phần Tập Đoàn Hoa Sen",
+   "website": "https://hoasengroup.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "183 Nguyễn Văn Trỗi",
+   "ward": "Phường 10",
+   "district": "Q.Phú Nhuận",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 12000000,
+    "max": 16000000,
+    "text": "12 - 16 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "2 năm kinh nghiệm nhân sự tổng hợp nhà máy sản xuất thép, vật liệu xây dựng; theo dõi ca kíp sản xuất, chấm công, giám sát kỷ luật lao động và thực hiện thủ tục bảo hiểm xã hội.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-nhan-su-hoa-sen-group.35C89E30.html",
+   "source": "careerviet.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00096",
+   "slug": "people-experience-engagement-specialist-mondelez-kinh-do-viet-nam",
+   "title": "People Experience & Engagement Specialist",
+   "company": "Công Ty Cổ Phần Mondelez Kinh Đô Việt Nam",
+   "website": "https://mondelezinternational.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 8, Tòa nhà Empress Tower, 138-142 Hai Bà Trưng",
+   "ward": "P.Đa Kao",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Từ 3 năm kinh nghiệm chuyên môn về Employee Experience, khảo sát mức độ hài lòng của nhân viên và tổ chức các chương trình DEI (Đa dạng, Bình đẳng, Hòa nhập) trong công ty đa quốc gia.",
+   "apply_url": "https://www.vietnamworks.com/people-experience-specialist-mondelez-2117225-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-08-10",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00097",
+   "slug": "chuyen-vien-tuyen-dung-van-hanh-nhan-su-cum-rap-cj-cgv-viet-nam",
+   "title": "Chuyên Viên Tuyển Dụng & Vận Hành Nhân Sự Cụm Rạp",
+   "company": "Công Ty TNHH CJ CGV Việt Nam",
+   "website": "https://cgv.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 2, Tòa nhà Rivera Park, 7/28 Thành Thái",
+   "ward": "Phường 14",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 13000000,
+    "max": 17000000,
+    "text": "13 - 17 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "2 năm kinh nghiệm nhân sự ngành dịch vụ giải trí, rạp chiếu phim hoặc khách sạn; phụ trách tuyển dụng quản lý cụm rạp, nhân viên dịch vụ và hướng dẫn quy trình vận hành nhân sự.",
+   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-tuyen-dung-nhan-su-cgv/2324130.html",
+   "source": "topcv.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00098",
+   "slug": "truong-phong-hanh-chinh-nhan-su-phim-thien-ngan-galaxy-cinema",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự",
+   "company": "Công Ty Cổ Phần Phim Thiên Ngân (Galaxy Cinema)",
+   "website": "https://galaxycine.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 3, Tòa nhà Bitexco Nam Long, 63A Võ Văn Tần",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 25000000,
+    "max": 35000000,
+    "text": "25 - 35 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý HCNS ngành truyền thông giải trí; xây dựng quy chế lương thưởng, quản trị văn phòng tổng thể và chỉ đạo công tác nhân sự toàn bộ chuỗi rạp.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su-galaxy.35C89E40.html",
+   "source": "careerviet.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00100",
+   "slug": "truong-nhom-tuyen-dung-dieu-phoi-nhan-luc-sieu-thi-lien-hiep-hop-tac-xa-thuong-mai-tp-ho",
+   "title": "Trưởng Nhóm Tuyển Dụng & Điều Phối Nhân Lực Siêu Thị",
+   "company": "Liên Hiệp Hợp Tác Xã Thương Mại TP. Hồ Chí Minh (Saigon Co.op)",
+   "website": "https://saigonco-op.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "199-205 Nguyễn Thái Học",
+   "ward": "P.Phạm Ngũ Lão",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 22000000,
+    "text": "16 - 22 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Có từ 3 năm kinh nghiệm tuyển dụng khối siêu thị Co.opmart, Co.op Food; quản lý quy trình tiếp nhận, phân bổ nhân sự các điểm bán và đào tạo hội nhập cho người lao động mới.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-nhom-tuyen-dung-saigon-coop/2324135.html",
+   "source": "topcv.vn",
+   "updated": "2026-08-10",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
   {
    "id": "JOB-2610-00001",
    "slug": "truong-phong-hanh-chinh-nhan-su-hr-manager-kinh-doanh-xuat-nhap-khau-sao-viet-mien-nam",
@@ -408,6 +772,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00015",
+   "slug": "truong-phong-hanh-chinh-nhan-su-hrbp-asiafoods-corporation-cong-ty-co-phan-thuc-pham-a",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự (HRBP)",
+   "company": "Asiafoods Corporation (Công Ty Cổ Phần Thực Phẩm Á Châu)",
+   "website": "https://asiafoods.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Số 9/2, Đường ĐT 743",
+   "ward": "P.An Phú",
+   "district": "TP.Thuận An",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 50000000,
+    "max": 75000000,
+    "text": "50 - 75 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Quản lý HRBP và vận hành hành chính nhà máy/thương mại, hoạch định nguồn nhân lực ngành FMCG",
+   "apply_url": "https://www.vietnamworks.com/truong-phong-hanh-chinh-nhan-su-hrbp-1790922849923701075-2115067-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-07-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00017",
    "slug": "hr-admin-manager-vos-discovery",
    "title": "HR & Admin Manager",
@@ -564,6 +954,58 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00023",
+   "slug": "hr-admin-executive-cham-soc-suc-khoe-bo-bien-tay",
+   "title": "HR & Admin Executive",
+   "company": "Công Ty TNHH MTV Chăm Sóc Sức Khỏe Bờ Biển Tây",
+   "website": null,
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "144 Nam Kỳ Khởi Nghĩa",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm HR & Admin, quản lý giấy phép hành nghề y tế, giấy phép lao động cho người nước ngoài",
+   "apply_url": "https://www.vietnamworks.com/hr-admin-executive-1791196780574689491-2115757-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-07-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00024",
+   "slug": "hr-admin-executive-one-tech-stop-viet-nam",
+   "title": "HR & Admin Executive",
+   "company": "Công Ty TNHH One Tech Stop Việt Nam",
+   "website": null,
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 5, Tòa nhà Pax Sky, 186-186B Nguyễn Thị Minh Khai",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm vận hành hành chính văn phòng, hỗ trợ onboarding/offboarding, tiếng Anh giao tiếp tốt",
+   "apply_url": "https://www.vietnamworks.com/hr-admin-executive--2103024-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-07-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00025",
    "slug": "truong-phong-hanh-chinh-nhan-su-benh-vien-tham-my-kho-thi",
    "title": "Trưởng Phòng Hành Chính Nhân Sự",
@@ -611,6 +1053,32 @@
    "requirements": "Từ 1 năm kinh nghiệm trong công tác hành chính - nhân sự, tuyển dụng và quản lý hợp đồng lao động",
    "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-hanh-chinh-nhan-su-tu-1-nam-kinh-nghiem-lam-viec-tai-khu-vuc-tp-ho-chi-minh/1937887.html",
    "source": "topcv.vn",
+   "updated": "2026-07-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00027",
+   "slug": "hr-admin-officer-dhas-viet-nam",
+   "title": "HR & Admin Officer",
+   "company": "Công Ty TNHH DHAS Việt Nam",
+   "website": null,
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 11, Tòa nhà Ree Tower, 9 Đoàn Văn Bơ",
+   "ward": "Phường 13",
+   "district": "Q.4",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm trong vai trò HR & Admin, thành thạo tiếng Anh và quy trình BHXH",
+   "apply_url": "https://www.vietnamworks.com/hr-admin-officer--2103792-jv",
+   "source": "vietnamworks.com",
    "updated": "2026-07-10",
    "expires": "2026-10-31",
    "published": "2026-10-08"
@@ -850,6 +1318,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00037",
+   "slug": "ho-hr-business-partner-senior-manager-ngan-hang-thuong-mai-co-phan-a-chau-acb",
+   "title": "HO - HR Business Partner, Senior Manager",
+   "company": "Ngân Hàng Thương Mại Cổ Phần Á Châu (ACB)",
+   "website": "https://acb.com.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "442 Nguyễn Thị Minh Khai",
+   "ward": "Phường 5",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "7 năm",
+   "requirements": "Tối thiểu 7 năm kinh nghiệm nhân sự, trong đó có 3 năm làm HRBP tại các ngân hàng thương mại hoặc tổ chức tài chính quy mô lớn; năng lực tư vấn chiến lược nguồn nhân lực cho Khối kinh doanh.",
+   "apply_url": "https://www.vietnamworks.com/ho-hr-business-partner-senior-manager-acb-2111775-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-07-10",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00038",
    "slug": "hr-legal-admin-truyen-thong-us",
    "title": "HR & Legal Admin",
@@ -1032,5 +1526,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T09:33:55.921Z"
+ "generated_at": "2026-10-08T09:36:21.509Z"
 }
