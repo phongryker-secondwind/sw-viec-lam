@@ -1,5 +1,6 @@
 /* ==========================================================================
-   SW VIỆC LÀM · app.js · bản 03 · 08/10/2026 (CR-261008-02: lưu ý nguồn tin, ngày hết hạn, Khu vực địa điểm)
+   SW VIỆC LÀM · app.js · bản 04 · 08/10/2026 (CR-261008-03: nhãn + tiêu đề hero lấy từ CAU_HINH)
+   bản 03 · 08/10/2026 (CR-261008-02: lưu ý nguồn tin, ngày hết hạn, Khu vực địa điểm)
    bản 02 · 08/10/2026 (CR-261008-01: nút điều hướng, bộ lọc chọn nhiều, trang chi tiết, chia sẻ, lưu tin)
    Đọc data/jobs.json (do Apps Script đẩy lên) → dựng trang danh sách / chi tiết.
    - index.html  (data-page="list")
@@ -243,8 +244,8 @@
 
     app.innerHTML =
       '<section class="job-hero"><div class="sw-container">' +
-        '<p class="hero-tag">' + ico('tag') + ' Tin tuyển dụng chọn lọc</p>' +
-        '<h1 class="sw-h1 hero-title">Tìm đúng việc, ứng tuyển tại nguồn chính thức</h1>' +
+        '<p class="hero-tag">' + ico('tag') + ' ' + esc(s.hero_tag || 'Tin tuyển dụng chọn lọc') + '</p>' +
+        '<h1 class="sw-h1 hero-title">' + esc(s.hero_title || 'Tìm đúng việc, ứng tuyển tại nguồn chính thức') + '</h1>' +
         '<p class="hero-lede">' + esc(s.tagline || '') + '</p>' +
         '<form class="job-search" role="search" id="jobSearch">' +
           '<label class="job-search__field"><span class="sw-sr">Từ khóa</span>' + ico('search') +
