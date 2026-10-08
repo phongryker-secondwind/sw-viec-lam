@@ -4,7 +4,7 @@
   "name": "Tiệm Bảo bối Vận hành - Tin việc làm",
   "tagline": "Tin tuyển dụng được thu thập, chọn lọc và kiểm tra",
   "base_url": "https://phongryker-secondwind.github.io/sw-viec-lam",
-  "logo": "assets/logo.png",
+  "logo": "assets/Logo.png",
   "nav": [
    {
     "text": "Kho công cụ",
@@ -1526,5 +1526,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T09:36:21.509Z"
+ "generated_at": "2026-10-08T09:41:26.254Z"
 }
