@@ -3,7 +3,7 @@
  "site": {
   "name": "Tiệm Bảo bối Vận hành - Tin việc làm",
   "tagline": "Tin tuyển dụng được thu thập, chọn lọc và kiểm tra",
-  "base_url": "https://phongryker-secondwind.github.io/sw-viec-lam",
+  "base_url": "https://cohoi.secondwind.vn",
   "logo": "assets/Logo.png",
   "nav": [
    {
@@ -13,10 +13,6 @@
    {
     "text": "Truy cập Fanpage",
     "url": "https://www.facebook.com/humanplus.unitetogrow/"
-   },
-   {
-    "text": "Cộng đồng",
-    "url": "https://www.facebook.com/groups/baoboivanhanh"
    }
   ],
   "new_days": 7,
@@ -1526,5 +1522,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T09:41:26.254Z"
+ "generated_at": "2026-10-08T09:45:59.454Z"
 }
