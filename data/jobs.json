@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "site": {
-  "name": "Việc làm Second Wind",
-  "tagline": "Tin tuyển dụng đã được chọn lọc và kiểm tra",
+  "name": "Tiềm Bảo bối Vận hành - Tin việc làm",
+  "tagline": "Tin tuyển dụng được thu thập, chọn lọc và kiểm tra",
   "base_url": "https://phongryker-secondwind.github.io/sw-viec-lam",
   "logo": null,
   "new_days": 7,
@@ -13,7 +13,7 @@
    "email": "",
    "zalo": "",
    "fanpage": "https://www.facebook.com/humanplus.unitetogrow/",
-   "note": "Tin được tổng hợp từ các nguồn tuyển dụng công khai. Ứng viên nộp hồ sơ tại trang gốc của nhà tuyển dụng."
+   "note": "Tin được tổng hợp từ các nguồn tuyển dụng công khai\nỨng viên nộp hồ sơ tại tại các trang gốc của nhà tuyển dụng"
   }
  },
  "filters": {
@@ -1018,5 +1018,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T07:17:51.299Z"
+ "generated_at": "2026-10-08T07:31:23.938Z"
 }
