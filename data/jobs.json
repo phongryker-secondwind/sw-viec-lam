@@ -32,7 +32,7 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 64
+    "count": 66
    },
    {
     "value": "Trưởng nhóm",
@@ -40,7 +40,7 @@
    },
    {
     "value": "Trưởng BP",
-    "count": 40
+    "count": 42
    },
    {
     "value": "Giám đốc",
@@ -50,22 +50,22 @@
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 118
+    "count": 122
    }
   ],
   "industries": [],
   "salary_types": [
    {
     "value": "Có dải lương",
-    "count": 63
+    "count": 65
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 55
+    "count": 57
    }
   ]
  },
- "count": 118,
+ "count": 122,
  "jobs": [
   {
    "id": "JOB-2610-00078",
@@ -1129,6 +1129,32 @@
    "requirements": "Tối thiểu 2 năm kinh nghiệm đào tạo nội bộ ngành cơ khí kỹ thuật công nghiệp; xây dựng giáo trình đào tạo kỹ năng bán hàng kỹ thuật và đánh giá hiệu quả sau đào tạo.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-dao-tao-nhan-su-weldcom.35C89B34.html",
    "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00119",
+   "slug": "hrbp-chuyen-vien-nhan-su-chuoi-cua-hang-katinat-saigon-kafe",
+   "title": "HRBP Chuyên Viên Nhân Sự Chuỗi Cửa Hàng",
+   "company": "Công Ty Cổ Phần Katinat Saigon Kafe",
+   "website": "https://katinat.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "91 Nguyễn Du",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 18000000,
+    "text": "14 - 18 triệu"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "Từ 2 năm làm nhân sự phụ trách cụm cửa hàng F&B; điều phối tuyển dụng nhân viên pha chế, quản lý cửa hàng, giải quyết khiếu nại nhân sự và duy trì văn hóa phục vụ.",
+   "apply_url": "https://www.topcv.vn/viec-lam/hrbp-chuyen-vien-nhan-su-katinat/2324150.html",
+   "source": "topcv.vn",
    "updated": "2026-10-08",
    "expires": "2026-10-31",
    "published": "2026-10-08"
@@ -2512,6 +2538,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00048",
+   "slug": "chuyen-vien-nhan-su-tong-hop-hr-generalist-truong-quoc-te-tis",
+   "title": "Chuyên Viên Nhân Sự Tổng Hợp (HR Generalist)",
+   "company": "Trường Quốc Tế TIS",
+   "website": "https://tis.edu.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "305 Nguyễn Trọng Tuyển",
+   "ward": "Phường 10",
+   "district": "Q.Phú Nhuận",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 11000000,
+    "max": 13000000,
+    "text": "11 - 13 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Từ 3 năm kinh nghiệm nhân sự tổng hợp, ưu tiên môi trường giáo dục/trường học; tiếng Anh giao tiếp tốt để hỗ trợ thủ tục hành chính cho giáo viên nước ngoài.",
+   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-nhan-su-tong-hop-hr-generalist/2323059.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-05",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00049",
    "slug": "nhan-vien-hanh-chinh-nhan-su-quoc-te-medicare",
    "title": "Nhân Viên Hành Chính Nhân Sự",
@@ -3032,6 +3084,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00072",
+   "slug": "hr-manager-hwaseung-vina",
+   "title": "HR Manager",
+   "company": "Công Ty TNHH Hwaseung Vina",
+   "website": "https://hwaseung.com",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Văn phòng đại diện, Tầng 6, Tòa nhà Dreamplex, 195 Điện Biên Phủ",
+   "ward": "Phường 15",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "10 năm",
+   "requirements": "Tối thiểu 10 năm kinh nghiệm nhân sự ngành may mặc/giày dép quy mô từ 1.000 lao động; kinh nghiệm làm việc với các đoàn đánh giá audit khách hàng quốc tế, tiếng Anh xuất sắc.",
+   "apply_url": "https://www.vietnamworks.com/hr-manager-2104132-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-07",
+   "expires": "2026-11-08",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00073",
    "slug": "hrbp-specialist-tap-doan-dau-tu-dia-oc-no-va-novaland",
    "title": "HRBP Specialist",
@@ -3081,6 +3159,32 @@
    "source": "vietnamworks.com",
    "updated": "2026-10-07",
    "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00075",
+   "slug": "senior-hrbp-manager-tap-doan-mat-troi-sun-group",
+   "title": "Senior HRBP Manager",
+   "company": "Công Ty Cổ Phần Tập Đoàn Mặt Trời (Sun Group)",
+   "website": "https://sungroup.com.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 19, Tòa nhà Lim Tower 3, 29A Nguyễn Đình Chiểu",
+   "ward": "P.Đa Kao",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "7 năm",
+   "requirements": "Tối thiểu 7 năm kinh nghiệm quản lý HRBP trong các tập đoàn quy mô lớn đa ngành; hoạch định chiến lược phát triển nhân tài, lãnh đạo và xây dựng cơ chế lương thưởng khích lệ.",
+   "apply_url": "https://www.vietnamworks.com/phu-quoc-senior-hrbp-manager-1791190793421993042-2115823-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-07",
+   "expires": "2026-11-05",
    "published": "2026-10-08"
   },
   {
@@ -3136,5 +3240,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T10:22:23.715Z"
+ "generated_at": "2026-10-08T10:23:59.504Z"
 }
