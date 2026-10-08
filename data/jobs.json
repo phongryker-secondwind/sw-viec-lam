@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "site": {
-  "name": "Tiệm Bảo bối Vận hành - Tin việc làm",
+  "name": "Tiệm Bảo bối Vận hành - Cơ hội mới",
   "tagline": "Tin tuyển dụng các vị trí thuộc chức năng Hành chính - Quản lý Nhân sự được thu thập, chọn lọc và kiểm tra",
   "hero_tag": "Tin tuyển dụng chọn lọc",
   "hero_title": "Tìm đúng việc, ứng tuyển tại nguồn chính thức",
@@ -9,7 +9,7 @@
   "logo": "assets/Logo.png",
   "nav": [
    {
-    "text": "Kho công cụ",
+    "text": "Kho công cụ miễn phí",
     "url": "https://huongdan.secondwind.vn/"
    },
    {
@@ -4592,5 +4592,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T10:42:56.761Z"
+ "generated_at": "2026-10-08T10:51:04.627Z"
 }
