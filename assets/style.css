@@ -523,7 +523,8 @@
 
 /* ##########################################################################
    PHẦN 3 · sw-jobs.css — trang tổng hợp tin tuyển dụng (SW Việc làm)
-   Bản 01 · 08/10/2026 · dùng kèm Phần 1 + 2 ở trên
+   Bản 02 · 08/10/2026 · dùng kèm Phần 1 + 2 ở trên
+   (bản 02: nút điều hướng, bộ lọc đang chọn màu tím, chia sẻ, lưu tin)
    ########################################################################## */
 
 html { scroll-behavior: smooth; }
@@ -672,4 +673,70 @@ html { scroll-behavior: smooth; }
 }
 @media (max-width: 380px) {
   .job-facts { grid-template-columns: 1fr; }
+}
+
+/* ---------- Bản 02 · Nút điều hướng (Kho công cụ / Fanpage / Cộng đồng) ---------- */
+.job-navbtn { gap: 6px; padding: 8px 16px; box-shadow: 0 2px 8px rgba(124,77,255,.35); }
+.job-navbtn__arrow { font-size: 12px; line-height: 1; }
+.sw-nav__links { gap: var(--sw-sp-2); }
+@media (max-width: 640px) {
+  .sw-nav__inner { height: auto; min-height: 52px; padding-top: 8px; padding-bottom: 8px; flex-wrap: wrap; row-gap: 8px; }
+  .sw-nav__links { width: 100%; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+  .sw-nav__links::-webkit-scrollbar { display: none; }
+  .job-navbtn { padding: 6px 12px; font-size: var(--sw-fs-xs); box-shadow: none; flex: none; }
+}
+
+/* ---------- Bản 02 · Bộ lọc: lựa chọn đang bật tô tím ---------- */
+.job-chips .sw-badge.sw-filter.sw-badge--outline[data-active="true"],
+.job-toolbar .sw-badge.sw-filter.sw-badge--outline[data-active="true"] {
+  background: var(--sw-primary); border-color: var(--sw-primary); color: #FFFFFF;
+  box-shadow: 0 2px 8px rgba(124,77,255,.3);
+}
+.job-chips .sw-filter[data-active="true"] .side-n,
+.job-toolbar .sw-filter[data-active="true"] .side-n { background: rgba(255,255,255,.25); color: #FFFFFF; }
+.job-chips .sw-filter:hover:not([data-active="true"]) { border-color: var(--sw-primary); color: var(--sw-primary-ink); }
+/* Ô chọn Địa điểm cùng cỡ chữ với các nút lọc (máy tính) */
+.job-side .sw-select { font-size: var(--sw-fs-sm); font-weight: 600; color: var(--sw-text-2); min-height: 38px; padding: 7px 12px; border-color: var(--sw-border); border-radius: var(--sw-radius-pill); }
+@media (max-width: 860px) {
+  .job-side .sw-select { font-size: 16px; } /* giữ 16px trên điện thoại để iPhone không tự phóng to khi bấm */
+}
+.job-savedchip { font: inherit; font-size: var(--sw-fs-xs); font-weight: 600; padding: 6px 12px; gap: 6px; }
+.job-savedchip .sw-ico { width: 14px; height: 14px; }
+
+/* ---------- Bản 02 · Trang chi tiết: lưu tin, chia sẻ ---------- */
+.job-apply .sw-btn + .sw-btn { margin-top: var(--sw-sp-2); }
+.job-savebtn.is-saved { border-color: var(--sw-primary); color: var(--sw-primary-ink); background: var(--sw-primary-soft); }
+.job-savebtn.is-saved .sw-ico { fill: currentColor; }
+.job-iconbtn { padding: 10px 12px; flex: none; }
+
+.job-share { margin-top: var(--sw-sp-4); padding-top: var(--sw-sp-4); border-top: 1px solid var(--sw-border); }
+.job-share__title { margin: 0 0 var(--sw-sp-2); font-size: var(--sw-fs-xs); font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--sw-text-3); }
+.job-share__btns { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sw-sp-2); }
+.job-share__btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 40px; padding: 8px 10px; font-family: var(--sw-font); font-size: var(--sw-fs-sm); font-weight: 600; color: var(--sw-text); background: var(--sw-surface); border: 1px solid var(--sw-border-strong); border-radius: var(--sw-radius-md); cursor: pointer; transition: border-color .15s ease, background .15s ease, color .15s ease; }
+.job-share__btn:hover { border-color: var(--sw-primary); color: var(--sw-primary-ink); background: var(--sw-primary-soft); }
+.job-share__btn:focus-visible { outline: 2px solid var(--sw-primary); outline-offset: 1px; }
+.job-share__btn--facebook .sw-ico { color: #1877F2; }
+.job-share__btn--messenger .sw-ico { color: #0084FF; }
+.job-share__btn--zalo .sw-ico { color: #0068FF; }
+
+.job-sheet { position: fixed; inset: 0; z-index: 60; background: rgba(18,14,51,.45); display: flex; align-items: flex-end; }
+.job-sheet[hidden] { display: none; }
+.job-sheet__panel { width: 100%; background: var(--sw-surface); border-radius: var(--sw-radius-lg) var(--sw-radius-lg) 0 0; padding: var(--sw-sp-4) var(--sw-sp-4) calc(var(--sw-sp-4) + env(safe-area-inset-bottom)); }
+.job-sheet__panel .job-share { margin-top: 0; padding-top: 0; border-top: 0; }
+.job-sheet__panel .sw-btn { margin-top: var(--sw-sp-3); }
+.job-toast { max-width: calc(100% - 32px); text-align: center; }
+@media (max-width: 860px) {
+  .job-applybar .sw-btn--primary { padding: 10px 14px; white-space: nowrap; }
+}
+.job-share__btn:last-child:nth-child(odd) { grid-column: span 2; }
+.job-wrap .job-list, .job-wrap .job-card { min-width: 0; max-width: 100%; }
+@media (max-width: 640px) {
+  .sw-nav__links { gap: 6px; }
+  .job-navbtn { padding: 6px 10px; gap: 4px; }
+}
+@media (max-width: 420px) {
+  .job-applybar { gap: var(--sw-sp-2); padding-left: var(--sw-sp-3); padding-right: var(--sw-sp-3); }
+  .job-applybar__salary { font-size: var(--sw-fs-sm); }
+  .job-applybar .job-iconbtn { width: 40px; height: 40px; padding: 0; }
+  .job-applybar .sw-btn--primary { padding: 10px 12px; font-size: var(--sw-fs-xs); }
 }

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   SW VIỆC LÀM · app.js · bản 01 · 08/10/2026
+   SW VIỆC LÀM · app.js · bản 02 · 08/10/2026 (CR: nút điều hướng, bộ lọc chọn nhiều, trang chi tiết, chia sẻ, lưu tin)
    Đọc data/jobs.json (do Apps Script đẩy lên) → dựng trang danh sách / chi tiết.
    - index.html  (data-page="list")
    - job.html?slug=...  (data-page="job")
@@ -14,7 +14,7 @@
   var PAGE = document.body.getAttribute('data-page') || 'list';
   var app = document.getElementById('app');
 
-  var state = { q: '', levels: [], province: '', industry: '', salary: '', sort: 'new', filterOpen: false };
+  var state = { q: '', levels: [], province: '', industry: '', salaries: [], sort: 'new', filterOpen: false, savedOnly: false };
   var DATA = null;
 
   var SALARY = [
@@ -73,6 +73,27 @@
     if (n === 0) return 'Hết hạn hôm nay';
     return 'Còn ' + n + ' ngày · ' + fmtD(j.expires);
   }
+  /* Trang chi tiết: chỉ hiện số ngày còn lại, không hiện ngày cụ thể (CR mục 3) */
+  function countdown(j) {
+    var n = daysLeft(j.expires);
+    if (n == null) return 'Không ghi hạn nộp';
+    if (n === 0) return 'Hết hạn hôm nay';
+    return 'Còn ' + n + ' ngày';
+  }
+
+  /* Lưu tin: lưu trong trình duyệt của ứng viên (localStorage), không cần đăng nhập */
+  var SAVE_KEY = 'sw_viec_lam_saved';
+  function getSaved() {
+    try { var a = JSON.parse(localStorage.getItem(SAVE_KEY) || '[]'); return Array.isArray(a) ? a : []; } catch (e) { return []; }
+  }
+  function isSaved(slug) { return getSaved().indexOf(slug) >= 0; }
+  function toggleSaved(slug) {
+    var a = getSaved(), i = a.indexOf(slug);
+    if (i >= 0) a.splice(i, 1); else a.unshift(slug);
+    try { localStorage.setItem(SAVE_KEY, JSON.stringify(a.slice(0, 200))); } catch (e) { /* trình duyệt chặn lưu */ }
+    return i < 0;
+  }
+  function isMobile() { return /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || (window.matchMedia && matchMedia('(pointer: coarse)').matches); }
 
   /* Bộ biểu tượng (stroke = currentColor) */
   var ICONS = {
@@ -93,7 +114,11 @@
     source: '<path d="M4 4h16v16H4z"/><path d="M4 9h16M9 9v11"/>',
     phone: '<path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/>',
     mail: '<rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 6-10 7L2 6"/>',
-    chat: '<path d="M21 12a8 8 0 0 1-11.6 7.1L3 21l1.9-6.4A8 8 0 1 1 21 12z"/>'
+    chat: '<path d="M21 12a8 8 0 0 1-11.6 7.1L3 21l1.9-6.4A8 8 0 1 1 21 12z"/>',
+    bookmark: '<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>',
+    link: '<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>',
+    fb: '<path d="M15 3h-2.5A4.5 4.5 0 0 0 8 7.5V10H5.5v4H8v7h4v-7h3l1-4h-4V7.5a.5.5 0 0 1 .5-.5H15z"/>',
+    messenger: '<path d="M12 3C7 3 3 6.7 3 11.3c0 2.6 1.3 4.9 3.3 6.4V21l3-1.7c.9.3 1.8.4 2.7.4 5 0 9-3.7 9-8.4S17 3 12 3z"/><path d="m7.5 13.5 3-3.2 2 2 3.5-2.8-3 3.2-2-2z"/>'
   };
   function ico(name, cls) {
     return '<svg class="sw-ico ' + (cls || '') + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + (ICONS[name] || '') + '</svg>';
@@ -134,10 +159,7 @@
         '<a class="sw-nav__brand" href="' + homeUrl() + '">' +
         (s.logo ? '<img class="sw-nav__logo" src="' + esc(s.logo) + '" alt="">' : '') +
         '<span class="sw-nav__name">' + esc(s.name || 'Việc làm') + '</span></a>' +
-        '<nav class="sw-nav__links">' +
-        '<a class="sw-nav__btn sw-nav__btn--ghost" href="' + homeUrl() + '">Việc làm</a>' +
-        (f.zalo ? '<a class="sw-nav__btn sw-nav__btn--primary" href="' + esc(f.zalo) + '" target="_blank" rel="noopener">Nhận tin qua Zalo</a>' : '') +
-        '</nav></div>';
+        '<nav class="sw-nav__links" aria-label="Liên kết">' + navButtons(s) + '</nav></div>';
     }
     var foot = document.getElementById('swFoot');
     if (foot) {
@@ -161,6 +183,19 @@
     function link(u, i, t) { return '<a class="sw-foot__link" href="' + esc(u) + '" target="_blank" rel="noopener"><span class="sw-foot__icon">' + ico(i) + '</span>' + esc(t) + '</a>'; }
   }
 
+  /* Nút điều hướng: lấy từ site.nav (CAU_HINH: NAV_TOOLS_*, FOOTER_FANPAGE, NAV_COMMUNITY_*) */
+  function navButtons(s) {
+    var list = s.nav;
+    if (!Array.isArray(list)) { // dữ liệu cũ chưa có site.nav
+      var f = s.footer || {};
+      list = f.fanpage ? [{ text: 'Truy cập Fanpage', url: f.fanpage }] : [];
+    }
+    return list.filter(function (b) { return b && /^https?:\/\//i.test(b.url || ''); }).map(function (b) {
+      return '<a class="sw-nav__btn sw-nav__btn--primary job-navbtn" href="' + esc(b.url) + '" target="_blank" rel="noopener">' +
+        esc(b.text) + ' <span class="job-navbtn__arrow" aria-hidden="true">↗</span></a>';
+    }).join('');
+  }
+
   /* ===================== Trang danh sách ===================== */
 
   function readQuery() {
@@ -170,7 +205,7 @@
     state.levels = (p.get('cap') || '').split(',').filter(Boolean);
     state.province = p.get('tinh') || '';
     state.industry = p.get('nganh') || '';
-    state.salary = p.get('luong') || '';
+    state.salaries = (p.get('luong') || '').split(',').filter(Boolean);
     state.sort = p.get('sx') || 'new';
   }
   function writeQuery() {
@@ -180,7 +215,7 @@
     if (state.levels.length) p.set('cap', state.levels.join(','));
     if (state.province) p.set('tinh', state.province);
     if (state.industry) p.set('nganh', state.industry);
-    if (state.salary) p.set('luong', state.salary);
+    if (state.salaries.length) p.set('luong', state.salaries.join(','));
     if (state.sort !== 'new') p.set('sx', state.sort);
     var qs = p.toString();
     history.replaceState(null, '', qs ? '?' + qs : location.pathname);
@@ -202,7 +237,7 @@
       }).join('');
     };
     var salaryChips = SALARY.slice(1).map(function (b) {
-      return '<button type="button" class="sw-badge sw-filter sw-badge--outline" data-salary="' + b.v + '" data-active="' + (state.salary === b.v) + '">' + b.l + '</button>';
+      return '<button type="button" class="sw-badge sw-filter sw-badge--outline" data-salary="' + b.v + '" data-active="' + (state.salaries.indexOf(b.v) >= 0) + '">' + b.l + '</button>';
     }).join('');
 
     app.innerHTML =
@@ -232,6 +267,7 @@
             '<p class="job-toolbar__count" id="jobCount"></p>' +
             '<div class="job-toolbar__right">' +
               '<button type="button" class="sw-btn sw-btn--secondary sw-btn--sm job-filter-toggle" id="fToggle" aria-controls="jobSide" aria-expanded="' + state.filterOpen + '">' + ico('filter') + ' Bộ lọc<span id="fN"></span></button>' +
+              (getSaved().length ? '<button type="button" class="sw-badge sw-filter sw-badge--outline job-savedchip" id="fSaved" data-active="' + state.savedOnly + '">' + ico('bookmark') + ' Tin đã lưu <span class="side-n">' + getSaved().length + '</span></button>' : '') +
               '<label class="sw-sr" for="fSort">Sắp xếp</label>' +
               '<select class="sw-select" id="fSort">' +
                 '<option value="new"' + (state.sort === 'new' ? ' selected' : '') + '>Mới cập nhật</option>' +
@@ -265,11 +301,17 @@
     });
     app.querySelectorAll('[data-salary]').forEach(function (b) {
       b.addEventListener('click', function () {
-        var v = b.getAttribute('data-salary');
-        state.salary = state.salary === v ? '' : v;
-        app.querySelectorAll('[data-salary]').forEach(function (x) { x.setAttribute('data-active', x.getAttribute('data-salary') === state.salary); });
+        var v = b.getAttribute('data-salary'), i = state.salaries.indexOf(v);
+        if (i >= 0) state.salaries.splice(i, 1); else state.salaries.push(v);
+        b.setAttribute('data-active', i < 0);
         applyFilters();
       });
+    });
+    var sv = document.getElementById('fSaved');
+    if (sv) sv.addEventListener('click', function () {
+      state.savedOnly = !state.savedOnly;
+      sv.setAttribute('data-active', state.savedOnly);
+      applyFilters();
     });
     var prov = document.getElementById('fProv');
     prov.addEventListener('change', function () { state.province = prov.value; applyFilters(); });
@@ -287,10 +329,15 @@
   }
 
   function resetFilters() {
-    state.q = ''; state.levels = []; state.province = ''; state.industry = ''; state.salary = '';
+    state.q = ''; state.levels = []; state.province = ''; state.industry = ''; state.salaries = []; state.savedOnly = false;
     renderList();
   }
 
+  /* Mức lương chọn nhiều: tin khớp ít nhất 1 khoảng đã chọn */
+  function salaryMatchAny(j, list) {
+    if (!list.length) return true;
+    return list.some(function (v) { return salaryMatch(j, v); });
+  }
   function salaryMatch(j, v) {
     if (!v) return true;
     var s = j.salary || {};
@@ -303,13 +350,14 @@
   }
 
   function filtered() {
-    var terms = norm(state.q).split(/\s+/).filter(Boolean);
+    var terms = norm(state.q).split(/\s+/).filter(Boolean), saved = getSaved();
     var out = DATA.jobs.filter(function (j) {
       if (terms.length && !terms.every(function (t) { return j._hay.indexOf(t) >= 0; })) return false;
       if (state.levels.length && state.levels.indexOf(j.level) < 0) return false;
       if (state.province && j.province !== state.province) return false;
       if (state.industry && j.industry !== state.industry) return false;
-      return salaryMatch(j, state.salary);
+      if (state.savedOnly && saved.indexOf(j.slug) < 0) return false;
+      return salaryMatchAny(j, state.salaries);
     });
     var key = {
       new: function (a, b) { return String(b.updated || b.published).localeCompare(String(a.updated || a.published)); },
@@ -321,7 +369,7 @@
 
   function applyFilters() {
     var list = filtered();
-    var n = state.levels.length + (state.province ? 1 : 0) + (state.industry ? 1 : 0) + (state.salary ? 1 : 0);
+    var n = state.levels.length + (state.province ? 1 : 0) + (state.industry ? 1 : 0) + state.salaries.length;
     document.getElementById('fN').textContent = n ? ' (' + n + ')' : '';
     document.getElementById('jobCount').innerHTML = 'Tìm thấy <b>' + list.length + '</b> việc làm' + (state.q ? ' cho “' + esc(state.q) + '”' : '');
     document.getElementById('jobList').innerHTML = list.length ? list.map(card).join('') :
@@ -389,7 +437,11 @@
       (isNew(j) ? '<span class="sw-badge sw-badge--new">Mới</span>' : '') +
       (isUrgent(j) ? '<span class="sw-badge sw-badge--hot">Sắp hết hạn</span>' : '');
 
-    var applyBtn = '<a class="sw-btn sw-btn--primary sw-btn--lg sw-btn--block" href="' + esc(j.apply_url) + '" target="_blank" rel="noopener nofollow">Ứng tuyển ngay ' + ico('ext') + '</a>';
+    var ctaText = 'Xem thông tin chi tiết';
+    var applyBtn = '<a class="sw-btn sw-btn--primary sw-btn--lg sw-btn--block" href="' + esc(j.apply_url) + '" target="_blank" rel="noopener nofollow">' + ctaText + ' ' + ico('ext') + '</a>';
+    var dl = daysLeft(j.expires);
+    var dlHtml = dl == null ? 'Không ghi hạn nộp' : (dl === 0 ? '<b>Hết hạn hôm nay</b>' : 'Còn <b>' + dl + '</b> ngày nhận hồ sơ');
+    var saved = isSaved(j.slug);
 
     var related = DATA.jobs.filter(function (x) { return x.slug !== j.slug && (x.level === j.level || x.province === j.province); }).slice(0, 3);
 
@@ -408,17 +460,17 @@
             fact('level', 'Cấp bậc', j.level) +
             fact('exp', 'Kinh nghiệm', j.exp_years || 'Không yêu cầu') +
             fact('pin', 'Nơi làm việc', location_(j) || j.province) +
-            fact('cal', 'Hạn nộp hồ sơ', j.expires ? fmtD(j.expires) : 'Không ghi hạn') +
+            fact('cal', 'Thời hạn nhận hồ sơ', countdown(j)) +
             fact('clock', 'Ngày cập nhật', fmtD(j.updated || j.published)) +
           '</div>' +
-
-          (j.requirements ? '<section class="job-section"><h2>Yêu cầu công việc</h2>' + textBlocks(j.requirements) + '</section>' : '') +
 
           '<section class="job-section"><h2>Thông tin nhà tuyển dụng</h2><div class="job-co">' +
             '<p class="job-co__row">' + ico('building') + '<span>' + esc(j.company) + '</span></p>' +
             '<p class="job-co__row">' + ico('pin') + '<span>' + esc(location_(j, true)) + '</span></p>' +
             (j.website ? '<p class="job-co__row">' + ico('globe') + '<a href="' + esc(j.website) + '" target="_blank" rel="noopener nofollow">' + esc(j.website.replace(/^https?:\/\//, '')) + '</a></p>' : '') +
           '</div></section>' +
+
+          (j.requirements ? '<section class="job-section"><h2>Yêu cầu công việc</h2>' + textBlocks(j.requirements) + '</section>' : '') +
 
           '<div class="sw-note">Tin được tổng hợp từ <b>' + esc(src) + '</b>. Mô tả công việc, quyền lợi và cách nộp hồ sơ đầy đủ xem tại trang gốc. Không nộp phí dưới bất kỳ hình thức nào khi ứng tuyển.</div>' +
 
@@ -428,37 +480,115 @@
 
         '<aside class="job-apply--side"><div class="sw-card job-apply">' +
           '<p class="job-apply__label">Mức lương</p><p class="job-apply__salary">' + esc(j.salary.text) + '</p>' +
-          '<p class="job-apply__dl">' + ico('cal') + '<span>' + (j.expires ? 'Hạn nộp <b>' + fmtD(j.expires) + '</b>' + (daysLeft(j.expires) != null ? ' · còn ' + daysLeft(j.expires) + ' ngày' : '') : 'Không ghi hạn nộp') + '</span></p>' +
+          '<p class="job-apply__dl">' + ico('cal') + '<span>' + dlHtml + '</span></p>' +
           applyBtn +
-          '<button type="button" class="sw-btn sw-btn--secondary sw-btn--block" data-share>' + ico('share') + ' Chia sẻ tin này</button>' +
-          '<p class="job-apply__note">Bạn sẽ được chuyển sang ' + esc(src) + ' để nộp hồ sơ.</p>' +
+          saveBtn(saved, false) +
+          '<p class="job-apply__note">Mở tin gốc tại ' + esc(src) + ' để xem đầy đủ mô tả, quyền lợi và nộp hồ sơ.</p>' +
+          shareBlock() +
         '</div></aside>' +
       '</div>' +
 
-      '<div class="job-applybar" role="region" aria-label="Ứng tuyển">' +
-        '<div class="job-applybar__info"><p class="job-applybar__salary">' + esc(j.salary.text) + '</p><p class="job-applybar__dl">' + esc(deadlineText(j)) + '</p></div>' +
-        '<button type="button" class="sw-btn sw-btn--secondary" data-share aria-label="Chia sẻ">' + ico('share') + '</button>' +
-        '<a class="sw-btn sw-btn--primary" href="' + esc(j.apply_url) + '" target="_blank" rel="noopener nofollow">Ứng tuyển ngay</a>' +
+      '<div class="job-applybar" role="region" aria-label="Xem tin gốc">' +
+        '<div class="job-applybar__info"><p class="job-applybar__salary">' + esc(j.salary.text) + '</p><p class="job-applybar__dl">' + esc(countdown(j)) + '</p></div>' +
+        saveBtn(saved, true) +
+        '<button type="button" class="sw-btn sw-btn--secondary job-iconbtn" data-share-open aria-label="Chia sẻ tin này">' + ico('share') + '</button>' +
+        '<a class="sw-btn sw-btn--primary" href="' + esc(j.apply_url) + '" target="_blank" rel="noopener nofollow">' + ctaText + '</a>' +
       '</div>' +
-      '<div class="job-toast" id="toast">Đã sao chép link</div>';
+      '<div class="job-sheet" id="shareSheet" hidden><div class="job-sheet__panel" role="dialog" aria-label="Chia sẻ tin này">' + shareBlock() +
+        '<button type="button" class="sw-btn sw-btn--ghost sw-btn--block" data-sheet-close>Đóng</button></div></div>' +
+      '<div class="job-toast" id="toast" role="status"></div>';
 
     document.body.classList.add('has-applybar');
-    app.querySelectorAll('[data-share]').forEach(function (b) {
-      b.addEventListener('click', function () { share(j); });
+
+    app.querySelectorAll('[data-share-to]').forEach(function (b) {
+      b.addEventListener('click', function () { shareTo(b.getAttribute('data-share-to'), j); });
+    });
+    app.querySelectorAll('[data-share-open]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        if (navigator.share && isMobile()) {
+          navigator.share({ title: j.title, text: j.title + ' — ' + shortCompany(j.company), url: location.href }).catch(function () {});
+        } else {
+          document.getElementById('shareSheet').hidden = false;
+        }
+      });
+    });
+    var sheet = document.getElementById('shareSheet');
+    sheet.addEventListener('click', function (e) {
+      if (e.target === sheet || e.target.hasAttribute('data-sheet-close')) sheet.hidden = true;
+    });
+    app.querySelectorAll('[data-save]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var on = toggleSaved(j.slug);
+        app.querySelectorAll('[data-save]').forEach(function (x) { paintSave(x, on); });
+        toast(on ? 'Đã lưu tin. Xem lại ở mục "Tin đã lưu" trên trang chủ.' : 'Đã bỏ lưu tin.');
+      });
     });
   }
 
-  function share(j) {
-    var url = location.href;
-    if (navigator.share) {
-      navigator.share({ title: j.title, text: j.title + ' — ' + j.company, url: url }).catch(function () {});
-      return;
-    }
-    var done = function () {
-      var t = document.getElementById('toast');
-      t.classList.add('is-on'); setTimeout(function () { t.classList.remove('is-on'); }, 1800);
+  /* ----- Lưu tin ----- */
+  function saveBtn(on, icon) {
+    return '<button type="button" class="sw-btn sw-btn--secondary ' + (icon ? 'job-iconbtn' : 'sw-btn--block') + ' job-savebtn' + (on ? ' is-saved' : '') +
+      '" data-save data-icon="' + (icon ? 1 : 0) + '" aria-pressed="' + on + '" aria-label="' + (on ? 'Đã lưu tin' : 'Lưu tin này') + '">' +
+      ico('bookmark') + (icon ? '' : '<span>' + (on ? 'Đã lưu tin' : 'Lưu tin này') + '</span>') + '</button>';
+  }
+  function paintSave(b, on) {
+    b.classList.toggle('is-saved', on);
+    b.setAttribute('aria-pressed', on);
+    b.setAttribute('aria-label', on ? 'Đã lưu tin' : 'Lưu tin này');
+    var sp = b.querySelector('span');
+    if (sp) sp.textContent = on ? 'Đã lưu tin' : 'Lưu tin này';
+  }
+
+  /* ----- Chia sẻ: Facebook, Messenger (điện thoại), Zalo, sao chép link ----- */
+  function shareBlock() {
+    var btn = function (key, icon, label) {
+      return '<button type="button" class="job-share__btn job-share__btn--' + key + '" data-share-to="' + key + '">' + ico(icon) + '<span>' + label + '</span></button>';
     };
-    if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, done); else done();
+    return '<div class="job-share"><p class="job-share__title">Chia sẻ tin này</p><div class="job-share__btns">' +
+      btn('facebook', 'fb', 'Facebook') +
+      (isMobile() ? btn('messenger', 'messenger', 'Messenger') : '') +
+      btn('zalo', 'chat', 'Zalo') +
+      btn('copy', 'link', 'Sao chép link') +
+      '</div></div>';
+  }
+
+  function shareTo(key, j) {
+    var url = location.href, enc = encodeURIComponent(url);
+    var text = j.title + ' — ' + shortCompany(j.company);
+    if (key === 'facebook') {
+      window.open('https://www.facebook.com/sharer/sharer.php?u=' + enc, '_blank', 'noopener,width=640,height=560');
+    } else if (key === 'messenger') {
+      location.href = 'fb-messenger://share/?link=' + enc;
+    } else if (key === 'zalo') {
+      if (navigator.share && isMobile()) {
+        navigator.share({ title: j.title, text: text, url: url }).catch(function () {});
+      } else {
+        copyLink(url, 'Đã sao chép link. Mở Zalo và dán vào tin nhắn để gửi.');
+      }
+    } else {
+      copyLink(url, 'Đã sao chép link tin tuyển dụng.');
+    }
+  }
+
+  function copyLink(url, msg) {
+    var done = function () { toast(msg); };
+    var fallback = function () {
+      var ta = document.createElement('textarea');
+      ta.value = url; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); } catch (e) { /* bỏ qua */ }
+      document.body.removeChild(ta); done();
+    };
+    if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(url).then(done, fallback); else fallback();
+  }
+
+  function toast(msg) {
+    var t = document.getElementById('toast');
+    if (!t) return;
+    t.textContent = msg;
+    t.classList.add('is-on');
+    clearTimeout(toast._t);
+    toast._t = setTimeout(function () { t.classList.remove('is-on'); }, 2600);
   }
 
   function setMeta(name, content) {
