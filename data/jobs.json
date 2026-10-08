@@ -32,7 +32,7 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 66
+    "count": 68
    },
    {
     "value": "Trưởng nhóm",
@@ -40,7 +40,7 @@
    },
    {
     "value": "Trưởng BP",
-    "count": 42
+    "count": 43
    },
    {
     "value": "Giám đốc",
@@ -50,7 +50,7 @@
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 122
+    "count": 125
    }
   ],
   "industries": [],
@@ -61,11 +61,11 @@
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 57
+    "count": 60
    }
   ]
  },
- "count": 122,
+ "count": 125,
  "jobs": [
   {
    "id": "JOB-2610-00078",
@@ -2772,6 +2772,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00057",
+   "slug": "hr-manager-hcm-alliex-viet-nam",
+   "title": "HR Manager (HCM)",
+   "company": "Công Ty Cổ Phần Alliex Việt Nam",
+   "website": "https://alliex.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 10, Tòa nhà Lim Tower, 9-11 Tôn Đức Thắng",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm HR Manager lĩnh vực Fintech/thanh toán; tiếng Anh thành thạo, có năng lực xây dựng khung đánh giá KPI/OKR và hoạch định cơ cấu tổ chức.",
+   "apply_url": "https://www.vietnamworks.com/tuyen-gap-hr-manager-hcm-1791355339614132166-2078951-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-07",
+   "expires": "2026-11-06",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00058",
    "slug": "hr-system-reporting-specialist-tai-chinh-tnhh-mb-shinsei-fe-credit",
    "title": "HR System & Reporting Specialist",
@@ -2795,6 +2821,32 @@
    "source": "vietnamworks.com",
    "updated": "2026-10-07",
    "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00059",
+   "slug": "chuyen-vien-nhan-su-tong-hop-hr-specialist-thuong-mai-dich-vu-ky-thuat-minh-khang",
+   "title": "Chuyên Viên Nhân Sự Tổng Hợp (HR Specialist)",
+   "company": "Công Ty TNHH Thương Mại Dịch Vụ Kỹ Thuật Minh Khang",
+   "website": "https://minhkhang.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Số 27 Đường số 11, KDC Him Lam",
+   "ward": "P.Tân Hưng",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "2 - 3 năm kinh nghiệm trong công tác HR tổng hợp, tuyển dụng kỹ thuật, chấm công, tính lương và xây dựng chính sách gắn kết nhân sự trong công ty thương mại dịch vụ.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-nhan-su-tong-hop-hr-specialist-1791279701375717156-2116367-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-07",
+   "expires": "2026-11-06",
    "published": "2026-10-08"
   },
   {
@@ -3058,6 +3110,32 @@
    "published": "2026-10-08"
   },
   {
+   "id": "JOB-2610-00070",
+   "slug": "chuyen-vien-quan-he-lao-dong-senior-employee-relations-specialist-sua-viet-nam-vinamilk",
+   "title": "Chuyên Viên Quan Hệ Lao Động (Senior Employee Relations Specialist)",
+   "company": "Công Ty Cổ Phần Sữa Việt Nam (Vinamilk)",
+   "website": "https://vinamilk.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà Vinamilk, 10 Tân Trào",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "4 - 6 năm",
+   "requirements": "Tối thiểu 4 năm kinh nghiệm chuyên sâu về quan hệ lao động, kỷ luật lao động, đối thoại định kỳ và tuân thủ pháp luật lao động trong doanh nghiệp sản xuất quy mô lớn.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-quan-he-lao-dong-vinamilk-2112845-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-07",
+   "expires": "2026-11-05",
+   "published": "2026-10-08"
+  },
+  {
    "id": "JOB-2610-00071",
    "slug": "compensation-benefits-c-b-officer-ila-vietnam",
    "title": "Compensation & Benefits (C&B) Officer",
@@ -3240,5 +3318,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T10:23:59.504Z"
+ "generated_at": "2026-10-08T10:25:13.224Z"
 }
