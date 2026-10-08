@@ -30,15 +30,15 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 20
+    "count": 35
    },
    {
     "value": "Trưởng nhóm",
-    "count": 5
+    "count": 9
    },
    {
     "value": "Trưởng BP",
-    "count": 29
+    "count": 37
    },
    {
     "value": "Giám đốc",
@@ -48,22 +48,22 @@
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 56
+    "count": 83
    }
   ],
   "industries": [],
   "salary_types": [
    {
     "value": "Có dải lương",
-    "count": 28
+    "count": 45
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 28
+    "count": 38
    }
   ]
  },
- "count": 56,
+ "count": 83,
  "jobs": [
   {
    "id": "JOB-2610-00078",
@@ -87,7 +87,7 @@
    "requirements": "Tối thiểu 3 năm kinh nghiệm HRBP trong ngành công nghệ phần mềm, công nghệ thông tin hoặc game; tiếng Anh thành thạo, có năng lực đánh giá năng suất lao động và văn hóa đội ngũ kỹ thuật.",
    "apply_url": "https://www.vietnamworks.com/hrbp-specialist-game-studio-vng-2117201-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -113,8 +113,60 @@
    "requirements": "Ít nhất 3 năm kinh nghiệm tuyển dụng mass cho chuỗi F&B hoặc bán lẻ; quản lý chỉ số tuyển dụng, nguồn cung ứng viên bán thời gian và điều phối lịch phỏng vấn tập trung.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-nhom-tuyen-dung-khoi-van-hanh-highlands.35C89E10.html",
    "source": "careerviet.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00080",
+   "slug": "total-rewards-specialist-c-b-dich-vu-di-dong-truc-tuyen-vi-momo",
+   "title": "Total Rewards Specialist (C&B)",
+   "company": "Công Ty Cổ Phần Dịch Vụ Di Động Trực Tuyến (Ví MoMo)",
+   "website": "https://momo.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng M-4-5, Tòa nhà Phú Mỹ Hưng, 8 Tân Trào",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm trong mảng Total Rewards, xây dựng khung lương ngạch bậc theo phương pháp Mercer/Hay Group, khảo sát thị trường và thiết kế phúc lợi cạnh tranh ngành Fintech.",
+   "apply_url": "https://www.vietnamworks.com/total-rewards-specialist-momo-2117205-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-05",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00081",
+   "slug": "truong-bo-phan-dao-tao-phat-trien-nguon-nhan-luc-dau-tu-the-gioi-di-dong-mwg",
+   "title": "Trưởng Bộ Phận Đào Tạo & Phát Triển Nguồn Nhân Lực",
+   "company": "Công Ty Cổ Phần Đầu Tư Thế Giới Di Động (MWG)",
+   "website": "https://mwg.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tòa nhà MWG, Lô T2-1.2, Đường D1, KCNC",
+   "ward": "P.Tân Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 35000000,
+    "max": 50000000,
+    "text": "35 - 50 triệu"
+   },
+   "exp_years": "5 - 7 năm",
+   "requirements": "Có từ 5 năm kinh nghiệm quản lý mảng L&D chuỗi bán lẻ quy mô trên 10.000 nhân sự; số hóa quy trình đào tạo E-learning, xây dựng lộ trình thăng tiến nhân sự chủ chốt.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-bo-phan-dao-tao-phat-trien-mwg/2324101.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-11-02",
    "published": "2026-10-08"
   },
   {
@@ -139,7 +191,7 @@
    "requirements": "Từ 2 năm kinh nghiệm nhân sự đối tác kinh doanh ngành đồ uống, ẩm thực F&B; trực tiếp phụ trách các cửa hàng khu vực nội thành TP.HCM, giải quyết quan hệ lao động và gắn kết nhân viên.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/hrbp-chuyen-vien-nhan-su-vung-phuc-long.35C89E15.html",
    "source": "careerviet.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -165,7 +217,7 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý hành chính doanh nghiệp quy mô lớn; quản lý tài sản, trang thiết bị văn phòng, thủ tục hành chính pháp lý và điều hành đội xe, bảo vệ chi nhánh miền Nam.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-tong-hop-golden-gate/2324105.html",
    "source": "topcv.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -191,7 +243,7 @@
    "requirements": "Ít nhất 3 năm kinh nghiệm quản lý nhân sự kho vận/logistics quy mô hàng trăm tài xế, nhân viên giao hàng; am hiểu luật lao động, giải quyết tranh chấp và kiểm soát định biên nhân sự kho.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-nhom-nhan-su-kho-bai-ghtk/2324109.html",
    "source": "topcv.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-29",
    "published": "2026-10-08"
   },
@@ -217,8 +269,86 @@
    "requirements": "Có từ 2 năm kinh nghiệm săn đầu người/tuyển dụng lập trình viên, kỹ sư dữ liệu, Product Manager ngành công nghệ hoặc Logistics Tech; networking rộng và kỹ năng thương lượng offer tốt.",
    "apply_url": "https://www.vietnamworks.com/tech-recruiter-ghn-logistics-2117210-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00086",
+   "slug": "senior-c-b-specialist-chuyen-vien-luong-thuong-phuc-loi-duoc-pham-pharmacity",
+   "title": "Senior C&B Specialist (Chuyên Viên Lương Thưởng Phúc Lợi)",
+   "company": "Công Ty Cổ Phần Dược Phẩm Pharmacity",
+   "website": "https://pharmacity.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "248A Nơ Trang Long",
+   "ward": "Phường 12",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 22000000,
+    "text": "16 - 22 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Từ 3 năm kinh nghiệm tính toán chi chi trả lương thưởng, bảo hiểm y tế, giảm trừ gia cảnh thuế TNCN cho chuỗi nhà thuốc hoặc bán lẻ quy mô trên 2.000 nhân viên; thành thạo phần mềm HRM.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/senior-cb-specialist-pharmacity.35C89E20.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-11-15",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00087",
+   "slug": "truong-phong-tuyen-dung-phat-trien-van-hoa-doanh-nghiep-con-cung",
+   "title": "Trưởng Phòng Tuyển Dụng & Phát Triển Văn Hóa Doanh Nghiệp",
+   "company": "Công Ty Cổ Phần Con Cưng",
+   "website": "https://concung.com",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 14, Tòa nhà Phú Mỹ Hưng Tower, 8 Hoàng Văn Thái",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 30000000,
+    "max": 45000000,
+    "text": "30 - 45 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Ít nhất 5 năm kinh nghiệm quản lý mảng Talent Acquisition và Employer Branding chuỗi bán lẻ mẹ và bé; khả năng thu hút nhân tài cấp quản lý và tổ chức các chiến dịch gắn kết nội bộ.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-tuyen-dung-van-hoa-con-cung/2324115.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-11-03",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00088",
+   "slug": "truong-ban-to-chuc-nhan-su-du-an-tap-doan-xay-dung-hoa-binh",
+   "title": "Trưởng Ban Tổ Chức Nhân Sự Dự Án",
+   "company": "Công Ty Cổ Phần Tập Đoàn Xây Dựng Hòa Bình",
+   "website": "https://hbcg.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tòa nhà Pax Sky, 123 Nguyễn Đình Chiểu",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "7 năm",
+   "requirements": "Tối thiểu 7 năm kinh nghiệm quản lý nhân sự công trường xây dựng, điều phối kỹ sư, ban chỉ huy công trường; am hiểu chính sách an toàn lao động, hợp đồng lao động thời vụ và quan hệ lao động.",
+   "apply_url": "https://www.vietnamworks.com/truong-ban-to-chuc-nhan-su-du-an-hoa-binh-2117215-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-06",
    "published": "2026-10-08"
   },
   {
@@ -243,7 +373,7 @@
    "requirements": "Từ 3 năm kinh nghiệm xây dựng khung năng lực, kế hoạch kế thừa (Succession Planning) và đào tạo lãnh đạo trẻ (Management Trainee); tiếng Anh xuất sắc, có tư duy phát triển tổ chức.",
    "apply_url": "https://www.vietnamworks.com/talent-development-specialist-coteccons-2117218-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -269,8 +399,34 @@
    "requirements": "Tối thiểu 10 năm kinh nghiệm nhân sự, trong đó có ít nhất 3 năm cấp Giám đốc nhân sự tại các tập đoàn bất động sản lớn; am hiểu cơ chế lương hoa hồng môi giới, hoạch định cơ cấu tổ chức đa chi nhánh.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/giam-doc-nhan-su-khoi-bds-dat-xanh.35C89E25.html",
    "source": "careerviet.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-11",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00091",
+   "slug": "truong-phong-nhan-su-chinh-sach-dai-ngo-dau-tu-nam-long",
+   "title": "Trưởng Phòng Nhân Sự & Chính Sách Đãi Ngộ",
+   "company": "Công Ty Cổ Phần Đầu Tư Nam Long",
+   "website": "https://namlongvn.com",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Số 6 Nguyễn Khắc Viện",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Trên 5 năm kinh nghiệm quản lý C&B và chính sách nhân sự tập đoàn; xây dựng hệ thống đãi ngộ tổng thể, theo dõi biến động quỹ lương và báo cáo phân tích chi phí nhân sự cho HĐQT.",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-chinh-sach-nam-long/2324120.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-11-02",
    "published": "2026-10-08"
   },
   {
@@ -295,7 +451,7 @@
    "requirements": "Từ 3 năm kinh nghiệm tuyển dụng chuyên viên kinh doanh bất động sản dự án; quản lý đội ngũ tuyển dụng 5 thành viên, thiết lập chiến dịch ngày hội tuyển dụng và mở rộng nguồn ứng viên.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-chinh-sach-nam-long/2324120.html",
    "source": "topcv.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -321,7 +477,59 @@
    "requirements": "2 năm kinh nghiệm nhân sự tổng hợp nhà máy sản xuất thép, vật liệu xây dựng; theo dõi ca kíp sản xuất, chấm công, giám sát kỷ luật lao động và thực hiện thủ tục bảo hiểm xã hội.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-nhan-su-hoa-sen-group.35C89E30.html",
    "source": "careerviet.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00094",
+   "slug": "sales-hrbp-specialist-nuoc-giai-khat-suntory-pepsico-viet-nam",
+   "title": "Sales HRBP Specialist",
+   "company": "Công Ty TNHH Nước Giải Khát Suntory PepsiCo Việt Nam",
+   "website": "https://suntorypepsico.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 5, Tòa nhà Sheraton, 88 Đồng Khởi",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm làm HRBP cho khối bán hàng FMCG; phối hợp với Giám đốc kinh doanh vùng tối ưu hóa năng suất bán hàng, quản trị biến động nhân sự và tuyển dụng giám sát bán hàng.",
+   "apply_url": "https://www.vietnamworks.com/sales-hrbp-specialist-pepsico-2117222-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00095",
+   "slug": "truong-bo-phan-quan-he-lao-dong-phuc-loi-acecook-viet-nam",
+   "title": "Trưởng Bộ Phận Quan Hệ Lao Động & Phúc Lợi",
+   "company": "Công Ty Cổ Phần Acecook Việt Nam",
+   "website": "https://acecookvietnam.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Lô II-3, Đường số 11, KCN Tân Bình",
+   "ward": "P.Tây Thạnh",
+   "district": "Q.Tân Phú",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Trên 5 năm kinh nghiệm quản lý quan hệ lao động doanh nghiệp Nhật Bản; chủ trì hội nghị người lao động, đối thoại định kỳ với công đoàn cơ sở và thiết kế chính sách phúc lợi bền vững.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-bo-phan-quan-he-lao-dong-acecook.35C89E35.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -347,7 +555,7 @@
    "requirements": "Từ 3 năm kinh nghiệm chuyên môn về Employee Experience, khảo sát mức độ hài lòng của nhân viên và tổ chức các chương trình DEI (Đa dạng, Bình đẳng, Hòa nhập) trong công ty đa quốc gia.",
    "apply_url": "https://www.vietnamworks.com/people-experience-specialist-mondelez-2117225-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -373,7 +581,7 @@
    "requirements": "2 năm kinh nghiệm nhân sự ngành dịch vụ giải trí, rạp chiếu phim hoặc khách sạn; phụ trách tuyển dụng quản lý cụm rạp, nhân viên dịch vụ và hướng dẫn quy trình vận hành nhân sự.",
    "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-tuyen-dung-nhan-su-cgv/2324130.html",
    "source": "topcv.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -399,7 +607,33 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý HCNS ngành truyền thông giải trí; xây dựng quy chế lương thưởng, quản trị văn phòng tổng thể và chỉ đạo công tác nhân sự toàn bộ chuỗi rạp.",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su-galaxy.35C89E40.html",
    "source": "careerviet.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00099",
+   "slug": "truong-phong-to-chuc-lao-dong-tien-luong-tong-cong-ty-thuong-mai-sai-gon-tnhh-mtv-satra",
+   "title": "Trưởng Phòng Tổ Chức Lao Động Tiền Lương",
+   "company": "Tổng Công Ty Thương Mại Sài Gòn - TNHH MTV (Satra)",
+   "website": "https://satra.com.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "275B Phạm Ngũ Lão",
+   "ward": "P.Phạm Ngũ Lão",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 - 7 năm",
+   "requirements": "Trên 5 năm kinh nghiệm quản lý tiền lương, định mức lao động doanh nghiệp nhà nước hoặc tổng công ty bán lẻ; am hiểu quy định pháp luật về lao động, thang bảng lương và tiền thưởng.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-to-chuc-lao-dong-tien-luong-satra.35C89E45.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
    "expires": "2026-10-29",
    "published": "2026-10-08"
   },
@@ -425,8 +659,476 @@
    "requirements": "Có từ 3 năm kinh nghiệm tuyển dụng khối siêu thị Co.opmart, Co.op Food; quản lý quy trình tiếp nhận, phân bổ nhân sự các điểm bán và đào tạo hội nhập cho người lao động mới.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-nhom-tuyen-dung-saigon-coop/2324135.html",
    "source": "topcv.vn",
-   "updated": "2026-08-10",
+   "updated": "2026-10-08",
    "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00101",
+   "slug": "regional-hrbp-manager-khu-vuc-tp-hcm-central-retail-viet-nam",
+   "title": "Regional HRBP Manager (Khu Vực TP.HCM)",
+   "company": "Công Ty TNHH Central Retail Việt Nam",
+   "website": "https://centralretail.com.vn",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Tầng 5, Tòa nhà Central Plaza, 17 Lê Duẩn",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Ít nhất 5 năm kinh nghiệm HRBP mảng đại siêu thị GO!/Big C; khả năng giao tiếp tiếng Anh tốt, hoạch định cơ cấu tổ chức và giải quyết tranh chấp lao động theo đúng luật pháp.",
+   "apply_url": "https://www.vietnamworks.com/regional-hrbp-manager-central-retail-2117230-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00102",
+   "slug": "chuyen-vien-nhan-su-c-b-trung-tam-dieu-hanh-lotte-mart-viet-nam",
+   "title": "Chuyên Viên Nhân Sự C&B (Trung Tâm Điều Hành)",
+   "company": "Công Ty TNHH Lotte Mart Việt Nam",
+   "website": "https://lottemart.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "469 Nguyễn Hữu Thọ",
+   "ward": "P.Tân Hưng",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 18000000,
+    "text": "14 - 18 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm phụ trách bảng lương và hồ sơ bảo hiểm nhân viên hệ thống siêu thị; thành thạo Excel nâng cao, quyết toán thuế TNCN và giải quyết chế độ ốm đau, thai sản.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-cb-lotte-mart.35C89E50.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00103",
+   "slug": "truong-bo-phan-nhan-su-trung-tam-mm-mega-market-viet-nam",
+   "title": "Trưởng Bộ Phận Nhân Sự Trung Tâm",
+   "company": "Công Ty TNHH MM Mega Market (Việt Nam)",
+   "website": "https://mmvietnam.com",
+   "level": "Trưởng BP",
+   "industry": null,
+   "address": "Khu B, Đô thị mới An Phú - An Khánh",
+   "ward": "P.An Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Có từ 5 năm kinh nghiệm quản lý nhân sự trung tâm phân phối/đại siêu thị; quản trị toàn diện hoạt động tuyển dụng, tiền lương, kỷ luật lao động và an toàn vệ sinh lao động tại cơ sở.",
+   "apply_url": "https://www.vietnamworks.com/truong-bo-phan-nhan-su-trung-tam-mega-market-2117235-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-02",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00104",
+   "slug": "chuyen-vien-tuyen-dung-khoi-cua-hang-tien-loi-gs-25-viet-nam",
+   "title": "Chuyên Viên Tuyển Dụng Khối Cửa Hàng Tiện Lợi",
+   "company": "Công Ty TNHH GS 25 Việt Nam",
+   "website": "https://gs25.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà The Hallmark, 15 Trần Bạch Đằng, KĐT Thủ Thiêm",
+   "ward": "P.An Khánh",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 12000000,
+    "max": 16000000,
+    "text": "12 - 16 triệu"
+   },
+   "exp_years": "1 - 2 năm",
+   "requirements": "Từ 1 năm kinh nghiệm tuyển dụng cửa hàng bán lẻ/F&B; có kỹ năng tổ chức phỏng vấn hàng loạt, xây dựng quan hệ với các trường cao đẳng, đại học để thu hút nguồn nhân lực trẻ.",
+   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-tuyen-dung-gs25/2324140.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00105",
+   "slug": "truong-nhom-nhan-su-van-hanh-cua-hang-vong-tron-do-circle-k-viet-nam",
+   "title": "Trưởng Nhóm Nhân Sự Vận Hành Cửa Hàng",
+   "company": "Công Ty TNHH Vòng Tròn Đỏ (Circle K Việt Nam)",
+   "website": "https://circlek.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Lô II, Đường CN13, KCN Tân Bình",
+   "ward": "P.Tây Thạnh",
+   "district": "Q.Tân Phú",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 23000000,
+    "text": "18 - 23 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm quản lý nhân sự chuỗi bán lẻ 24/7; giám sát lịch làm việc ca kíp, theo dõi tỷ lệ biến động nhân sự cửa hàng và đề xuất chính sách giữ chân nhân tài.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-nhom-nhan-su-van-hanh-circle-k.35C89E55.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00106",
+   "slug": "chuyen-vien-dao-tao-nghiep-vu-cua-hang-cua-hang-tien-loi-gia-dinh-viet-nam-familymart",
+   "title": "Chuyên Viên Đào Tạo Nghiệp Vụ Cửa Hàng",
+   "company": "Công Ty TNHH Cửa Hàng Tiện Lợi Gia Đình Việt Nam (FamilyMart)",
+   "website": "https://famima.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà Waseco, 10 Phổ Quang",
+   "ward": "Phường 2",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 13000000,
+    "max": 17000000,
+    "text": "13 - 17 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "2 năm kinh nghiệm đào tạo tiêu chuẩn dịch vụ khách hàng Nhật Bản ngành bán lẻ; trực tiếp đứng lớp hướng dẫn quy trình vận hành quầy thu ngân, an toàn thực phẩm và trưng bày hàng hóa.",
+   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-dao-tao-familymart/2324145.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00107",
+   "slug": "chuyen-vien-c-b-hcm-tap-doan-vmed",
+   "title": "Chuyên Viên C&B (HCM)",
+   "company": "Công Ty Cổ Phần Tập Đoàn Vmed",
+   "website": "https://vmedgroup.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà Vimedimex, 246 Cống Quỳnh",
+   "ward": "P.Phạm Ngũ Lão",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 22000000,
+    "text": "18 - 22 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Có từ 5 năm kinh nghiệm chuyên sâu về tiền lương, thuế thu nhập cá nhân, bảo hiểm và chính sách đãi ngộ trong ngành y tế/thiết bị y khoa; thành thạo xây dựng thang bảng lương.",
+   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-cb-hcm-18-22-trieu/1047821.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00108",
+   "slug": "chuyen-vien-tuyen-dung-dao-tao-dich-vu-o-to-hang-xanh-haxaco-dien-bien-phu",
+   "title": "Chuyên Viên Tuyển Dụng & Đào Tạo",
+   "company": "Công Ty Cổ Phần Dịch Vụ Ô Tô Hàng Xanh (Haxaco Điện Biên Phủ)",
+   "website": "https://haxaco.com.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "333 Điện Biên Phủ",
+   "ward": "Phường 15",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 18000000,
+    "text": "14 - 18 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Ít nhất 2 năm kinh nghiệm tuyển dụng kỹ sư sửa chữa ô tô và tư vấn bán xe cao cấp; am hiểu tiêu chuẩn nhân sự của thương hiệu xe sang Mercedes-Benz.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-tuyen-dung-haxaco-2117240-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00109",
+   "slug": "chuyen-vien-tuyen-dung-nhan-su-cong-nghe-truyen-thong-chicilon-media",
+   "title": "Chuyên Viên Tuyển Dụng Nhân Sự",
+   "company": "Công Ty Cổ Phần Công Nghệ Truyền Thông Chicilon Media",
+   "website": "https://chicilonmedia.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 30, Tòa nhà Vietcombank Tower, 5 Công Trường Mê Linh",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "Từ 2 năm kinh nghiệm tuyển dụng ngành truyền thông quảng cáo/Digital Media; ưu tiên ứng viên có tiếng Trung hoặc tiếng Anh tốt, năng động và kỹ năng giao tiếp xuất sắc.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-tuyen-dung-chicilon-media-2117245-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00110",
+   "slug": "chuyen-vien-tuyen-dung-khu-vuc-mien-nam-tap-doan-karofi-holding",
+   "title": "Chuyên Viên Tuyển Dụng Khu Vực Miền Nam",
+   "company": "Công Ty Cổ Phần Tập Đoàn Karofi Holding",
+   "website": "https://karofi.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tòa nhà Lutaco, 173A Nguyễn Văn Trỗi",
+   "ward": "Phường 11",
+   "district": "Q.Phú Nhuận",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 13000000,
+    "max": 18000000,
+    "text": "13 - 18 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm tuyển dụng nhân sự bán hàng điện máy gia dụng, nhân viên kỹ thuật lắp đặt bảo hành; chủ động tìm kiếm nguồn ứng viên chất lượng cao.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-tuyen-dung-karofi-2117250-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-04",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00111",
+   "slug": "nhom-truong-nhan-su-hr-leader-c-b-tuyen-dung-tap-doan-thien-khoi-chi-nhanh-mien-nam",
+   "title": "Nhóm Trưởng Nhân Sự (HR Leader) – C&B & Tuyển Dụng",
+   "company": "Công Ty Cổ Phần Tập Đoàn Thiên Khôi - Chi Nhánh Miền Nam",
+   "website": "https://thienkhoigroup.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Tòa nhà Thiên Khôi, 52 Trương Định",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 30000000,
+    "text": "20 - 30 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Ít nhất 3 năm kinh nghiệm lãnh đạo nhóm nhân sự mảng môi giới bất động sản; quản lý tổng thể công tác tuyển dụng số lượng lớn và chính sách chi trả hoa hồng môi giới.",
+   "apply_url": "https://www.vietnamworks.com/nhom-truong-nhan-su-hr-leader-c-b-tuyen-dung-1791432494756514248-2117157-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-05",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00112",
+   "slug": "truong-nhom-chien-luoc-nhan-su-hai-bon-bay-247express",
+   "title": "Trưởng Nhóm Chiến Lược Nhân Sự",
+   "company": "Công Ty Cổ Phần Hai Bốn Bảy (247Express)",
+   "website": "https://247express.vn",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Tầng 7, Tòa nhà Kicotrans, 46 Bạch Đằng",
+   "ward": "Phường 2",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 25000000,
+    "max": 40000000,
+    "text": "25 - 40 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Từ 5 năm kinh nghiệm hoạch định chiến lược nhân sự, xây dựng chính sách thu hút nhân tài và quản lý hiệu quả hoạt động (KPI) trong ngành chuyển phát nhanh logistics.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-nhom-chien-luoc-247express.35C89C01.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00113",
+   "slug": "truong-nhom-hanh-chinh-nhan-su-nhua-adc-adc-plastic",
+   "title": "Trưởng Nhóm Hành Chính Nhân Sự",
+   "company": "Công Ty Cổ Phần Nhựa ADC (ADC Plastic)",
+   "website": "https://adcplastic.com",
+   "level": "Trưởng nhóm",
+   "industry": null,
+   "address": "Lô C2-4, Đường N7, KCN Lê Minh Xuân 3",
+   "ward": "P.Lê Minh Xuân",
+   "district": "H.Bình Chánh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 25000000,
+    "text": "18 - 25 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "3 năm kinh nghiệm vị trí tương đương tại nhà máy sản xuất hạt nhựa, bao bì; am hiểu thủ tục an toàn môi trường, nội quy lao động và quản trị văn phòng nhà máy.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-nhom-nhan-su.35C87A8F.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00114",
+   "slug": "chuyen-vien-tuyen-dung-dao-tao-sews-components-viet-nam",
+   "title": "Chuyên Viên Tuyển Dụng & Đào Tạo",
+   "company": "Công Ty TNHH Sews-Components Việt Nam",
+   "website": "https://sews-components.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Đường số 12, KCX Tân Thuận",
+   "ward": "P.Tân Thuận Đông",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Ít nhất 2 năm kinh nghiệm nhân sự công ty sản xuất linh kiện điện tử ô tô Nhật Bản; thực hiện tuyển dụng công nhân, kỹ sư và đào tạo 5S, an toàn sản xuất.",
+   "apply_url": "https://www.vietnamworks.com/sews-components-recruitment-training-specialist-2117255-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-10-31",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00115",
+   "slug": "nhan-vien-nhan-su-mang-giao-vien-nuoc-ngoai-truong-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef",
+   "title": "Nhân Viên Nhân Sự (Mảng Giáo Viên Nước Ngoài)",
+   "company": "Trường Đại Học Kinh Tế - Tài Chính TP.HCM (UEF)",
+   "website": "https://uef.edu.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "141-145 Điện Biên Phủ",
+   "ward": "Phường 15",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 12000000,
+    "max": 16000000,
+    "text": "12 - 16 triệu"
+   },
+   "exp_years": "1 - 2 năm",
+   "requirements": "Tối thiểu 1 năm kinh nghiệm xử lý thủ tục nhân sự giảng viên quốc tế (Giấy phép lao động, Visa, Thẻ tạm trú); tiếng Anh giao tiếp thành thạo, cẩn thận và trách nhiệm.",
+   "apply_url": "https://www.vietnamworks.com/nhan-vien-nhan-su-mang-gvnn-uef-2117260-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-02",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00116",
+   "slug": "hr-admin-executive-giai-phap-omn1",
+   "title": "HR & Admin Executive",
+   "company": "Công Ty Cổ Phần Giải Pháp OMN1",
+   "website": "https://omn1solution.com",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Tầng 5, Tòa nhà E-Town 2, 364 Cộng Hòa",
+   "ward": "Phường 13",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 11000000,
+    "max": 15000000,
+    "text": "11 - 15 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "2 năm kinh nghiệm phụ trách hành chính nhân sự công ty dịch vụ đám mây công nghệ/Salesforce; theo dõi chấm công, quản lý văn phòng phẩm và chuẩn bị thủ tục hợp đồng nhân sự.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/hr-admin-executive-omn1.35C89E60.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-30",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00117",
+   "slug": "nhan-vien-nhan-su-tong-hop-in-bao-bi-toan-phat",
+   "title": "Nhân Viên Nhân Sự Tổng Hợp",
+   "company": "Công Ty TNHH In Bao Bì Toàn Phát",
+   "website": null,
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "Lô 11, Đường 2B, KCN Vĩnh Lộc",
+   "ward": "P.Bình Hưng Hòa B",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 10000000,
+    "max": 14000000,
+    "text": "10 - 14 triệu"
+   },
+   "exp_years": "1 năm",
+   "requirements": "Từ 1 năm kinh nghiệm quản lý hồ sơ nhân viên nhà máy bao bì, chấm công vân tay, làm thủ tục tăng giảm BHXH và hỗ trợ tuyển dụng công nhân lao động phổ thông.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-nhan-su-tong-hop-toan-phat.35C89B54.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-25",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00118",
+   "slug": "chuyen-vien-dao-tao-phat-trien-nhan-su-cong-nghiep-weldcom",
+   "title": "Chuyên Viên Đào Tạo & Phát Triển Nhân Sự",
+   "company": "Công Ty Cổ Phần Công Nghiệp Weldcom",
+   "website": "https://weldcom.vn",
+   "level": "Chuyên viên",
+   "industry": null,
+   "address": "1391 Phan Văn Trị",
+   "ward": "Phường 10",
+   "district": "Q.Gò Vấp",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 18000000,
+    "text": "14 - 18 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm đào tạo nội bộ ngành cơ khí kỹ thuật công nghiệp; xây dựng giáo trình đào tạo kỹ năng bán hàng kỹ thuật và đánh giá hiệu quả sau đào tạo.",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-dao-tao-nhan-su-weldcom.35C89B34.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-08",
+   "expires": "2026-10-31",
    "published": "2026-10-08"
   },
   {
@@ -451,7 +1153,7 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm ở vị trí tương đương, có kinh nghiệm về C&B, tuyển dụng, đào tạo và quan hệ lao động",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su-hr-manager.35C889CE.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-26",
    "published": "2026-10-08"
   },
@@ -477,7 +1179,7 @@
    "requirements": "3 - 5 năm kinh nghiệm quản lý Hành chính - Nhân sự chuỗi F&B hoặc bán lẻ",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C867FA.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-21",
    "published": "2026-10-08"
   },
@@ -503,7 +1205,7 @@
    "requirements": "Trên 5 năm kinh nghiệm quản lý HR & Admin, mạnh về xây dựng hệ thống quy trình cho Media Agency",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C8976D.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -529,7 +1231,7 @@
    "requirements": "2 - 3 năm kinh nghiệm quản lý phòng HCNS, am hiểu luật lao động và quản trị văn phòng",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C89149.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -555,7 +1257,7 @@
    "requirements": "Ít nhất 3 năm kinh nghiệm tương đương quản trị hệ thống nhân sự và quản lý hành chính quy mô 200 lao động trở lên",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su-ho-chi-minh-luong-tu-20-25-trieu/2228084.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -581,7 +1283,7 @@
    "requirements": "5 năm kinh nghiệm quản lý HCNS trong môi trường giáo dục đại học hoặc doanh nghiệp quy mô lớn",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-ban-hanh-chinh-nhan-su.35C88668.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-11-24",
    "published": "2026-10-08"
   },
@@ -607,7 +1309,7 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm HCNS, 3 năm cấp quản lý, am hiểu luật lao động và an toàn vệ sinh lao động",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C894B9.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-11-24",
    "published": "2026-10-08"
   },
@@ -633,7 +1335,7 @@
    "requirements": "3 - 5 năm kinh nghiệm HCNS, trọng tâm quan hệ lao động, pháp lý nội bộ và điều hành phòng HCNS",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/leader-hanh-chinh-nhan-su-hr-leader.35C8570F.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-29",
    "published": "2026-10-08"
   },
@@ -659,7 +1361,7 @@
    "requirements": "Tối thiểu 3 năm kinh nghiệm quản lý nhân sự & hành chính mảng bán lẻ, thời trang hoặc sự kiện",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-hanh-chinh-hr-admin-manager/2314947.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -685,7 +1387,7 @@
    "requirements": "5 - 7 năm kinh nghiệm HCNS, 1 - 3 năm quản lý, có năng lực tái cấu trúc bộ máy nhân sự",
    "apply_url": "https://www.vietnamworks.com/truong-phong-hanh-chinh-nhan-su-2097109-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -711,7 +1413,7 @@
    "requirements": "Kinh nghiệm quản lý HCNS quy mô 300 - 500 người, tiếng Anh thành thạo, quản lý lao động nước ngoài (Visa, Work Permit)",
    "apply_url": "https://www.vietnamworks.com/truong-phong-hanh-chinh-nhan-su-up-to-50-trieuthang-2093201-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-16",
    "published": "2026-10-08"
   },
@@ -737,7 +1439,7 @@
    "requirements": "5 - 10 năm kinh nghiệm HR & Admin tổng thể, quản lý C&B, tuyển dụng, quan hệ lao động",
    "apply_url": "https://www.vietnamworks.com/hr-manager-truong-phong-nhan-su-1790144309848759578-2110501-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-23",
    "published": "2026-10-08"
   },
@@ -763,7 +1465,7 @@
    "requirements": "3 năm kinh nghiệm quản lý HCNS nhà máy sản xuất, xử lý quan hệ lao động, kỷ luật và tuyển dụng",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su-luong-khoi-diem-den-33trieu-thang/2272625.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-23",
    "published": "2026-10-08"
   },
@@ -789,7 +1491,7 @@
    "requirements": "Quản lý HRBP và vận hành hành chính nhà máy/thương mại, hoạch định nguồn nhân lực ngành FMCG",
    "apply_url": "https://www.vietnamworks.com/truong-phong-hanh-chinh-nhan-su-hrbp-1790922849923701075-2115067-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -815,7 +1517,7 @@
    "requirements": "Tối thiểu 7 năm kinh nghiệm HR & GA, có 2 - 3 năm quản lý trong doanh nghiệp vốn FDI",
    "apply_url": "https://www.vietnamworks.com/hr-and-admin-manager-2105465-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-10",
    "published": "2026-10-08"
   },
@@ -841,7 +1543,7 @@
    "requirements": "Ít nhất 2 năm kinh nghiệm ở vị trí tương đương, am hiểu luật lao động, C&B và nghiệp vụ hành chính",
    "apply_url": "https://www.vietnamworks.com/chuyen-vien-hanh-chinh-nhan-su-2090894-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-15",
    "published": "2026-10-08"
   },
@@ -867,7 +1569,7 @@
    "requirements": "2 - 5 năm kinh nghiệm nhân sự tổng hợp, C&B, mua sắm và quản lý cơ sở vật chất F&B",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-hanh-chinh-nhan-su-tong-hop.35C89869.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -893,7 +1595,7 @@
    "requirements": "Tối thiểu 3 năm kinh nghiệm HCNS tổng hợp, tự làm hồ sơ lao động và thủ tục BHXH, quản lý văn thư",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-hanh-chinh-nhan-su-tong-hop.35C8795D.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -919,7 +1621,7 @@
    "requirements": "Từ 3 năm kinh nghiệm HCNS trở lên, am hiểu Luật Lao động, BHXH và nghiệp vụ quản lý tài sản văn phòng",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-hanh-chinh-nhan-su.35C87029.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -945,7 +1647,7 @@
    "requirements": "2 - 5 năm kinh nghiệm quản lý hồ sơ nhân sự, BHXH, C&B và các nghiệp vụ hành chính tổng hợp",
    "apply_url": "https://careerviet.vn/vi/tim-viec-lam/chuyen-vien-hanh-chinh-nhan-su-tong-hop.35C89869.html",
    "source": "careerviet.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -971,7 +1673,7 @@
    "requirements": "Tối thiểu 3 năm kinh nghiệm HR & Admin, quản lý giấy phép hành nghề y tế, giấy phép lao động cho người nước ngoài",
    "apply_url": "https://www.vietnamworks.com/hr-admin-executive-1791196780574689491-2115757-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -997,7 +1699,7 @@
    "requirements": "Tối thiểu 2 năm kinh nghiệm vận hành hành chính văn phòng, hỗ trợ onboarding/offboarding, tiếng Anh giao tiếp tốt",
    "apply_url": "https://www.vietnamworks.com/hr-admin-executive--2103024-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1023,7 +1725,7 @@
    "requirements": "3 năm kinh nghiệm quản lý HCNS ngành thẩm mỹ, y tế hoặc dịch vụ cao cấp, kiểm soát lương thưởng và tài sản",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su/2037829.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-11-17",
    "published": "2026-10-08"
   },
@@ -1049,7 +1751,7 @@
    "requirements": "Từ 1 năm kinh nghiệm trong công tác hành chính - nhân sự, tuyển dụng và quản lý hợp đồng lao động",
    "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-hanh-chinh-nhan-su-tu-1-nam-kinh-nghiem-lam-viec-tai-khu-vuc-tp-ho-chi-minh/1937887.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1075,7 +1777,7 @@
    "requirements": "Tối thiểu 2 năm kinh nghiệm trong vai trò HR & Admin, thành thạo tiếng Anh và quy trình BHXH",
    "apply_url": "https://www.vietnamworks.com/hr-admin-officer--2103792-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1101,7 +1803,7 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý HRBP và L&OD, có kinh nghiệm xây dựng khung năng lực, lộ trình thăng tiến và đào tạo phát triển tổ chức trong doanh nghiệp đa quốc gia.",
    "apply_url": "https://www.vietnamworks.com/hr-manager-hrbp-cum-l-od-1790317854996831129-2111766-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-25",
    "published": "2026-10-08"
   },
@@ -1127,7 +1829,7 @@
    "requirements": "Ít nhất 5 năm kinh nghiệm làm HRBP cho ngành FMCG, quản lý quy mô nhân sự lớn, hoạch định nguồn nhân lực và phát triển văn hóa hiệu suất cao.",
    "apply_url": "https://www.vietnamworks.com/hrbp-manager-masan-consumer-2111768-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -1153,7 +1855,7 @@
    "requirements": "Trên 5 năm kinh nghiệm quản lý nhân sự nhà máy sản xuất, am hiểu luật lao động, giải quyết tranh chấp lao động và quản trị C&B nhà máy.",
    "apply_url": "https://www.vietnamworks.com/factory-hrbp-manager-motul-2111770-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -1179,7 +1881,7 @@
    "requirements": "Có từ 5 năm kinh nghiệm quản lý phòng Hành chính - Nhân sự, ưu tiên kinh nghiệm trong lĩnh vực y tế, phòng khám hoặc công ty Nhật Bản, tiếng Anh hoặc tiếng Nhật lưu loát.",
    "apply_url": "https://www.vietnamworks.com/hrad-manager-dym-medical-2111772-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1205,7 +1907,7 @@
    "requirements": "Kinh nghiệm quản lý nhân sự toàn diện mảng bất động sản, khách sạn, dịch vụ; khả năng hoạch định chiến lược nhân sự và quản trị hiệu suất.",
    "apply_url": "https://www.vietnamworks.com/truong-phong-nhan-su-bim-group-2097110-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -1231,7 +1933,7 @@
    "requirements": "Tối thiểu 7 năm kinh nghiệm quản lý HCNS trong ngành sản xuất công nghiệp nặng quy mô trên 1000 lao động; am hiểu sâu về quan hệ lao động, tiền lương và an toàn lao động.",
    "apply_url": "https://www.vietnamworks.com/pho-giam-doc-hanh-chinh-nhan-su-nam-kim-2097112-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -1257,7 +1959,7 @@
    "requirements": "Từ 3 năm kinh nghiệm ở vị trí tương đương tại công ty sản xuất bao bì, nhựa hoặc in ấn. Thành thạo C&B, quản lý nội quy lao động và công tác hành chính văn phòng.",
    "apply_url": "https://www.vietnamworks.com/pho-phong-hanh-chinh-nhan-su-tan-phong-2097115-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-28",
    "published": "2026-10-08"
   },
@@ -1283,7 +1985,7 @@
    "requirements": "Kinh nghiệm làm HR Manager trong các tập đoàn đa quốc gia ngành nông sản/chế biến thực phẩm; giao tiếp tiếng Anh thành thạo, vững chuyên môn về talent acquisition và chính sách nhân sự.",
    "apply_url": "https://www.vietnamworks.com/hr-manager-olam-global-agri-2104135-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -1309,7 +2011,7 @@
    "requirements": "Có ít nhất 4 năm kinh nghiệm quản lý HR trong ngành kỹ thuật, xây dựng hoặc tư vấn thiết kế quốc tế; thành thạo tiếng Anh, quản trị nhân sự theo mô hình Agile.",
    "apply_url": "https://www.vietnamworks.com/hr-manager-gbc-engineers-2104138-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-25",
    "published": "2026-10-08"
   },
@@ -1335,7 +2037,7 @@
    "requirements": "Tối thiểu 7 năm kinh nghiệm nhân sự, trong đó có 3 năm làm HRBP tại các ngân hàng thương mại hoặc tổ chức tài chính quy mô lớn; năng lực tư vấn chiến lược nguồn nhân lực cho Khối kinh doanh.",
    "apply_url": "https://www.vietnamworks.com/ho-hr-business-partner-senior-manager-acb-2111775-jv",
    "source": "vietnamworks.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1361,7 +2063,7 @@
    "requirements": "Kinh nghiệm từ 2 năm ở vị trí HR & Admin, ưu tiên từng làm việc tại công ty agency marketing/truyền thông; am hiểu về soạn thảo hợp đồng pháp lý nội bộ, BHXH và quy trình tuyển dụng.",
    "apply_url": "https://glints.com/vn/opportunities/jobs/hr-and-legal-admin/073b5a1b-5c4e-4d86-b226-fbac46bcf5be",
    "source": "glints.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -1387,7 +2089,7 @@
    "requirements": "Tối thiểu 1 năm kinh nghiệm hành chính nhân sự tổng hợp, quản lý văn phòng phẩm, chấm công, soạn thảo quyết định nhân sự và hỗ trợ onboarding nhân viên mới.",
    "apply_url": "https://glints.com/vn/opportunities/jobs/nhan-vien-hanh-chinh-nhan-su/tl-tech-21157",
    "source": "glints.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-31",
    "published": "2026-10-08"
   },
@@ -1413,7 +2115,7 @@
    "requirements": "2 năm kinh nghiệm thực hiện các nghiệp vụ nhân sự tổng hợp: tính lương, BHXH, quản lý hồ sơ nhân viên và mua sắm cơ sở vật chất văn phòng.",
    "apply_url": "https://glints.com/vn/opportunities/jobs/chuyen-vien-hanh-chinh-nhan-su/new-day-consumer-21158",
    "source": "glints.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-25",
    "published": "2026-10-08"
   },
@@ -1439,7 +2141,7 @@
    "requirements": "Có từ 1 năm kinh nghiệm tuyển dụng ngành Game/IT hoặc Digital, kiêm nhiệm hỗ trợ vận hành hành chính văn phòng và tổ chức các sự kiện văn hóa nội bộ công ty.",
    "apply_url": "https://glints.com/vn/opportunities/jobs/recruitment-admin-executive/ez-games-21159",
    "source": "glints.com",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   },
@@ -1465,7 +2167,7 @@
    "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý nhân sự, thế mạnh chuyên sâu về thiết lập hệ thống tuyển dụng mass và tuyển dụng chuyên gia ngành nha khoa, thẩm mỹ.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-manh-ve-tuyen-dung-tai-tp-ho-chi-minh-luong-tu-50-100-trieu-nhieu-dai-ngo-hap-dan-khac/1749825.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-11-13",
    "published": "2026-10-08"
   },
@@ -1491,7 +2193,7 @@
    "requirements": "Từ 3 năm kinh nghiệm quản lý HR, phụ trách xây dựng văn hóa doanh nghiệp gắn kết, tổ chức đào tạo nội bộ và kiểm soát quy trình nhân sự tổng thể.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-van-hoa-doanh-nghiep-thu-nhap-hap-dan-den-28-trieu-lam-viec-tai-ho-chi-minh/2280399.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-25",
    "published": "2026-10-08"
   },
@@ -1517,10 +2219,10 @@
    "requirements": "Ít nhất 5 năm kinh nghiệm quản lý phòng nhân sự mảng thiết bị y tế, dược phẩm; có năng lực xây dựng hệ thống đãi ngộ và tuyển dụng nhân sự chuyên môn kỹ thuật cao.",
    "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-tp-hcm/1777621.html",
    "source": "topcv.vn",
-   "updated": "2026-07-10",
+   "updated": "2026-10-07",
    "expires": "2026-10-30",
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T09:45:59.454Z"
+ "generated_at": "2026-10-08T10:08:42.109Z"
 }
