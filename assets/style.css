@@ -740,3 +740,7 @@ html { scroll-behavior: smooth; }
   .job-applybar .job-iconbtn { width: 40px; height: 40px; padding: 0; }
   .job-applybar .sw-btn--primary { padding: 10px 12px; font-size: var(--sw-fs-xs); }
 }
+
+/* Bản 03 · 08/10/2026 · CR-261008-02: khung lưu ý nhiều đoạn */
+.job-note p { margin: 0; }
+.job-note p + p { margin-top: var(--sw-sp-2); }

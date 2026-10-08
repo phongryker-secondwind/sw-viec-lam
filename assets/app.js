@@ -1,5 +1,6 @@
 /* ==========================================================================
-   SW VIỆC LÀM · app.js · bản 02 · 08/10/2026 (CR: nút điều hướng, bộ lọc chọn nhiều, trang chi tiết, chia sẻ, lưu tin)
+   SW VIỆC LÀM · app.js · bản 03 · 08/10/2026 (CR-261008-02: lưu ý nguồn tin, ngày hết hạn, Khu vực địa điểm)
+   bản 02 · 08/10/2026 (CR-261008-01: nút điều hướng, bộ lọc chọn nhiều, trang chi tiết, chia sẻ, lưu tin)
    Đọc data/jobs.json (do Apps Script đẩy lên) → dựng trang danh sách / chi tiết.
    - index.html  (data-page="list")
    - job.html?slug=...  (data-page="job")
@@ -459,8 +460,8 @@
             fact('money', 'Mức lương', j.salary.text, 'job-fact--salary') +
             fact('level', 'Cấp bậc', j.level) +
             fact('exp', 'Kinh nghiệm', j.exp_years || 'Không yêu cầu') +
-            fact('pin', 'Nơi làm việc', location_(j) || j.province) +
-            fact('cal', 'Thời hạn nhận hồ sơ', countdown(j)) +
+            fact('pin', 'Khu vực địa điểm', location_(j) || j.province) +
+            fact('cal', 'Thời hạn nhận hồ sơ', j.expires ? fmtD(j.expires) : 'Không ghi hạn') +
             fact('clock', 'Ngày cập nhật', fmtD(j.updated || j.published)) +
           '</div>' +
 
@@ -472,7 +473,10 @@
 
           (j.requirements ? '<section class="job-section"><h2>Yêu cầu công việc</h2>' + textBlocks(j.requirements) + '</section>' : '') +
 
-          '<div class="sw-note">Tin được tổng hợp từ <b>' + esc(src) + '</b>. Mô tả công việc, quyền lợi và cách nộp hồ sơ đầy đủ xem tại trang gốc. Không nộp phí dưới bất kỳ hình thức nào khi ứng tuyển.</div>' +
+          '<div class="sw-note job-note">' +
+            '<p>Tin được tổng hợp từ <b>' + esc(src) + '</b>. Mô tả công việc, quyền lợi và cách nộp hồ sơ đầy đủ xem tại trang gốc. Không nộp phí dưới bất kỳ hình thức nào khi ứng tuyển.</p>' +
+            '<p>Các thông tin tuyển dụng và nội dung chi tiết tại các trang/nguồn gốc có thể thay đổi theo thời gian vì nhiều lý do khách quan (tin hết hạn, nhà tuyển dụng thay đổi nhu cầu, tin bị tháo xuống, nhà tuyển dụng xóa tin…). Vui lòng kiểm tra kỹ lưỡng nguồn tin.</p>' +
+          '</div>' +
 
           (related.length ? '<section class="job-section job-related" style="margin-top:32px"><h2>Việc làm tương tự</h2><div class="job-list">' + related.map(card).join('') + '</div></section>' : '') +
           '<a class="sw-link job-back" href="' + homeUrl() + '">' + ico('back') + ' Xem tất cả việc làm</a>' +
