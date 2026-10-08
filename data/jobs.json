@@ -7,8 +7,16 @@
   "logo": null,
   "nav": [
    {
+    "text": "Kho công cụ",
+    "url": "https://huongdan.secondwind.vn/"
+   },
+   {
     "text": "Truy cập Fanpage",
     "url": "https://www.facebook.com/humanplus.unitetogrow/"
+   },
+   {
+    "text": "Cộng đồng",
+    "url": "https://www.facebook.com/groups/baoboivanhanh"
    }
   ],
   "new_days": 7,
@@ -1024,5 +1032,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-08T09:18:31.448Z"
+ "generated_at": "2026-10-08T09:27:49.877Z"
 }
