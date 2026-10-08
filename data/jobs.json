@@ -1,0 +1,317 @@
+{
+ "schema": 1,
+ "site": {
+  "name": "Việc làm Second Wind",
+  "tagline": "Tin tuyển dụng đã được chọn lọc và kiểm tra, cập nhật mỗi ngày. Bạn ứng tuyển trực tiếp tại trang gốc của nhà tuyển dụng.",
+  "base_url": "https://secondwind-vn.github.io/sw-viec-lam",
+  "logo": null,
+  "new_days": 7,
+  "footer": {
+   "org": "Second Wind",
+   "address": "TP. Hồ Chí Minh",
+   "phone": "",
+   "email": "lienhe@secondwind.vn",
+   "zalo": "https://zalo.me/",
+   "fanpage": "https://facebook.com/",
+   "note": "Tin được tổng hợp từ các nguồn tuyển dụng công khai. Ứng viên nộp hồ sơ tại trang gốc của nhà tuyển dụng."
+  }
+ },
+ "filters": {
+  "levels": [
+   {
+    "value": "Trưởng nhóm",
+    "count": 1
+   },
+   {
+    "value": "Trưởng BP",
+    "count": 9
+   }
+  ],
+  "provinces": [
+   {
+    "value": "TP. Hồ Chí Minh",
+    "count": 10
+   }
+  ],
+  "industries": [
+   {
+    "value": "Hành chính - Nhân sự",
+    "count": 10
+   }
+  ],
+  "salary_types": [
+   {
+    "value": "Có dải lương",
+    "count": 4
+   },
+   {
+    "value": "Lương thỏa thuận",
+    "count": 6
+   }
+  ]
+ },
+ "count": 10,
+ "jobs": [
+  {
+   "id": "JOB-2610-00009",
+   "slug": "leader-hanh-chinh-nhan-su-hr-leader-ndc",
+   "title": "Leader Hành chính Nhân sự (HR Leader)",
+   "company": "Công Ty TNHH NDC",
+   "website": null,
+   "level": "Trưởng nhóm",
+   "industry": "Hành chính - Nhân sự",
+   "address": "180 Trường Chinh",
+   "ward": "Phường 13",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 22000000,
+    "text": "20 - 22 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "3 - 5 năm kinh nghiệm HCNS, trọng tâm quan hệ lao động, pháp lý nội bộ và điều hành phòng HCNS",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/leader-hanh-chinh-nhan-su-hr-leader.35C8570F.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-10-29",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00010",
+   "slug": "truong-phong-nhan-su-hanh-chinh-hr-admin-manager-the-new-district",
+   "title": "Trưởng Phòng Nhân Sự & Hành Chính (HR & Admin Manager)",
+   "company": "Công Ty Cổ Phần The New District",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "28/8 Trần Hưng Đạo",
+   "ward": "P.Phạm Ngũ Lão",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm quản lý nhân sự & hành chính mảng bán lẻ, thời trang hoặc sự kiện",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-hanh-chinh-hr-admin-manager/2314947.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-10-28",
+   "published": "2026-10-08"
+  },
+  {
+   "id": "JOB-2610-00001",
+   "slug": "truong-phong-hanh-chinh-nhan-su-hr-manager-kinh-doanh-xuat-nhap-khau-sao-viet-mien-nam",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự (HR Manager)",
+   "company": "Công Ty TNHH Kinh Doanh Xuất Nhập Khẩu Sao Việt Miền Nam",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "209 Hoàng Văn Thụ",
+   "ward": "Phường 8",
+   "district": "Q.Phú Nhuận",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 25000000,
+    "text": "20 - 25 triệu"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Tối thiểu 5 năm kinh nghiệm ở vị trí tương đương, có kinh nghiệm về C&B, tuyển dụng, đào tạo và quan hệ lao động",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su-hr-manager.35C889CE.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-10-26",
+   "published": "2026-10-07"
+  },
+  {
+   "id": "JOB-2610-00003",
+   "slug": "truong-phong-hanh-chinh-nhan-su-new-pine-multimedia-technologies-yomedia",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự",
+   "company": "Công Ty Cổ Phần New Pine Multimedia Technologies (YOMEDIA)",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "Tầng 4, Tòa nhà IPC, 1489 Nguyễn Văn Linh",
+   "ward": "P.Tân Phong",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Trên 5 năm kinh nghiệm quản lý HR & Admin, mạnh về xây dựng hệ thống quy trình cho Media Agency",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C8976D.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-04",
+   "published": "2026-10-07"
+  },
+  {
+   "id": "JOB-2610-00006",
+   "slug": "hr-manager-truong-phong-hanh-chinh-nhan-su-dkra-group",
+   "title": "HR Manager / Trưởng Phòng Hành Chính Nhân Sự",
+   "company": "Công Ty Cổ Phần DKRA Group",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "63-67 An Điềm",
+   "ward": "Phường 10",
+   "district": "Q.5",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Tối thiểu 2 năm kinh nghiệm quản lý HCNS, ưu tiên ngành Bất động sản, ngân hàng, tài chính",
+   "apply_url": "https://www.topcv.vn/viec-lam/hr-manager-truong-phong-hanh-chinh-nhan-su/2141089.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-09",
+   "published": "2026-10-07"
+  },
+  {
+   "id": "JOB-2610-00002",
+   "slug": "truong-phong-hanh-chinh-nhan-su-americano-coffee",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự",
+   "company": "Công Ty Cổ Phần Americano Coffee",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "153/1 Võ Văn Tần",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 22000000,
+    "max": 35000000,
+    "text": "22 - 35 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "3 - 5 năm kinh nghiệm quản lý Hành chính - Nhân sự chuỗi F&B hoặc bán lẻ",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C867FA.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-10-21",
+   "published": "2026-10-06"
+  },
+  {
+   "id": "JOB-2610-00008",
+   "slug": "truong-phong-hanh-chinh-nhan-su-thuc-pham-vinh-tan",
+   "title": "Trưởng phòng Hành chính nhân sự",
+   "company": "Công Ty Cổ Phần Thực Phẩm Vĩnh Tân",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "Lô C24/I, Đường 2F, KCN Vĩnh Lộc",
+   "ward": "P.Vĩnh Lộc A",
+   "district": "H.Bình Chánh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "Tối thiểu 5 năm kinh nghiệm HCNS, 3 năm cấp quản lý, am hiểu luật lao động và an toàn vệ sinh lao động",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C894B9.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-04",
+   "published": "2026-10-05"
+  },
+  {
+   "id": "JOB-2610-00005",
+   "slug": "truong-phong-hanh-chinh-nhan-su-sando",
+   "title": "Trưởng Phòng Hành Chính Nhân Sự",
+   "company": "Công Ty TNHH Sando",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "Lô I-3B-2, Đường N6, KCNC",
+   "ward": "P.Tăng Nhơn Phú B",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 25000000,
+    "text": "20 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Ít nhất 3 năm kinh nghiệm tương đương quản trị hệ thống nhân sự và quản lý hành chính quy mô 200 lao động trở lên",
+   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su-ho-chi-minh-luong-tu-20-25-trieu/2228084.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-06",
+   "published": "2026-10-02"
+  },
+  {
+   "id": "JOB-2610-00004",
+   "slug": "truong-phong-hanh-chinh-nhan-su-thuong-mai-phu-nhuan",
+   "title": "Trưởng Phòng Hành Chính - Nhân Sự",
+   "company": "Công Ty Cổ Phần Thương Mại Phú Nhuận",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "291 Hai Bà Trưng",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "2 - 3 năm kinh nghiệm quản lý phòng HCNS, am hiểu luật lao động và quản trị văn phòng",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su.35C89149.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-10-30",
+   "published": "2026-09-28"
+  },
+  {
+   "id": "JOB-2610-00007",
+   "slug": "truong-phong-ban-hanh-chinh-nhan-su-truong-dai-hoc-van-hien",
+   "title": "Trưởng phòng Ban Hành chính Nhân sự",
+   "company": "Trường Đại Học Văn Hiến",
+   "website": null,
+   "level": "Trưởng BP",
+   "industry": "Hành chính - Nhân sự",
+   "address": "665-667-669 Điện Biên Phủ",
+   "ward": "Phường 1",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "5 năm",
+   "requirements": "5 năm kinh nghiệm quản lý HCNS trong môi trường giáo dục đại học hoặc doanh nghiệp quy mô lớn",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-ban-hanh-chinh-nhan-su.35C88668.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-07",
+   "expires": "2026-11-24",
+   "published": "2026-09-25"
+  }
+ ],
+ "generated_at": "2026-10-08T06:00:00.000Z"
+}
