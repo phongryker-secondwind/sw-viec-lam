@@ -32,7 +32,7 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 147
+    "count": 148
    },
    {
     "value": "Trưởng nhóm",
@@ -40,7 +40,7 @@
    },
    {
     "value": "Trưởng BP",
-    "count": 83
+    "count": 82
    },
    {
     "value": "Giám đốc",
@@ -55,19 +55,55 @@
   ],
   "industries": [
    {
+    "value": "Bán lẻ & Chuỗi siêu thị",
+    "count": 6
+   },
+   {
+    "value": "Bán lẻ & Cửa hàng tiện lợi",
+    "count": 3
+   },
+   {
     "value": "Bán lẻ & Tổ chức sự kiện",
-    "count": 1
+    "count": 2
+   },
+   {
+    "value": "Bán lẻ - Thời trang",
+    "count": 4
    },
    {
     "value": "Bán lẻ Dược & Mỹ phẩm",
-    "count": 1
+    "count": 4
    },
    {
     "value": "Bán lẻ Mẹ & Bé",
-    "count": 1
+    "count": 2
    },
    {
     "value": "Bán lẻ Sách & Khu vui chơi giải trí",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Thiết bị công nghệ",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Thiết bị công nghệ & Điện máy",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Thời trang",
+    "count": 4
+   },
+   {
+    "value": "Bán lẻ Thời trang & Phụ kiện",
+    "count": 2
+   },
+   {
+    "value": "Bán lẻ Thời trang & Thể thao",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Thời trang cao cấp",
     "count": 1
    },
    {
@@ -75,20 +111,44 @@
     "count": 1
    },
    {
+    "value": "Bảo hiểm",
+    "count": 4
+   },
+   {
     "value": "Bảo hiểm phi nhân thọ",
+    "count": 2
+   },
+   {
+    "value": "Bất động sản & Du lịch nghỉ dưỡng",
+    "count": 3
+   },
+   {
+    "value": "Bất động sản & Dịch vụ bất động sản",
+    "count": 1
+   },
+   {
+    "value": "Bất động sản & Dịch vụ môi giới",
     "count": 1
    },
    {
     "value": "Bất động sản & Phát triển đô thị",
-    "count": 1
+    "count": 6
    },
    {
     "value": "Bất động sản & Đầu tư",
+    "count": 2
+   },
+   {
+    "value": "Bất động sản - Khu công nghiệp",
+    "count": 2
+   },
+   {
+    "value": "Bất động sản - Xây dựng",
     "count": 1
    },
    {
     "value": "Chế biến & Bảo quản Thực phẩm",
-    "count": 1
+    "count": 2
    },
    {
     "value": "Công nghệ & Quảng cáo trực tuyến",
@@ -99,7 +159,27 @@
     "count": 1
    },
    {
+    "value": "Công nghệ kỹ thuật & Thiết bị công nghiệp",
+    "count": 1
+   },
+   {
     "value": "Công nghệ phần mềm & Giải pháp số",
+    "count": 6
+   },
+   {
+    "value": "Công nghệ thông tin & Dịch vụ phần mềm",
+    "count": 2
+   },
+   {
+    "value": "Công nghệ thông tin & Dịch vụ đám mây",
+    "count": 1
+   },
+   {
+    "value": "Công nghệ thông tin & Thiết bị an ninh",
+    "count": 1
+   },
+   {
+    "value": "Công nghệ thông tin & Thiết kế vi mạch",
     "count": 1
    },
    {
@@ -108,22 +188,74 @@
    },
    {
     "value": "Công nghệ thông tin & Viễn thông",
+    "count": 2
+   },
+   {
+    "value": "Công nghệ thông tin - Game",
+    "count": 3
+   },
+   {
+    "value": "Công nghệ tài chính (Fintech)",
+    "count": 2
+   },
+   {
+    "value": "Cơ khí chính xác & Thiết bị công nghiệp",
     "count": 1
    },
    {
     "value": "Cơ khí chính xác & Tự động hóa",
+    "count": 2
+   },
+   {
+    "value": "Du lịch & Dịch vụ lữ hành",
     "count": 1
+   },
+   {
+    "value": "Dược - Mỹ phẩm",
+    "count": 1
+   },
+   {
+    "value": "Dược phẩm",
+    "count": 2
    },
    {
     "value": "Dược phẩm & Công nghệ sinh học",
-    "count": 1
+    "count": 4
    },
    {
     "value": "Dệt may & May mặc xuất khẩu",
+    "count": 2
+   },
+   {
+    "value": "Dệt may - Thời trang",
     "count": 1
    },
    {
+    "value": "Dịch vụ - F&B",
+    "count": 5
+   },
+   {
     "value": "Dịch vụ Công nghệ & Quảng cáo",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ F&B & Chuỗi cà phê",
+    "count": 4
+   },
+   {
+    "value": "Dịch vụ F&B & Chuỗi đồ uống",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ F&B & Nhà hàng",
+    "count": 3
+   },
+   {
+    "value": "Dịch vụ F&B & Vui chơi giải trí",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ Kỹ thuật & Thiết bị công nghiệp",
     "count": 1
    },
    {
@@ -131,7 +263,27 @@
     "count": 1
    },
    {
+    "value": "Dịch vụ Phát triển thị trường & Phân phối",
+    "count": 1
+   },
+   {
     "value": "Dịch vụ Tư vấn & Cung ứng nhân lực",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ Tư vấn Doanh nghiệp",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ Tư vấn Doanh nghiệp & Pháp lý",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ Tư vấn Kế toán & Pháp lý",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ hàng không",
     "count": 1
    },
    {
@@ -143,19 +295,95 @@
     "count": 1
    },
    {
-    "value": "Hàng tiêu dùng nhanh (FMCG)",
+    "value": "Giáo dục & Đào tạo Anh ngữ",
+    "count": 2
+   },
+   {
+    "value": "Giáo dục & Đào tạo phổ thông",
     "count": 1
+   },
+   {
+    "value": "Giáo dục & Đào tạo quốc tế",
+    "count": 4
+   },
+   {
+    "value": "Giáo dục & Đào tạo đại học",
+    "count": 2
+   },
+   {
+    "value": "Hàng tiêu dùng nhanh (FMCG)",
+    "count": 3
+   },
+   {
+    "value": "Khách sạn - Du lịch",
+    "count": 4
+   },
+   {
+    "value": "Kỹ thuật công nghệ & Thiết bị công nghiệp",
+    "count": 1
+   },
+   {
+    "value": "Mỹ phẩm & Làm đẹp",
+    "count": 1
+   },
+   {
+    "value": "Mỹ phẩm - Làm đẹp",
+    "count": 2
    },
    {
     "value": "Nông nghiệp & Chăn nuôi công nghệ cao",
     "count": 1
    },
    {
-    "value": "Phân phối Hàng tiêu dùng & Mỹ phẩm",
+    "value": "Nông nghiệp & Xuất khẩu nông sản",
     "count": 1
    },
    {
+    "value": "Phân phối & Bán lẻ Hàng tiêu dùng",
+    "count": 1
+   },
+   {
+    "value": "Phân phối & Dược phẩm",
+    "count": 1
+   },
+   {
+    "value": "Phân phối & Dịch vụ Ô tô",
+    "count": 1
+   },
+   {
+    "value": "Phân phối Hàng tiêu dùng & Mỹ phẩm",
+    "count": 2
+   },
+   {
     "value": "Sản xuất & Bán lẻ Kim hoàn - Trang sức",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Công nghiệp phụ trợ",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Cơ khí chính xác",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Hóa chất",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Phân phối Thiết bị gia dụng",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Phân phối Thiết bị điện lạnh",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Thương mại công nghiệp",
+    "count": 2
+   },
+   {
+    "value": "Sản xuất & Vật liệu công nghiệp",
     "count": 1
    },
    {
@@ -167,12 +395,32 @@
     "count": 1
    },
    {
-    "value": "Sản xuất Bao bì & Nhựa",
+    "value": "Sản xuất - Công nghiệp",
+    "count": 3
+   },
+   {
+    "value": "Sản xuất - Hàng tiêu dùng",
+    "count": 2
+   },
+   {
+    "value": "Sản xuất - Hóa chất",
     "count": 1
    },
    {
-    "value": "Sản xuất Giày dép & Thời trang",
+    "value": "Sản xuất - Thiết bị điện",
     "count": 1
+   },
+   {
+    "value": "Sản xuất - Thực phẩm",
+    "count": 3
+   },
+   {
+    "value": "Sản xuất Bao bì & Nhựa",
+    "count": 4
+   },
+   {
+    "value": "Sản xuất Giày dép & Thời trang",
+    "count": 3
    },
    {
     "value": "Sản xuất Giấy & Bao bì",
@@ -183,55 +431,135 @@
     "count": 1
    },
    {
-    "value": "Sản xuất Linh kiện điện tử & Ô tô",
+    "value": "Sản xuất Linh kiện điện tử",
     "count": 1
+   },
+   {
+    "value": "Sản xuất Linh kiện điện tử & Bán dẫn",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất Linh kiện điện tử & Cơ khí",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất Linh kiện điện tử & Ô tô",
+    "count": 2
    },
    {
     "value": "Sản xuất Thiết bị điện & Cơ khí",
     "count": 1
    },
    {
-    "value": "Sản xuất Thép & Kim loại",
+    "value": "Sản xuất Thiết bị điện tử & Gia dụng",
     "count": 1
    },
    {
+    "value": "Sản xuất Thép & Kim loại",
+    "count": 3
+   },
+   {
     "value": "Sản xuất Thực phẩm & Đồ uống",
+    "count": 10
+   },
+   {
+    "value": "Thương mại & Bán lẻ",
+    "count": 1
+   },
+   {
+    "value": "Thương mại & Chuỗi bán lẻ",
+    "count": 1
+   },
+   {
+    "value": "Thương mại & Thiết bị công nghệ",
+    "count": 1
+   },
+   {
+    "value": "Thương mại & Thiết bị kỹ thuật",
     "count": 1
    },
    {
     "value": "Thương mại & Thiết bị y tế",
-    "count": 1
+    "count": 4
    },
    {
     "value": "Thương mại & Xuất nhập khẩu",
-    "count": 1
+    "count": 2
    },
    {
     "value": "Thương mại Dịch vụ & Xuất nhập khẩu",
-    "count": 1
+    "count": 2
    },
    {
     "value": "Thương mại quốc tế & Logistics",
     "count": 1
    },
    {
-    "value": "Thương mại điện tử & Bán lẻ trực tuyến",
+    "value": "Thương mại điện tử",
     "count": 1
    },
    {
+    "value": "Thương mại điện tử & Bán lẻ trực tuyến",
+    "count": 5
+   },
+   {
     "value": "Thẩm mỹ & Làm đẹp",
-    "count": 1
+    "count": 2
    },
    {
     "value": "Thể thao & Giải trí thể chất",
     "count": 1
    },
    {
-    "value": "Truyền thông & Quảng cáo đa phương tiện",
+    "value": "Truyền thông & Giải trí đa phương tiện",
     "count": 1
    },
    {
+    "value": "Truyền thông & Quảng cáo trực tuyến",
+    "count": 1
+   },
+   {
+    "value": "Truyền thông & Quảng cáo đa phương tiện",
+    "count": 4
+   },
+   {
+    "value": "Tài chính & Chứng khoán",
+    "count": 1
+   },
+   {
+    "value": "Tài chính & Ngân hàng",
+    "count": 8
+   },
+   {
+    "value": "Tài chính - Ngân hàng",
+    "count": 4
+   },
+   {
+    "value": "Tư vấn thiết kế & Kỹ thuật xây dựng",
+    "count": 1
+   },
+   {
+    "value": "Viễn thông & Dịch vụ BPO",
+    "count": 1
+   },
+   {
+    "value": "Viễn thông - Công nghệ",
+    "count": 2
+   },
+   {
+    "value": "Văn hóa & Giải trí điện ảnh",
+    "count": 2
+   },
+   {
+    "value": "Vận tải & Logistics chuyển phát",
+    "count": 6
+   },
+   {
     "value": "Vận tải & Logistics công nghệ",
+    "count": 1
+   },
+   {
+    "value": "Vận tải công nghệ & Giao nhận",
     "count": 1
    },
    {
@@ -240,29 +568,37 @@
    },
    {
     "value": "Xây dựng Dân dụng & Công nghiệp",
-    "count": 1
+    "count": 6
    },
    {
     "value": "Y tế & Chăm sóc sức khỏe",
-    "count": 1
+    "count": 3
    },
    {
     "value": "Y tế & Dịch vụ Bệnh viện",
-    "count": 1
+    "count": 4
    },
    {
     "value": "Y tế & Phòng khám đa khoa",
+    "count": 2
+   },
+   {
+    "value": "Y tế & Thiết bị y tế",
     "count": 1
+   },
+   {
+    "value": "Y tế - Bệnh viện",
+    "count": 3
    }
   ],
   "salary_types": [
    {
     "value": "Có dải lương",
-    "count": 158
+    "count": 157
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 112
+    "count": 113
    }
   ]
  },
@@ -1575,7 +1911,7 @@
    "company": "Công Ty TNHH Bảo Hiểm Nhân Thọ Prudential Việt Nam",
    "website": "https://prudential.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bảo hiểm",
    "address": "Tầng 25, Tòa nhà Saigon Trade Center, 37 Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1601,7 +1937,7 @@
    "company": "Công Ty TNHH Manulife (Việt Nam)",
    "website": "https://manulife.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bảo hiểm",
    "address": "Tòa nhà Manulife Plaza, 75 Hoàng Văn Thái",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -1627,7 +1963,7 @@
    "company": "Công Ty TNHH Bảo Hiểm Nhân Thọ Dai-ichi Việt Nam",
    "website": "https://dai-ichi-life.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bảo hiểm",
    "address": "Tòa nhà Dai-ichi Life, 149-151 Nguyễn Văn Trỗi",
    "ward": "Phường 11",
    "district": "Q.Phú Nhuận",
@@ -1653,7 +1989,7 @@
    "company": "Công Ty TNHH Bảo Hiểm Nhân Thọ AIA (Việt Nam)",
    "website": "https://aia.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bảo hiểm",
    "address": "Tầng 15, Tòa nhà Saigon Centre Tower 2, 67 Lê Lợi",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1679,7 +2015,7 @@
    "company": "Công Ty Tài Chính TNHH HD SAISON",
    "website": "https://hdsaison.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Tài chính - Ngân hàng",
    "address": "Tầng 8, Tòa nhà Gilimex, 24C Phan Đăng Lưu",
    "ward": "Phường 6",
    "district": "Q.Bình Thạnh",
@@ -1705,7 +2041,7 @@
    "company": "Công Ty Tài Chính TNHH MTV Shinhan Việt Nam (Shinhan Finance)",
    "website": "https://shinhanfinance.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính - Ngân hàng",
    "address": "Tầng 17, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -1731,7 +2067,7 @@
    "company": "Công Ty Tài Chính TNHH MTV Home Credit Việt Nam",
    "website": "https://homecredit.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính - Ngân hàng",
    "address": "Tòa nhà Phụ Nữ, 20 Nguyễn Đăng Giai",
    "ward": "P.Thảo Điền",
    "district": "TP.Thủ Đức",
@@ -1757,7 +2093,7 @@
    "company": "Ngân Hàng TNHH Một Thành Viên Standard Chartered (Việt Nam)",
    "website": "https://sc.com/vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính - Ngân hàng",
    "address": "Phòng 1001, Tòa nhà Saigon Trade Center, 37 Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1783,7 +2119,7 @@
    "company": "Công Ty Cổ Phần Viễn Thông FPT (FPT Telecom)",
    "website": "https://fpt.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Viễn thông - Công nghệ",
    "address": "Tòa nhà FPT Tân Thuận, Lô L29B-31B-33B, Đường số 8, KCX Tân Thuận",
    "ward": "P.Tân Thuận Đông",
    "district": "Q.7",
@@ -1809,7 +2145,7 @@
    "company": "Tổng Công Ty Viễn Thông MobiFone - Trung Tâm 2",
    "website": "https://mobifone.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Viễn thông - Công nghệ",
    "address": "Tòa nhà MobiFone, MM18 Bạch Mã",
    "ward": "Phường 15",
    "district": "Q.10",
@@ -1835,7 +2171,7 @@
    "company": "Công Ty TNHH Gameloft Việt Nam",
    "website": "https://gameloft.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin - Game",
    "address": "Tầng 7, Tòa nhà Lilama SHB, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -1861,7 +2197,7 @@
    "company": "Công Ty Cổ Phần Công Nghệ Sen Đỏ (Sendo)",
    "website": "https://sendo.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại điện tử",
    "address": "Tòa nhà Tân Thuận, Lô L29B-31B-33B, Đường số 8, KCX Tân Thuận",
    "ward": "P.Tân Thuận Đông",
    "district": "Q.7",
@@ -1887,7 +2223,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Hàng Không Taseco Sài Gòn",
    "website": "https://taseco.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dịch vụ hàng không",
    "address": "Tòa nhà Taseco, 45 Bạch Đằng",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -1913,7 +2249,7 @@
    "company": "Công Ty TNHH Uniqlo Việt Nam",
    "website": "https://uniqlo.com/vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ - Thời trang",
    "address": "Tầng 26, Tòa nhà Vietcombank Tower, 5 Công Trường Mê Linh",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1939,7 +2275,7 @@
    "company": "Công Ty TNHH H&M Hennes & Mauritz Việt Nam",
    "website": "https://hm.com/vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ - Thời trang",
    "address": "Tầng 12, Tòa nhà Vincom Center Đồng Khởi, 72 Lê Thánh Tôn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1965,7 +2301,7 @@
    "company": "Công Ty TNHH Thời Trang Mitra Adiperkasa Việt Nam (Zara Việt Nam)",
    "website": "https://map.co.id",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ - Thời trang",
    "address": "Tầng 19, Tòa nhà Bitexco Financial Tower, 2 Hải Triều",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -1991,7 +2327,7 @@
    "company": "Công Ty Cổ Phần Thời Trang IVY moda",
    "website": "https://ivymoda.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bán lẻ - Thời trang",
    "address": "181 Cách Mạng Tháng Tám",
    "ward": "Phường 5",
    "district": "Q.3",
@@ -2017,7 +2353,7 @@
    "company": "Công Ty TNHH Rohto-Mentholatum (Việt Nam)",
    "website": "https://rohto.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dược - Mỹ phẩm",
    "address": "Tầng 18, Tòa nhà Saigon Trade Center, 37 Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2043,7 +2379,7 @@
    "company": "Công Ty TNHH L'Oréal Việt Nam",
    "website": "https://loreal.com/vi-vn/vietnam",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Mỹ phẩm - Làm đẹp",
    "address": "Tầng 10, Tòa nhà Vincom Center Đồng Khởi, 72 Lê Thánh Tôn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2069,7 +2405,7 @@
    "company": "Công Ty TNHH Mỹ Phẩm Shiseido Việt Nam",
    "website": "https://shiseido.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Mỹ phẩm - Làm đẹp",
    "address": "Tầng 27, Tòa nhà Vietcombank Tower, 5 Công Trường Mê Linh",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2095,7 +2431,7 @@
    "company": "Công Ty TNHH Thực Phẩm CJ Cầu Tre",
    "website": "https://cjcautre.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất - Thực phẩm",
    "address": "Lô Tân Tạo, Đường số 1, KCN Hiệp Phước",
    "ward": "P.Hiệp Phước",
    "district": "H.Nhà Bè",
@@ -2121,7 +2457,7 @@
    "company": "Công Ty Cổ Phần Thực Phẩm Cholimex",
    "website": "https://cholimexfood.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất - Thực phẩm",
    "address": "Lô C40-43/I, Đường số 7, KCN Vĩnh Lộc",
    "ward": "P.Bình Hưng Hòa B",
    "district": "Q.Bình Tân",
@@ -2147,7 +2483,7 @@
    "company": "Công Ty TNHH Thực Phẩm PepsiCo Việt Nam (PepsiCo Foods)",
    "website": "https://pepsico.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Sản xuất - Thực phẩm",
    "address": "Tòa nhà MPlaza Saigon, 39 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2173,7 +2509,7 @@
    "company": "Công Ty TNHH Dịch Vụ Thực Phẩm & Giải Khát Việt Nam (Pizza Hut Việt Nam)",
    "website": "https://pizzahut.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dịch vụ - F&B",
    "address": "Tòa nhà Bluesky, 1 Bạch Đằng",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -2199,7 +2535,7 @@
    "company": "Công Ty TNHH Lotteria Việt Nam",
    "website": "https://lotteria.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dịch vụ - F&B",
    "address": "Tầng 7, Tòa nhà Paragon, 3 Nguyễn Lương Bằng",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -2225,7 +2561,7 @@
    "company": "Công Ty TNHH Jollibee Việt Nam",
    "website": "https://jollibee.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ - F&B",
    "address": "Tầng 5, Tòa nhà SC VivoCity, 1058 Nguyễn Văn Linh",
    "ward": "P.Tân Phong",
    "district": "Q.7",
@@ -2251,7 +2587,7 @@
    "company": "Công Ty Liên Doanh TNHH KFC Việt Nam",
    "website": "https://kfcvietnam.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dịch vụ - F&B",
    "address": "Số 472 Nguyễn Thị Minh Khai",
    "ward": "Phường 2",
    "district": "Q.3",
@@ -2277,7 +2613,7 @@
    "company": "Công Ty TNHH Ý Tưởng Cà Phê (Starbucks Coffee Việt Nam)",
    "website": "https://starbucks.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ - F&B",
    "address": "Tòa nhà MPlaza Saigon, 39 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2303,7 +2639,7 @@
    "company": "Công Ty Cổ Phần Phát Triển Đô Thị Công Nghiệp Tân Tạo (ITACO)",
    "website": "https://tantaogroup.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản - Khu công nghiệp",
    "address": "Khu công nghiệp Tân Tạo, Đường số 2",
    "ward": "P.Tân Tạo A",
    "district": "Q.Bình Tân",
@@ -2329,7 +2665,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Hà Đô - Chi Nhánh Miền Nam",
    "website": "https://hado.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản - Xây dựng",
    "address": "Tòa nhà Hà Đô Centrosa Garden, 200 Đường 3/2",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -2355,7 +2691,7 @@
    "company": "Công Ty Cổ Phần Sonadezi Giang Điền - Chi Nhánh HCM",
    "website": "https://sonadezi-giangdien.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản - Khu công nghiệp",
    "address": "Số 1 Đồng Khởi",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2381,7 +2717,7 @@
    "company": "Khách Sạn Caravelle Sài Gòn",
    "website": "https://caravellehotel.com",
    "level": "Giám đốc",
-   "industry": null,
+   "industry": "Khách sạn - Du lịch",
    "address": "19-23 Công Trường Lam Sơn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2407,7 +2743,7 @@
    "company": "Khách Sạn Rex Sài Gòn",
    "website": "https://rexhotelsaigon.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Khách sạn - Du lịch",
    "address": "141 Nguyễn Huệ",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2433,7 +2769,7 @@
    "company": "Khách Sạn New World Sài Gòn",
    "website": "https://saigon.newworldhotels.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Khách sạn - Du lịch",
    "address": "76 Lê Lai",
    "ward": "P.Bến Thành",
    "district": "Q.1",
@@ -2459,7 +2795,7 @@
    "company": "Khách Sạn InterContinental Saigon",
    "website": "https://ihg.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Khách sạn - Du lịch",
    "address": "Góc đường Hai Bà Trưng và Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2485,7 +2821,7 @@
    "company": "Bệnh Viện Đa Khoa FV (Pháp Việt)",
    "website": "https://fvhospital.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Y tế - Bệnh viện",
    "address": "6 Nguyễn Lương Bằng",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -2511,7 +2847,7 @@
    "company": "Bệnh Viện Phụ Sản MêKông",
    "website": "https://mekonghospital.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Y tế - Bệnh viện",
    "address": "243A Hoàng Văn Thụ",
    "ward": "Phường 1",
    "district": "Q.Tân Bình",
@@ -2537,7 +2873,7 @@
    "company": "Bệnh Viện Tai Mũi Họng Sài Gòn",
    "website": "https://taimuihongsg.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Y tế - Bệnh viện",
    "address": "1-3 Trịnh Văn Cấn",
    "ward": "P.Cầu Ông Lãnh",
    "district": "Q.1",
@@ -2563,7 +2899,7 @@
    "company": "Công Ty Cổ Phần Dược Phẩm OPC",
    "website": "https://opcpharma.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dược phẩm",
    "address": "1017 Hồng Bàng",
    "ward": "Phường 12",
    "district": "Q.6",
@@ -2589,7 +2925,7 @@
    "company": "Công Ty Cổ Phần Pymepharco - Chi Nhánh TP.HCM",
    "website": "https://pymepharco.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dược phẩm",
    "address": "44 Đồng Nai",
    "ward": "Phường 15",
    "district": "Q.10",
@@ -2615,7 +2951,7 @@
    "company": "Công Ty TNHH Nệm Vạn Thành",
    "website": "https://nemvanthanh.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất - Hàng tiêu dùng",
    "address": "Số 9 Đường số 8, KCN Tân Phú Trung",
    "ward": "P.Tân Phú Trung",
    "district": "H.Củ Chi",
@@ -2641,7 +2977,7 @@
    "company": "Công Ty TNHH MTV Cao Su Kymdan",
    "website": "https://kymdan.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Sản xuất - Hàng tiêu dùng",
    "address": "28 Bình Thới",
    "ward": "Phường 14",
    "district": "Q.11",
@@ -2667,7 +3003,7 @@
    "company": "Công Ty Cổ Phần Nhựa Bình Minh",
    "website": "https://binhminhplastic.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất - Công nghiệp",
    "address": "240 Hai Bà Trưng",
    "ward": "P.Tân Định",
    "district": "Q.1",
@@ -2693,7 +3029,7 @@
    "company": "Công Ty Cổ Phần Hóa Chất Cơ Bản Miền Nam",
    "website": "https://sochem.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất - Hóa chất",
    "address": "Số 22 Lý Tự Trọng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2719,7 +3055,7 @@
    "company": "Công Ty Cổ Phần Cao Su Miền Nam (Casumina)",
    "website": "https://casumina.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất - Công nghiệp",
    "address": "180 Nguyễn Thị Minh Khai",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -2745,7 +3081,7 @@
    "company": "Công Ty Cổ Phần Pin Ắc Quy Miền Nam (Pinaco)",
    "website": "https://pinaco.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất - Công nghiệp",
    "address": "321 Trần Hưng Đạo",
    "ward": "P.Cô Giang",
    "district": "Q.1",
@@ -2771,7 +3107,7 @@
    "company": "Công Ty Cổ Phần Bóng Đèn Điện Quang",
    "website": "https://dienquang.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất - Thiết bị điện",
    "address": "Lô I-10-1, Đường D2, KCNC",
    "ward": "P.Tăng Nhơn Phú B",
    "district": "TP.Thủ Đức",
@@ -2797,7 +3133,7 @@
    "company": "Công Ty Cổ Phần Dệt May - Đầu Tư - Thương Mại Thành Công (TCM)",
    "website": "https://thanhcong.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dệt may - Thời trang",
    "address": "36 Tây Thạnh",
    "ward": "P.Tây Thạnh",
    "district": "Q.Tân Phú",
@@ -2817,13 +3153,39 @@
    "published": "2026-10-09"
   },
   {
+   "id": "JOB-2610-00277",
+   "slug": "chuyen-vien-cao-cap-phat-trien-nang-luc-khoi-nhan-su-ngan-hang-thuong-mai-co-phan-sai-gon",
+   "title": "Chuyên Viên Cao Cấp Phát Triển Năng Lực - Khối Nhân Sự",
+   "company": "Ngân Hàng Thương Mại Cổ Phần Sài Gòn Thương Tín (Sacombank)",
+   "website": "https://sacombank.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Tài chính & Ngân hàng",
+   "address": "266-268 Nam Kỳ Khởi Nghĩa",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Lương thỏa thuận",
+    "min": null,
+    "max": null,
+    "text": "Thỏa thuận"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tối thiểu 3 năm kinh nghiệm trong mảng phát triển năng lực, đào tạo và quản lý tài năng ngành tài chính ngân hàng; có kỹ năng phân tích khoảng cách năng lực và thiết kế lộ trình phát triển nghề nghiệp.",
+   "apply_url": "https://www.vietnamworks.com/chuyen-vien-cao-cap-phat-trien-nang-luc-sacombank-2117301-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-08",
+   "expires": "2026-11-05",
+   "published": "2026-10-12"
+  },
+  {
    "id": "JOB-2610-00078",
    "slug": "hrbp-specialist-game-studio-tap-doan-vng",
    "title": "HRBP Specialist (Game Studio)",
    "company": "Công Ty Cổ Phần Tập Đoàn VNG",
    "website": "https://vng.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin - Game",
    "address": "Tòa nhà VNG Campus, Đường số 13, KCX Tân Thuận",
    "ward": "P.Tân Thuận Đông",
    "district": "Q.7",
@@ -2849,7 +3211,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Cà Phê Cao Nguyên (Highlands Coffee)",
    "website": "https://highlandscoffee.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Chuỗi cà phê",
    "address": "Tầng 3, Tòa nhà Bluesky Office, 1 Bạch Đằng",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -2875,7 +3237,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Di Động Trực Tuyến (Ví MoMo)",
    "website": "https://momo.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ tài chính (Fintech)",
    "address": "Tầng M-4-5, Tòa nhà Phú Mỹ Hưng, 8 Tân Trào",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -2901,7 +3263,7 @@
    "company": "Công Ty Cổ Phần Đầu Tư Thế Giới Di Động (MWG)",
    "website": "https://mwg.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ Thiết bị công nghệ & Điện máy",
    "address": "Tòa nhà MWG, Lô T2-1.2, Đường D1, KCNC",
    "ward": "P.Tân Phú",
    "district": "TP.Thủ Đức",
@@ -2927,7 +3289,7 @@
    "company": "Công Ty Cổ Phần Phúc Long Heritage",
    "website": "https://phuclong.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Chuỗi cà phê",
    "address": "Phòng 702, Tầng 7, Tòa nhà Central Plaza, 17 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2953,7 +3315,7 @@
    "company": "Công Ty Cổ Phần Thương Mại Dịch Vụ Cổng Vàng (Golden Gate Group)",
    "website": "https://ggg.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Nhà hàng",
    "address": "Tầng 5, Tòa nhà Green Power, 35 Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -2979,7 +3341,7 @@
    "company": "Công Ty Cổ Phần Giao Hàng Tiết Kiệm (GHTK)",
    "website": "https://giaohangtietkiem.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Kho Tân Phú Trung, Quốc lộ 22",
    "ward": "P.Tân Phú Trung",
    "district": "H.Củ Chi",
@@ -3005,7 +3367,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Giao Hàng Nhanh (GHN)",
    "website": "https://ghn.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Tầng 3, Tòa nhà Rivera Park, 7/28 Thành Thái",
    "ward": "Phường 14",
    "district": "Q.10",
@@ -3031,7 +3393,7 @@
    "company": "Công Ty Cổ Phần Dược Phẩm Pharmacity",
    "website": "https://pharmacity.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Dược & Mỹ phẩm",
    "address": "248A Nơ Trang Long",
    "ward": "Phường 12",
    "district": "Q.Bình Thạnh",
@@ -3057,7 +3419,7 @@
    "company": "Công Ty Cổ Phần Con Cưng",
    "website": "https://concung.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ Mẹ & Bé",
    "address": "Tầng 14, Tòa nhà Phú Mỹ Hưng Tower, 8 Hoàng Văn Thái",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -3083,7 +3445,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Xây Dựng Hòa Bình",
    "website": "https://hbcg.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Xây dựng Dân dụng & Công nghiệp",
    "address": "Tòa nhà Pax Sky, 123 Nguyễn Đình Chiểu",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -3109,7 +3471,7 @@
    "company": "Công Ty Cổ Phần Xây Dựng Coteccons",
    "website": "https://coteccons.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Xây dựng Dân dụng & Công nghiệp",
    "address": "Tòa nhà Coteccons, 236/6 Điện Biên Phủ",
    "ward": "Phường 17",
    "district": "Q.Bình Thạnh",
@@ -3135,7 +3497,7 @@
    "company": "Công Ty Cổ Phần Đầu Tư Nam Long",
    "website": "https://namlongvn.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản & Phát triển đô thị",
    "address": "Số 6 Nguyễn Khắc Viện",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -3161,7 +3523,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Hưng Thịnh",
    "website": "https://hungthinhcorp.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bất động sản & Đầu tư",
    "address": "110-112 Trần Quốc Toản",
    "ward": "Phường 7",
    "district": "Q.3",
@@ -3187,7 +3549,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Hoa Sen",
    "website": "https://hoasengroup.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thép & Kim loại",
    "address": "183 Nguyễn Văn Trỗi",
    "ward": "Phường 10",
    "district": "Q.Phú Nhuận",
@@ -3213,7 +3575,7 @@
    "company": "Công Ty TNHH Nước Giải Khát Suntory PepsiCo Việt Nam",
    "website": "https://suntorypepsico.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tầng 5, Tòa nhà Sheraton, 88 Đồng Khởi",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -3239,7 +3601,7 @@
    "company": "Công Ty Cổ Phần Acecook Việt Nam",
    "website": "https://acecookvietnam.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Lô II-3, Đường số 11, KCN Tân Bình",
    "ward": "P.Tây Thạnh",
    "district": "Q.Tân Phú",
@@ -3265,7 +3627,7 @@
    "company": "Công Ty Cổ Phần Mondelez Kinh Đô Việt Nam",
    "website": "https://mondelezinternational.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tầng 8, Tòa nhà Empress Tower, 138-142 Hai Bà Trưng",
    "ward": "P.Đa Kao",
    "district": "Q.1",
@@ -3291,7 +3653,7 @@
    "company": "Công Ty TNHH CJ CGV Việt Nam",
    "website": "https://cgv.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Văn hóa & Giải trí điện ảnh",
    "address": "Tầng 2, Tòa nhà Rivera Park, 7/28 Thành Thái",
    "ward": "Phường 14",
    "district": "Q.10",
@@ -3317,7 +3679,7 @@
    "company": "Công Ty Cổ Phần Phim Thiên Ngân (Galaxy Cinema)",
    "website": "https://galaxycine.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Văn hóa & Giải trí điện ảnh",
    "address": "Tầng 3, Tòa nhà Bitexco Nam Long, 63A Võ Văn Tần",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -3343,7 +3705,7 @@
    "company": "Tổng Công Ty Thương Mại Sài Gòn - TNHH MTV (Satra)",
    "website": "https://satra.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Thương mại & Chuỗi bán lẻ",
    "address": "275B Phạm Ngũ Lão",
    "ward": "P.Phạm Ngũ Lão",
    "district": "Q.1",
@@ -3369,7 +3731,7 @@
    "company": "Liên Hiệp Hợp Tác Xã Thương Mại TP. Hồ Chí Minh (Saigon Co.op)",
    "website": "https://saigonco-op.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "199-205 Nguyễn Thái Học",
    "ward": "P.Phạm Ngũ Lão",
    "district": "Q.1",
@@ -3395,7 +3757,7 @@
    "company": "Công Ty TNHH Central Retail Việt Nam",
    "website": "https://centralretail.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "Tầng 5, Tòa nhà Central Plaza, 17 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -3421,7 +3783,7 @@
    "company": "Công Ty TNHH Lotte Mart Việt Nam",
    "website": "https://lottemart.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "469 Nguyễn Hữu Thọ",
    "ward": "P.Tân Hưng",
    "district": "Q.7",
@@ -3447,7 +3809,7 @@
    "company": "Công Ty TNHH MM Mega Market (Việt Nam)",
    "website": "https://mmvietnam.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "Khu B, Đô thị mới An Phú - An Khánh",
    "ward": "P.An Phú",
    "district": "TP.Thủ Đức",
@@ -3473,7 +3835,7 @@
    "company": "Công Ty TNHH GS 25 Việt Nam",
    "website": "https://gs25.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ & Cửa hàng tiện lợi",
    "address": "Tòa nhà The Hallmark, 15 Trần Bạch Đằng, KĐT Thủ Thiêm",
    "ward": "P.An Khánh",
    "district": "TP.Thủ Đức",
@@ -3499,7 +3861,7 @@
    "company": "Công Ty TNHH Vòng Tròn Đỏ (Circle K Việt Nam)",
    "website": "https://circlek.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bán lẻ & Cửa hàng tiện lợi",
    "address": "Lô II, Đường CN13, KCN Tân Bình",
    "ward": "P.Tây Thạnh",
    "district": "Q.Tân Phú",
@@ -3525,7 +3887,7 @@
    "company": "Công Ty TNHH Cửa Hàng Tiện Lợi Gia Đình Việt Nam (FamilyMart)",
    "website": "https://famima.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ & Cửa hàng tiện lợi",
    "address": "Tòa nhà Waseco, 10 Phổ Quang",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -3551,7 +3913,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Vmed",
    "website": "https://vmedgroup.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Y tế & Thiết bị y tế",
    "address": "Tòa nhà Vimedimex, 246 Cống Quỳnh",
    "ward": "P.Phạm Ngũ Lão",
    "district": "Q.1",
@@ -3577,7 +3939,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Ô Tô Hàng Xanh (Haxaco Điện Biên Phủ)",
    "website": "https://haxaco.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Phân phối & Dịch vụ Ô tô",
    "address": "333 Điện Biên Phủ",
    "ward": "Phường 15",
    "district": "Q.Bình Thạnh",
@@ -3603,7 +3965,7 @@
    "company": "Công Ty Cổ Phần Công Nghệ Truyền Thông Chicilon Media",
    "website": "https://chicilonmedia.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Truyền thông & Quảng cáo đa phương tiện",
    "address": "Tầng 30, Tòa nhà Vietcombank Tower, 5 Công Trường Mê Linh",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -3629,7 +3991,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Karofi Holding",
    "website": "https://karofi.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất & Phân phối Thiết bị gia dụng",
    "address": "Tòa nhà Lutaco, 173A Nguyễn Văn Trỗi",
    "ward": "Phường 11",
    "district": "Q.Phú Nhuận",
@@ -3655,7 +4017,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Thiên Khôi - Chi Nhánh Miền Nam",
    "website": "https://thienkhoigroup.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bất động sản & Dịch vụ môi giới",
    "address": "Tòa nhà Thiên Khôi, 52 Trương Định",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -3681,7 +4043,7 @@
    "company": "Công Ty Cổ Phần Hai Bốn Bảy (247Express)",
    "website": "https://247express.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Tầng 7, Tòa nhà Kicotrans, 46 Bạch Đằng",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -3707,7 +4069,7 @@
    "company": "Công Ty Cổ Phần Nhựa ADC (ADC Plastic)",
    "website": "https://adcplastic.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Sản xuất Bao bì & Nhựa",
    "address": "Lô C2-4, Đường N7, KCN Lê Minh Xuân 3",
    "ward": "P.Lê Minh Xuân",
    "district": "H.Bình Chánh",
@@ -3733,7 +4095,7 @@
    "company": "Công Ty TNHH Sews-Components Việt Nam",
    "website": "https://sews-components.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Linh kiện điện tử & Ô tô",
    "address": "Đường số 12, KCX Tân Thuận",
    "ward": "P.Tân Thuận Đông",
    "district": "Q.7",
@@ -3759,7 +4121,7 @@
    "company": "Trường Đại Học Kinh Tế - Tài Chính TP.HCM (UEF)",
    "website": "https://uef.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo đại học",
    "address": "141-145 Điện Biên Phủ",
    "ward": "Phường 15",
    "district": "Q.Bình Thạnh",
@@ -3785,7 +4147,7 @@
    "company": "Công Ty Cổ Phần Giải Pháp OMN1",
    "website": "https://omn1solution.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Dịch vụ đám mây",
    "address": "Tầng 5, Tòa nhà E-Town 2, 364 Cộng Hòa",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -3811,7 +4173,7 @@
    "company": "Công Ty TNHH In Bao Bì Toàn Phát",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Bao bì & Nhựa",
    "address": "Lô 11, Đường 2B, KCN Vĩnh Lộc",
    "ward": "P.Bình Hưng Hòa B",
    "district": "Q.Bình Tân",
@@ -3837,7 +4199,7 @@
    "company": "Công Ty Cổ Phần Công Nghiệp Weldcom",
    "website": "https://weldcom.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Cơ khí chính xác & Thiết bị công nghiệp",
    "address": "1391 Phan Văn Trị",
    "ward": "Phường 10",
    "district": "Q.Gò Vấp",
@@ -3863,7 +4225,7 @@
    "company": "Công Ty Cổ Phần Katinat Saigon Kafe",
    "website": "https://katinat.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Chuỗi cà phê",
    "address": "91 Nguyễn Du",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -3889,7 +4251,7 @@
    "company": "Công Ty Cổ Phần Thời Trang Gumac",
    "website": "https://gumac.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang",
    "address": "1038 Quang Trung",
    "ward": "Phường 8",
    "district": "Q.Gò Vấp",
@@ -3915,7 +4277,7 @@
    "company": "Công Ty Cổ Phần Sản Xuất Hàng Tiêu Dùng Bình Tiên (Biti's)",
    "website": "https://bitis.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Giày dép & Thời trang",
    "address": "22 Lý Chiêu Hoàng",
    "ward": "Phường 10",
    "district": "Q.6",
@@ -3941,7 +4303,7 @@
    "company": "Công Ty Cổ Phần Dược Phẩm Gonsa",
    "website": "https://gonsa.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Phân phối & Dược phẩm",
    "address": "Tòa nhà Gonsa, 360 Bến Vân Đồn",
    "ward": "Phường 1",
    "district": "Q.4",
@@ -3967,7 +4329,7 @@
    "company": "Công Ty Cổ Phần Thời Trang Vascara",
    "website": "https://vascara.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang & Phụ kiện",
    "address": "Tòa nhà Leman Luxury, 117 Nguyễn Đình Chiểu",
    "ward": "Phường 6",
    "district": "Q.3",
@@ -3993,7 +4355,7 @@
    "company": "Công Ty Cổ Phần Maison Retail Management International",
    "website": "https://maisonrmi.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang cao cấp",
    "address": "Tầng 18, Tòa nhà Bitexco Financial Tower, 2 Hải Triều",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4019,7 +4381,7 @@
    "company": "Công Ty Cổ Phần Canifa",
    "website": "https://canifa.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang",
    "address": "Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -4045,7 +4407,7 @@
    "company": "Công Ty Cổ Phần Sản Xuất Thương Mại Dịch Vụ C&T (Couple TX)",
    "website": "https://coupletx.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang",
    "address": "Tầng 7, Tòa nhà Pico Plaza, 20 Cộng Hòa",
    "ward": "Phường 12",
    "district": "Q.Tân Bình",
@@ -4065,39 +4427,13 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00127",
-   "slug": "truong-phong-hanh-chinh-nhan-su-go-an-cuong",
-   "title": "Trưởng Phòng Hành Chính Nhân Sự",
-   "company": "Công Ty Cổ Phần Gỗ An Cường",
-   "website": "https://ancuong.com",
-   "level": "Trưởng BP",
-   "industry": null,
-   "address": "702/1F Sư Vạn Hạnh",
-   "ward": "Phường 12",
-   "district": "Q.10",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 25000000,
-    "max": 35000000,
-    "text": "25 - 35 triệu"
-   },
-   "exp_years": "5 năm",
-   "requirements": "Ít nhất 5 năm quản lý HCNS trong ngành sản xuất nội thất, gỗ công nghiệp hoặc vật liệu xây dựng; thành thạo luật lao động, xây dựng KPI và điều hành hành chính.",
-   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/truong-phong-hanh-chinh-nhan-su-an-cuong.35C89E80.html",
-   "source": "careerviet.vn",
-   "updated": "2026-10-08",
-   "expires": "2026-11-06",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00128",
    "slug": "talent-acquisition-specialist-khoi-cong-nghe-du-lieu-chung-khoan-ky-thuong-techcom",
    "title": "Talent Acquisition Specialist (Khối Công Nghệ & Dữ Liệu)",
    "company": "Công Ty Cổ Phần Chứng Khoán Kỹ Thương (Techcom Securities)",
    "website": "https://tcbs.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính & Chứng khoán",
    "address": "Tòa nhà Techcombank Saigon, 23 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4123,7 +4459,7 @@
    "company": "Công Ty TNHH Bosch Việt Nam",
    "website": "https://bosch.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ kỹ thuật & Thiết bị công nghiệp",
    "address": "Tầng 14, Tòa nhà Deutsches Haus, 33 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4149,7 +4485,7 @@
    "company": "Công Ty Cổ Phần Hệ Thống Giáo Dục VUS (Anh Văn Hội Việt Mỹ)",
    "website": "https://vus.edu.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo Anh ngữ",
    "address": "189 Nguyễn Thị Minh Khai",
    "ward": "P.Phạm Ngũ Lão",
    "district": "Q.1",
@@ -4175,7 +4511,7 @@
    "company": "Công Ty Cổ Phần Công Nghệ DNG",
    "website": "https://dngcorp.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Thiết bị an ninh",
    "address": "Tòa nhà DNG, 48A Thân Nhân Trung",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -4201,7 +4537,7 @@
    "company": "Công Ty TNHH Tư Vấn Doanh Nghiệp Tin Holdings",
    "website": "https://tinholdings.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dịch vụ Tư vấn Doanh nghiệp",
    "address": "Tòa nhà Tin Holdings, 399 Nguyễn Kiệm",
    "ward": "Phường 9",
    "district": "Q.Phú Nhuận",
@@ -4227,7 +4563,7 @@
    "company": "Công Ty TNHH Dược Hunmed",
    "website": "https://hunmed.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dược phẩm & Công nghệ sinh học",
    "address": "Số 42 Đường số 1, KDC Cityland Center Hills",
    "ward": "Phường 7",
    "district": "Q.Gò Vấp",
@@ -4253,7 +4589,7 @@
    "company": "Công Ty TNHH Sản Xuất Thương Mại Dịch Vụ Ngôi Nhà Vui Vẻ",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Vui chơi giải trí",
    "address": "Tòa nhà IPC, 1489 Nguyễn Văn Linh",
    "ward": "P.Tân Phong",
    "district": "Q.7",
@@ -4279,7 +4615,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Việt Nam Thịnh Vượng (VPBank)",
    "website": "https://vpbank.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "Tòa nhà VPBank Tower, 3A-3B Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4305,7 +4641,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Tiên Phong (TPBank)",
    "website": "https://tpb.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "Tòa nhà TPBank, 19B Kỳ Đồng",
    "ward": "Phường 9",
    "district": "Q.3",
@@ -4331,7 +4667,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Quân Đội (MB Bank) - Chi Nhánh HCM",
    "website": "https://mbbank.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "Số 259 Trần Hưng Đạo",
    "ward": "P.Cô Giang",
    "district": "Q.1",
@@ -4357,7 +4693,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Quốc Tế Việt Nam (VIB)",
    "website": "https://vib.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "Tòa nhà Sailing Tower, 111A Pasteur",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4383,7 +4719,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Phát Triển TP.HCM (HDBank)",
    "website": "https://hdbank.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "25Bis Nguyễn Thị Minh Khai",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4409,7 +4745,7 @@
    "company": "Công Ty Cổ Phần Sữa Quốc Tế LOF",
    "website": "https://lof.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tòa nhà Pax Sky, 186 Nguyễn Thị Minh Khai",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -4435,7 +4771,7 @@
    "company": "Công Ty TNHH Thực Phẩm Orion Vina",
    "website": "https://orion.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tầng 22, Tòa nhà Bitexco Financial Tower, 2 Hải Triều",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4461,7 +4797,7 @@
    "company": "Công Ty TNHH URC Việt Nam",
    "website": "https://urc.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tầng 12, Tòa nhà Mapletree Business Centre, 1060 Nguyễn Văn Linh",
    "ward": "P.Tân Phong",
    "district": "Q.7",
@@ -4487,7 +4823,7 @@
    "company": "Tổng Công Ty Cổ Phần Bia - Rượu - Nước Giải Khát Sài Gòn (Sabeco)",
    "website": "https://sabeco.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tầng 5, Tòa nhà Vincom Center, 72 Lê Thánh Tôn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4513,7 +4849,7 @@
    "company": "Công Ty TNHH DKSH Việt Nam",
    "website": "https://dksh.com/vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ Phát triển thị trường & Phân phối",
    "address": "Tầng 6, Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -4539,7 +4875,7 @@
    "company": "Công Ty Cổ Phần Thời Trang Elise",
    "website": "https://elise.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang",
    "address": "343 Hai Bà Trưng",
    "ward": "Phường 8",
    "district": "Q.3",
@@ -4565,7 +4901,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Yeah1",
    "website": "https://yeah1group.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Truyền thông & Giải trí đa phương tiện",
    "address": "Tòa nhà Yeah1, 201 Nguyễn Đình Chiểu",
    "ward": "Phường 5",
    "district": "Q.3",
@@ -4591,7 +4927,7 @@
    "company": "Công Ty Cổ Phần Tiki",
    "website": "https://tiki.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại điện tử & Bán lẻ trực tuyến",
    "address": "Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -4617,7 +4953,7 @@
    "company": "Công Ty TNHH Recess (Lazada Việt Nam)",
    "website": "https://lazada.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại điện tử & Bán lẻ trực tuyến",
    "address": "Tầng 19, Tòa nhà Saigon Centre Tower 2, 67 Lê Lợi",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4643,7 +4979,7 @@
    "company": "Công Ty TNHH Chợ Tốt",
    "website": "https://chotot.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại điện tử & Bán lẻ trực tuyến",
    "address": "Tầng 18, Tòa nhà UOA Tower, 6 Tân Trào",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -4669,7 +5005,7 @@
    "company": "Công Ty Cổ Phần Be Group",
    "website": "https://be.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Vận tải công nghệ & Giao nhận",
    "address": "Tầng 16, Tòa nhà Sai Gon Tower, 29 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -4695,7 +5031,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Tức Thời (Ahamove)",
    "website": "https://ahamove.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Tầng 9, Tòa nhà Rivera Park, 7/28 Thành Thái",
    "ward": "Phường 14",
    "district": "Q.10",
@@ -4721,7 +5057,7 @@
    "company": "Công Ty TNHH Ninja Logistics Việt Nam (Ninja Van)",
    "website": "https://ninjavan.co/vi-vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Kho Tổng Ninja Van, 117/2D Hồ Văn Long",
    "ward": "P.Tân Tạo",
    "district": "Q.Bình Tân",
@@ -4747,7 +5083,7 @@
    "company": "Công Ty TNHH Một Thành Viên Chuyển Phát Nhanh Thuận Phong (J&T Express)",
    "website": "https://jtexpress.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Vận tải & Logistics chuyển phát",
    "address": "Tầng 10, Tòa nhà Hải Âu, 39B Trường Sơn",
    "ward": "Phường 4",
    "district": "Q.Tân Bình",
@@ -4773,7 +5109,7 @@
    "company": "Công Ty Cổ Phần Phát Triển Bất Động Sản Phát Đạt",
    "website": "https://phatdat.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản & Phát triển đô thị",
    "address": "Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -4799,7 +5135,7 @@
    "company": "Công Ty Cổ Phần Địa Ốc Sài Gòn Thương Tín (TTC Land)",
    "website": "https://ttcland.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản & Phát triển đô thị",
    "address": "253 Hoàng Văn Thụ",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -4825,7 +5161,7 @@
    "company": "Công Ty Cổ Phần Đầu Tư Địa Ốc Đại Quang Minh",
    "website": "https://dqmcorp.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản & Phát triển đô thị",
    "address": "Số 10 Mai Chí Thọ, KĐT Sala",
    "ward": "P.An Lợi Đông",
    "district": "TP.Thủ Đức",
@@ -4851,7 +5187,7 @@
    "company": "Công Ty Cổ Phần Xây Dựng Central (Central Cons)",
    "website": "https://centralcons.com",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Xây dựng Dân dụng & Công nghiệp",
    "address": "204 Pasteur",
    "ward": "Phường 6",
    "district": "Q.3",
@@ -4877,7 +5213,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Ricons",
    "website": "https://ricons.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Xây dựng Dân dụng & Công nghiệp",
    "address": "Tòa nhà Ricons, 53-55 Bà Huyện Thanh Quan",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -4903,7 +5239,7 @@
    "company": "Công Ty Cổ Phần Đầu Tư Xây Dựng Newtecons",
    "website": "https://newtecons.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Xây dựng Dân dụng & Công nghiệp",
    "address": "Tòa nhà Newtecons, 96 Phan Đăng Lưu",
    "ward": "Phường 5",
    "district": "Q.Phú Nhuận",
@@ -4929,7 +5265,7 @@
    "company": "Bệnh Viện Đa Khoa Quốc Tế Vinmec Central Park",
    "website": "https://vinmec.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Y tế & Dịch vụ Bệnh viện",
    "address": "208 Nguyễn Hữu Cảnh",
    "ward": "Phường 22",
    "district": "Q.Bình Thạnh",
@@ -4955,7 +5291,7 @@
    "company": "Bệnh Viện Đa Khoa Hoàn Mỹ Sài Gòn",
    "website": "https://hoanmysaigon.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Y tế & Dịch vụ Bệnh viện",
    "address": "60-60A Phan Xích Long",
    "ward": "Phường 1",
    "district": "Q.Phú Nhuận",
@@ -4981,7 +5317,7 @@
    "company": "Bệnh Viện Đa Khoa Tâm Anh TP. Hồ Chí Minh",
    "website": "https://tamanhhospital.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Y tế & Dịch vụ Bệnh viện",
    "address": "2B Phổ Quang",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -5007,7 +5343,7 @@
    "company": "Công Ty Cổ Phần Dược Phẩm Imexpharm",
    "website": "https://imexpharm.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dược phẩm & Công nghệ sinh học",
    "address": "Tòa nhà Imexpharm, 4-6 Đường số 3, KDC Trung Sơn",
    "ward": "P.Bình Hưng",
    "district": "H.Bình Chánh",
@@ -5033,7 +5369,7 @@
    "company": "Công Ty Cổ Phần Dược Hậu Giang - Chi Nhánh TP.HCM",
    "website": "https://dhgpharma.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Dược phẩm & Công nghệ sinh học",
    "address": "288Bis Nguyễn Tri Phương",
    "ward": "Phường 4",
    "district": "Q.10",
@@ -5059,7 +5395,7 @@
    "company": "Công Ty Cổ Phần Giáo Dục Vinschool (Cơ Sở TP.HCM)",
    "website": "https://vinschool.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo phổ thông",
    "address": "Khu đô thị Vinhomes Central Park, 208 Nguyễn Hữu Cảnh",
    "ward": "Phường 22",
    "district": "Q.Bình Thạnh",
@@ -5085,7 +5421,7 @@
    "company": "Trường Quốc Tế Nam Sài Gòn (SSIS)",
    "website": "https://ssis.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo quốc tế",
    "address": "78 Nguyễn Đức Cảnh",
    "ward": "P.Tân Phong",
    "district": "Q.7",
@@ -5111,7 +5447,7 @@
    "company": "Trường Quốc Tế Renaissance Sài Gòn",
    "website": "https://renaissance.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo quốc tế",
    "address": "74 Nguyễn Thị Thập",
    "ward": "P.Bình Thuận",
    "district": "Q.7",
@@ -5137,7 +5473,7 @@
    "company": "Công Ty TNHH Intel Products Việt Nam",
    "website": "https://intel.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Linh kiện điện tử & Bán dẫn",
    "address": "Lô I2, Đường D1, KCNC",
    "ward": "P.Tăng Nhơn Phú B",
    "district": "TP.Thủ Đức",
@@ -5163,7 +5499,7 @@
    "company": "Công Ty TNHH Điện Tử Samsung HCMC CE Complex",
    "website": "https://samsung.com/vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thiết bị điện tử & Gia dụng",
    "address": "Lô I-11, Đường D2, KCNC",
    "ward": "P.Tăng Nhơn Phú B",
    "district": "TP.Thủ Đức",
@@ -5189,7 +5525,7 @@
    "company": "Công Ty TNHH Nidec Sankyo Việt Nam",
    "website": "https://nidec.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Linh kiện điện tử & Cơ khí",
    "address": "Lô I1-N2, Đường D1, KCNC",
    "ward": "P.Tân Phú",
    "district": "TP.Thủ Đức",
@@ -5215,7 +5551,7 @@
    "company": "Công Ty TNHH Renesas Design Việt Nam",
    "website": "https://renesas.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Thiết kế vi mạch",
    "address": "Tòa nhà Tan Thuan Design, Đường số 16, KCX Tân Thuận",
    "ward": "P.Tân Thuận Đông",
    "district": "Q.7",
@@ -5241,7 +5577,7 @@
    "company": "Công Ty TNHH DXC Technology Việt Nam",
    "website": "https://dxc.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Dịch vụ phần mềm",
    "address": "Tòa nhà E-Town 5, 364 Cộng Hòa",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -5267,7 +5603,7 @@
    "company": "Công Ty TNHH NashTech Việt Nam",
    "website": "https://nashtechglobal.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Dịch vụ phần mềm",
    "address": "Tầng 3, Tòa nhà E-Town 1, 364 Cộng Hòa",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -5293,7 +5629,7 @@
    "company": "Công Ty Cổ Phần MISA - Chi Nhánh TP.HCM",
    "website": "https://misa.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Công nghệ phần mềm & Giải pháp số",
    "address": "Tòa nhà MISA, Lô 5, Công viên Phần mềm Quang Trung",
    "ward": "P.Tân Chánh Hiệp",
    "district": "Q.12",
@@ -5319,7 +5655,7 @@
    "company": "Công Ty Cổ Phần Base Enterprise (Base.vn)",
    "website": "https://base.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ phần mềm & Giải pháp số",
    "address": "Tầng 8, Tòa nhà MB Sunny Tower, 259 Trần Hưng Đạo",
    "ward": "P.Cô Giang",
    "district": "Q.1",
@@ -5345,7 +5681,7 @@
    "company": "Công Ty Cổ Phần Công Nghệ Sapo - Chi Nhánh TP.HCM",
    "website": "https://sapo.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ phần mềm & Giải pháp số",
    "address": "Tầng 3, Tòa nhà Lữ Gia, 70 Lữ Gia",
    "ward": "Phường 15",
    "district": "Q.11",
@@ -5371,7 +5707,7 @@
    "company": "Công Ty TNHH Kinh Doanh Xuất Nhập Khẩu Sao Việt Miền Nam",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Thương mại & Xuất nhập khẩu",
    "address": "209 Hoàng Văn Thụ",
    "ward": "Phường 8",
    "district": "Q.Phú Nhuận",
@@ -5397,7 +5733,7 @@
    "company": "Công Ty Cổ Phần Americano Coffee",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Chuỗi cà phê",
    "address": "153/1 Võ Văn Tần",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -5423,7 +5759,7 @@
    "company": "Công Ty Cổ Phần New Pine Multimedia Technologies (YOMEDIA)",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Truyền thông & Quảng cáo đa phương tiện",
    "address": "Tầng 4, Tòa nhà IPC, 1489 Nguyễn Văn Linh",
    "ward": "P.Tân Phong",
    "district": "Q.7",
@@ -5449,7 +5785,7 @@
    "company": "Công Ty Cổ Phần Thương Mại Phú Nhuận",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Thương mại & Bán lẻ",
    "address": "291 Hai Bà Trưng",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -5475,7 +5811,7 @@
    "company": "Công Ty TNHH Sando",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất & Cơ khí chính xác",
    "address": "Lô I-3B-2, Đường N6, KCNC",
    "ward": "P.Tăng Nhơn Phú B",
    "district": "TP.Thủ Đức",
@@ -5501,7 +5837,7 @@
    "company": "Trường Đại Học Văn Hiến",
    "website": "https://vhu.edu.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo đại học",
    "address": "665-667-669 Điện Biên Phủ",
    "ward": "Phường 1",
    "district": "Q.3",
@@ -5527,7 +5863,7 @@
    "company": "Công Ty Cổ Phần Thực Phẩm Vĩnh Tân",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Chế biến & Bảo quản Thực phẩm",
    "address": "Lô C24/I, Đường 2F, KCN Vĩnh Lộc",
    "ward": "P.Vĩnh Lộc A",
    "district": "H.Bình Chánh",
@@ -5553,7 +5889,7 @@
    "company": "Công Ty TNHH NDC",
    "website": null,
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Thương mại Dịch vụ & Xuất nhập khẩu",
    "address": "180 Trường Chinh",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -5579,7 +5915,7 @@
    "company": "Công Ty Cổ Phần The New District",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ & Tổ chức sự kiện",
    "address": "28/8 Trần Hưng Đạo",
    "ward": "P.Phạm Ngũ Lão",
    "district": "Q.1",
@@ -5605,7 +5941,7 @@
    "company": "Công Ty Cổ Phần AZ One",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Công nghệ phần mềm & Giải pháp số",
    "address": "84B Trần Quốc Toản",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -5631,7 +5967,7 @@
    "company": "Công Ty Cổ Phần Giáo Dục American Study",
    "website": "https://americanstudy.edu.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo quốc tế",
    "address": "Tầng 4, Tòa nhà Yên Thế, 21 Yên Thế",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -5657,7 +5993,7 @@
    "company": "Công Ty TNHH Hanmir",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất & Vật liệu công nghiệp",
    "address": "Tầng 16, Tòa nhà M-H Building, 728 Võ Văn Kiệt",
    "ward": "Phường 1",
    "district": "Q.5",
@@ -5683,7 +6019,7 @@
    "company": "Công Ty Cổ Phần Minh An",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất & Công nghiệp phụ trợ",
    "address": "Lô B2-57, Đường Kênh 19/5, KCN Tân Bình",
    "ward": "P.Tây Thạnh",
    "district": "Q.Tân Phú",
@@ -5709,7 +6045,7 @@
    "company": "Asiafoods Corporation (Công Ty Cổ Phần Thực Phẩm Á Châu)",
    "website": "https://asiafoods.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Số 9/2, Đường ĐT 743",
    "ward": "P.An Phú",
    "district": "TP.Thuận An",
@@ -5735,7 +6071,7 @@
    "company": "Công Ty Cổ Phần Kỹ Thuật Thái Dương (Suntech)",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Cơ khí chính xác & Tự động hóa",
    "address": "22 Đường C1",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -5761,7 +6097,7 @@
    "company": "Công Ty Cổ Phần Đầu Tư F&B Sài Gòn",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Nhà hàng",
    "address": "157 Pasteur",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -5787,7 +6123,7 @@
    "company": "Công Ty TNHH Kỹ Thuật Công Nghệ Hợp Tiến",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Kỹ thuật công nghệ & Thiết bị công nghiệp",
    "address": "30A Đường số 17",
    "ward": "P.Hiệp Bình Chánh",
    "district": "TP.Thủ Đức",
@@ -5813,7 +6149,7 @@
    "company": "Công Ty TNHH Sản Xuất Công Nghiệp Thương Mại Trâm Anh",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất & Thương mại công nghiệp",
    "address": "Đường số 7, KCN Vĩnh Lộc",
    "ward": "P.Bình Hưng Hòa B",
    "district": "Q.Bình Tân",
@@ -5839,7 +6175,7 @@
    "company": "Công Ty TNHH Hori",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Linh kiện điện tử",
    "address": "Tòa nhà Waseco, 10 Phổ Quang",
    "ward": "Phường 2",
    "district": "Q.Tân Bình",
@@ -5865,7 +6201,7 @@
    "company": "Công Ty TNHH MTV Chăm Sóc Sức Khỏe Bờ Biển Tây",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Y tế & Chăm sóc sức khỏe",
    "address": "144 Nam Kỳ Khởi Nghĩa",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -5891,7 +6227,7 @@
    "company": "Công Ty TNHH One Tech Stop Việt Nam",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ phần mềm & Giải pháp số",
    "address": "Tầng 5, Tòa nhà Pax Sky, 186-186B Nguyễn Thị Minh Khai",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -5917,7 +6253,7 @@
    "company": "Công Ty Cổ Phần Bệnh Viện Thẩm Mỹ Khơ Thị",
    "website": "https://vienthammykhothi.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Thẩm mỹ & Làm đẹp",
    "address": "222 Trần Hưng Đạo",
    "ward": "P.Nguyễn Cư Trinh",
    "district": "Q.1",
@@ -5943,7 +6279,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Minh Minh Group",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản & Dịch vụ bất động sản",
    "address": "Số 26 Đường số 3, KĐT Vạn Phúc",
    "ward": "P.Hiệp Bình Phước",
    "district": "TP.Thủ Đức",
@@ -5969,7 +6305,7 @@
    "company": "Công Ty TNHH DHAS Việt Nam",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại & Thiết bị kỹ thuật",
    "address": "Tầng 11, Tòa nhà Ree Tower, 9 Đoàn Văn Bơ",
    "ward": "Phường 13",
    "district": "Q.4",
@@ -5995,7 +6331,7 @@
    "company": "Công Ty Cổ Phần Daikin Air Conditioning (Vietnam)",
    "website": "https://www.daikin.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất & Phân phối Thiết bị điện lạnh",
    "address": "Tầng 12, Tòa nhà Viettel, 285 Cách Mạng Tháng Tám",
    "ward": "Phường 12",
    "district": "Q.10",
@@ -6021,7 +6357,7 @@
    "company": "Công Ty Cổ Phần Hàng Tiêu Dùng Masan",
    "website": "https://masanconsumer.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Hàng tiêu dùng nhanh (FMCG)",
    "address": "Tầng 12, Tòa nhà MPlaza Saigon, 39 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -6047,7 +6383,7 @@
    "company": "Công Ty TNHH Motul Việt Nam",
    "website": "https://motul.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất & Hóa chất",
    "address": "Lô VI-1, KCN Hiệp Phước",
    "ward": "P.Hiệp Phước",
    "district": "H.Nhà Bè",
@@ -6073,7 +6409,7 @@
    "company": "Công Ty TNHH Trung Tâm Y Khoa Dym Medical Center Việt Nam",
    "website": "https://dymmedicalcenter.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Y tế & Phòng khám đa khoa",
    "address": "Phòng 101, Tòa nhà M-Building, 9 Đường số 8, Tân Phú",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -6099,7 +6435,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn BIM - Chi Nhánh Miền Nam",
    "website": "https://bimgroup.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản & Du lịch nghỉ dưỡng",
    "address": "Tầng 11, Tòa nhà Pearl Plaza, 561A Điện Biên Phủ",
    "ward": "Phường 25",
    "district": "Q.Bình Thạnh",
@@ -6125,7 +6461,7 @@
    "company": "Công Ty Cổ Phần Thép Nam Kim",
    "website": "https://namkimgroup.vn",
    "level": "Giám đốc",
-   "industry": null,
+   "industry": "Sản xuất Thép & Kim loại",
    "address": "Lô N1, Đường Đ2, KCN Đồng An 2",
    "ward": "P.Hòa Phú",
    "district": "TP.Thủ Đức",
@@ -6151,7 +6487,7 @@
    "company": "Công Ty TNHH Bao Bì Tấn Phong",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Bao bì & Nhựa",
    "address": "Lô 12A, Đường số 7, KCN Tân Tạo",
    "ward": "P.Tân Tạo A",
    "district": "Q.Bình Tân",
@@ -6177,7 +6513,7 @@
    "company": "Công Ty TNHH Olam Global Agri Việt Nam",
    "website": "https://www.olamgroup.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Nông nghiệp & Xuất khẩu nông sản",
    "address": "Tầng 8, Tòa nhà Centec Tower, 72-74 Nguyễn Thị Minh Khai",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -6203,7 +6539,7 @@
    "company": "Công Ty TNHH GBC Engineers Việt Nam",
    "website": "https://gbc-engineers.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Tư vấn thiết kế & Kỹ thuật xây dựng",
    "address": "Tầng 5, Tòa nhà Pax Sky, 123 Nguyễn Đình Chiểu",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -6229,7 +6565,7 @@
    "company": "Ngân Hàng Thương Mại Cổ Phần Á Châu (ACB)",
    "website": "https://acb.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "442 Nguyễn Thị Minh Khai",
    "ward": "Phường 5",
    "district": "Q.3",
@@ -6255,7 +6591,7 @@
    "company": "Công Ty Cổ Phần Truyền Thông US",
    "website": "https://uscomms.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Truyền thông & Quảng cáo đa phương tiện",
    "address": "128 Phan Đăng Lưu",
    "ward": "Phường 3",
    "district": "Q.Phú Nhuận",
@@ -6281,7 +6617,7 @@
    "company": "Công Ty TNHH Thương Mại Công Nghệ TL",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại & Thiết bị công nghệ",
    "address": "56 Hoàng Văn Thụ",
    "ward": "Phường 9",
    "district": "Q.Phú Nhuận",
@@ -6307,7 +6643,7 @@
    "company": "Công Ty Cổ Phần Hàng Tiêu Dùng New Day",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Hàng tiêu dùng nhanh (FMCG)",
    "address": "18A Phan Xích Long",
    "ward": "Phường 2",
    "district": "Q.Phú Nhuận",
@@ -6333,7 +6669,7 @@
    "company": "Công Ty Cổ Phần Ez Games",
    "website": "https://ezgames.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin - Game",
    "address": "Tòa nhà CentrePoint, 106 Nguyễn Văn Trỗi",
    "ward": "Phường 8",
    "district": "Q.Phú Nhuận",
@@ -6359,7 +6695,7 @@
    "company": "Công Ty TNHH True Smile",
    "website": "https://truesmile.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Y tế & Chăm sóc sức khỏe",
    "address": "320 Bạch Đằng",
    "ward": "P.Gia Định",
    "district": "Q.Bình Thạnh",
@@ -6385,7 +6721,7 @@
    "company": "Công Ty Cổ Phần Fitme",
    "website": "https://fitme.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang & Thể thao",
    "address": "Tòa nhà Pico Plaza, 20 Cộng Hòa",
    "ward": "Phường 12",
    "district": "Q.Tân Bình",
@@ -6411,7 +6747,7 @@
    "company": "Công Ty Cổ Phần Công Nghệ Y Tế Nhật Việt",
    "website": "https://nhatvietmed.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Thương mại & Thiết bị y tế",
    "address": "52-54 Trương Định",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -6437,7 +6773,7 @@
    "company": "Công Ty Cổ Phần Sản Xuất Thương Mại Tâm Minh Phát",
    "website": null,
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Dệt may & May mặc xuất khẩu",
    "address": "Số 45 Đường số 2, KDC Cityland Park Hills",
    "ward": "Phường 10",
    "district": "Q.Gò Vấp",
@@ -6463,7 +6799,7 @@
    "company": "Công Ty TNHH Thương Mại Ứng Dụng Dược Mỹ Phẩm Công Nghệ Cao Mocha",
    "website": "https://mochagroup.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Mỹ phẩm & Làm đẹp",
    "address": "Tòa nhà Mocha, 81 Cách Mạng Tháng Tám",
    "ward": "P.Bến Thành",
    "district": "Q.1",
@@ -6489,7 +6825,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Và Kỹ Thuật SMC",
    "website": "https://smc-service.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ Kỹ thuật & Thiết bị công nghiệp",
    "address": "Tòa nhà SMC, 124 Ung Văn Khiêm",
    "ward": "Phường 25",
    "district": "Q.Bình Thạnh",
@@ -6515,7 +6851,7 @@
    "company": "Trường Quốc Tế TIS",
    "website": "https://tis.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo quốc tế",
    "address": "305 Nguyễn Trọng Tuyển",
    "ward": "Phường 10",
    "district": "Q.Phú Nhuận",
@@ -6541,7 +6877,7 @@
    "company": "Công Ty TNHH Quốc Tế Medicare",
    "website": "https://medicare.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Dược & Mỹ phẩm",
    "address": "Tầng 5, Tòa nhà Golden Sea, 207 Điện Biên Phủ",
    "ward": "Phường 15",
    "district": "Q.Bình Thạnh",
@@ -6567,7 +6903,7 @@
    "company": "Công Ty TNHH Thương Mại Dịch Vụ VTO Phúc Thịnh",
    "website": "https://vtophucthinh.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Phân phối Hàng tiêu dùng & Mỹ phẩm",
    "address": "68 Nguyễn Cơ Thạch, KĐT Sala",
    "ward": "P.An Lợi Đông",
    "district": "TP.Thủ Đức",
@@ -6593,7 +6929,7 @@
    "company": "Công Ty TNHH Thương Mại Dịch Vụ The Arena Travel",
    "website": "https://arenatravel.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Du lịch & Dịch vụ lữ hành",
    "address": "24 Phan Đăng Lưu",
    "ward": "Phường 6",
    "district": "Q.Bình Thạnh",
@@ -6619,7 +6955,7 @@
    "company": "Công Ty Cổ Phần Vinpearl",
    "website": "https://vinpearl.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản & Du lịch nghỉ dưỡng",
    "address": "Khu đô thị Du lịch Lấn biển Cần Giờ",
    "ward": "P.Long Hòa",
    "district": "H.Cần Giờ",
@@ -6645,7 +6981,7 @@
    "company": "Công Ty Cổ Phần Kỹ Thuật Và Thiết Bị Y Tế Sài Gòn",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại & Thiết bị y tế",
    "address": "258/11 Trần Hưng Đạo",
    "ward": "P.Nguyễn Cư Trinh",
    "district": "Q.1",
@@ -6671,7 +7007,7 @@
    "company": "Công Ty TNHH Việt Dũng Sài Gòn",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất & Thương mại công nghiệp",
    "address": "48/6 Đường số 10, Cư xá Ra Đa",
    "ward": "Phường 13",
    "district": "Q.6",
@@ -6697,7 +7033,7 @@
    "company": "Công Ty Cổ Phần Vnetwork",
    "website": "https://vnetwork.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Công nghệ thông tin & Viễn thông",
    "address": "Tầng 3, Tòa nhà An Phú Plaza, 117-119 Lý Chính Thắng",
    "ward": "P.Võ Thị Sáu",
    "district": "Q.3",
@@ -6723,7 +7059,7 @@
    "company": "Công Ty Cổ Phần Hệ Thống Rau Má Mix",
    "website": "https://raumamix.com.vn",
    "level": "Giám đốc",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Chuỗi đồ uống",
    "address": "124/8 Phan Huy Ích",
    "ward": "Phường 15",
    "district": "Q.Tân Bình",
@@ -6749,7 +7085,7 @@
    "company": "Công Ty Cổ Phần Alliex Việt Nam",
    "website": "https://alliex.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Công nghệ tài chính (Fintech)",
    "address": "Tầng 10, Tòa nhà Lim Tower, 9-11 Tôn Đức Thắng",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -6775,7 +7111,7 @@
    "company": "Công Ty Tài Chính TNHH MB Shinsei (FE Credit)",
    "website": "https://fecredit.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Tài chính & Ngân hàng",
    "address": "Tòa nhà FE Credit, 144 Cộng Hòa",
    "ward": "Phường 12",
    "district": "Q.Tân Bình",
@@ -6801,7 +7137,7 @@
    "company": "Công Ty TNHH Thương Mại Dịch Vụ Kỹ Thuật Minh Khang",
    "website": "https://minhkhang.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại & Thiết bị y tế",
    "address": "Số 27 Đường số 11, KDC Him Lam",
    "ward": "P.Tân Hưng",
    "district": "Q.7",
@@ -6827,7 +7163,7 @@
    "company": "Công Ty Cổ Phần Pizza Ngon",
    "website": "https://thepizzacompany.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ F&B & Nhà hàng",
    "address": "Tòa nhà Sonatus, 15 Lê Thánh Tôn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -6853,7 +7189,7 @@
    "company": "Công Ty Cổ Phần Dịch Vụ Thương Mại Tổng Hợp Wincommerce",
    "website": "https://winmart.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "Tòa nhà MPlaza, 39 Lê Duẩn",
    "ward": "P.Bến Nghé",
    "district": "Q.1",
@@ -6879,7 +7215,7 @@
    "company": "Công Ty Cổ Phần BT International",
    "website": "https://btinternational.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Phân phối & Bán lẻ Hàng tiêu dùng",
    "address": "112 Cao Thắng",
    "ward": "Phường 4",
    "district": "Q.3",
@@ -6905,7 +7241,7 @@
    "company": "Công Ty TNHH Kính Mắt HMK Vietnam",
    "website": "https://hmkeyewear.com",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Thời trang & Phụ kiện",
    "address": "231 Võ Văn Ngân",
    "ward": "P.Linh Chiểu",
    "district": "TP.Thủ Đức",
@@ -6931,7 +7267,7 @@
    "company": "Công Ty Cổ Phần Minh Phúc Transformation",
    "website": "https://mptelecom.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Viễn thông & Dịch vụ BPO",
    "address": "36-38A Trần Văn Dư",
    "ward": "Phường 13",
    "district": "Q.Tân Bình",
@@ -6957,7 +7293,7 @@
    "company": "Công Ty TNHH Tư Vấn Phạm & Các Cộng Sự",
    "website": "https://pham-associates.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ Tư vấn Kế toán & Pháp lý",
    "address": "Tòa nhà Rosana, 60 Nguyễn Đình Chiểu",
    "ward": "P.Đa Kao",
    "district": "Q.1",
@@ -6983,7 +7319,7 @@
    "company": "Công Ty TNHH NovaAsia Digital",
    "website": "https://novaasia.digital",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Truyền thông & Quảng cáo trực tuyến",
    "address": "Tòa nhà Pax Sky, 26 Ung Văn Khiêm",
    "ward": "Phường 25",
    "district": "Q.Bình Thạnh",
@@ -7009,7 +7345,7 @@
    "company": "Công Ty TNHH Tư Vấn H.A.S",
    "website": null,
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Dịch vụ Tư vấn Doanh nghiệp & Pháp lý",
    "address": "180-182 Lý Chính Thắng",
    "ward": "Phường 9",
    "district": "Q.3",
@@ -7035,7 +7371,7 @@
    "company": "Tổng Công Ty Cổ Phần Bảo Hiểm Toàn Cầu",
    "website": "https://gic.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bảo hiểm phi nhân thọ",
    "address": "Tầng 16, Tòa nhà Nam Á Bank, 201-203 Cách Mạng Tháng Tám",
    "ward": "Phường 4",
    "district": "Q.3",
@@ -7061,7 +7397,7 @@
    "company": "Công Ty TNHH SCJ Việt Nam",
    "website": "https://scj.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Thương mại điện tử & Bán lẻ trực tuyến",
    "address": "Tòa nhà SCJ, Kho B2, Đường D1, KCN Tân Thới Hiệp",
    "ward": "P.Hiệp Thành",
    "district": "Q.12",
@@ -7087,7 +7423,7 @@
    "company": "Công Ty Cổ Phần Sữa Việt Nam (Vinamilk)",
    "website": "https://vinamilk.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Sản xuất Thực phẩm & Đồ uống",
    "address": "Tòa nhà Vinamilk, 10 Tân Trào",
    "ward": "P.Tân Phú",
    "district": "Q.7",
@@ -7113,7 +7449,7 @@
    "company": "Công Ty TNHH ILA Vietnam",
    "website": "https://ila.edu.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Giáo dục & Đào tạo Anh ngữ",
    "address": "146 Nguyễn Đình Chiểu",
    "ward": "Phường 6",
    "district": "Q.3",
@@ -7139,7 +7475,7 @@
    "company": "Công Ty TNHH Hwaseung Vina",
    "website": "https://hwaseung.com",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Sản xuất Giày dép & Thời trang",
    "address": "Văn phòng đại diện, Tầng 6, Tòa nhà Dreamplex, 195 Điện Biên Phủ",
    "ward": "Phường 15",
    "district": "Q.Bình Thạnh",
@@ -7165,7 +7501,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Đầu Tư Địa Ốc No Va (Novaland)",
    "website": "https://novaland.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bất động sản & Phát triển đô thị",
    "address": "Tòa nhà Novaland Gallery, 2Bis Nguyễn Thị Minh Khai",
    "ward": "P.Đa Kao",
    "district": "Q.1",
@@ -7191,7 +7527,7 @@
    "company": "Công Ty TNHH Aeon Việt Nam",
    "website": "https://aeon.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ & Chuỗi siêu thị",
    "address": "Số 30 Bờ Bao Tân Thắng",
    "ward": "P.Sơn Kỳ",
    "district": "Q.Tân Phú",
@@ -7217,7 +7553,7 @@
    "company": "Công Ty Cổ Phần Tập Đoàn Mặt Trời (Sun Group)",
    "website": "https://sungroup.com.vn",
    "level": "Trưởng BP",
-   "industry": null,
+   "industry": "Bất động sản & Du lịch nghỉ dưỡng",
    "address": "Tầng 19, Tòa nhà Lim Tower 3, 29A Nguyễn Đình Chiểu",
    "ward": "P.Đa Kao",
    "district": "Q.1",
@@ -7243,7 +7579,7 @@
    "company": "Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT (FPT Retail)",
    "website": "https://fptshop.com.vn",
    "level": "Trưởng nhóm",
-   "industry": null,
+   "industry": "Bán lẻ Thiết bị công nghệ",
    "address": "261-263 Khánh Hội",
    "ward": "Phường 5",
    "district": "Q.4",
@@ -7269,7 +7605,7 @@
    "company": "Công Ty Cổ Phần Dược Phẩm FPT Long Châu",
    "website": "https://nhathuoclongchau.com.vn",
    "level": "Chuyên viên",
-   "industry": null,
+   "industry": "Bán lẻ Dược & Mỹ phẩm",
    "address": "379-381 Hai Bà Trưng",
    "ward": "Phường 8",
    "district": "Q.3",
@@ -7289,5 +7625,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-12T15:33:41.754Z"
+ "generated_at": "2026-10-12T16:31:53.050Z"
 }
