@@ -32,7 +32,7 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 148
+    "count": 146
    },
    {
     "value": "Trưởng nhóm",
@@ -50,7 +50,7 @@
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 270
+    "count": 268
    }
   ],
   "industries": [
@@ -204,7 +204,7 @@
    },
    {
     "value": "Cơ khí chính xác & Tự động hóa",
-    "count": 2
+    "count": 1
    },
    {
     "value": "Du lịch & Dịch vụ lữ hành",
@@ -380,7 +380,7 @@
    },
    {
     "value": "Sản xuất & Thương mại công nghiệp",
-    "count": 2
+    "count": 1
    },
    {
     "value": "Sản xuất & Vật liệu công nghiệp",
@@ -598,11 +598,11 @@
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 113
+    "count": 111
    }
   ]
  },
- "count": 270,
+ "count": 268,
  "jobs": [
   {
    "id": "JOB-2610-00227",
@@ -6065,32 +6065,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00018",
-   "slug": "chuyen-vien-hanh-chinh-nhan-su-ky-thuat-thai-duong-suntech",
-   "title": "Chuyên Viên Hành Chính - Nhân Sự",
-   "company": "Công Ty Cổ Phần Kỹ Thuật Thái Dương (Suntech)",
-   "website": null,
-   "level": "Chuyên viên",
-   "industry": "Cơ khí chính xác & Tự động hóa",
-   "address": "22 Đường C1",
-   "ward": "Phường 13",
-   "district": "Q.Tân Bình",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "2 năm",
-   "requirements": "Ít nhất 2 năm kinh nghiệm ở vị trí tương đương, am hiểu luật lao động, C&B và nghiệp vụ hành chính",
-   "apply_url": "https://www.vietnamworks.com/chuyen-vien-hanh-chinh-nhan-su-2090894-jv",
-   "source": "vietnamworks.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-15",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00019",
    "slug": "chuyen-vien-hanh-chinh-nhan-su-tong-hop-dau-tu-f-b-sai-gon",
    "title": "Chuyên Viên Hành Chính Nhân Sự Tổng Hợp",
@@ -7001,32 +6975,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00054",
-   "slug": "nhan-vien-nhan-su-viet-dung-sai-gon",
-   "title": "Nhân Viên Nhân Sự",
-   "company": "Công Ty TNHH Việt Dũng Sài Gòn",
-   "website": null,
-   "level": "Chuyên viên",
-   "industry": "Sản xuất & Thương mại công nghiệp",
-   "address": "48/6 Đường số 10, Cư xá Ra Đa",
-   "ward": "Phường 13",
-   "district": "Q.6",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "1 năm",
-   "requirements": "Từ 1 năm kinh nghiệm quản lý hồ sơ nhân viên, hỗ trợ đăng tin tuyển dụng, soạn thảo văn bản thông báo nội bộ và phối hợp thanh toán lương hàng tháng.",
-   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-nhan-su.35C86138.html",
-   "source": "careerviet.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-14",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00055",
    "slug": "hr-executive-vnetwork",
    "title": "HR Executive",
@@ -7625,5 +7573,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-12T16:32:26.561Z"
+ "generated_at": "2026-10-16T03:44:34.995Z"
 }
