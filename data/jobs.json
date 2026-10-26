@@ -32,15 +32,15 @@
   "levels": [
    {
     "value": "Chuyên viên",
-    "count": 343
+    "count": 378
    },
    {
     "value": "Trưởng nhóm",
-    "count": 103
+    "count": 110
    },
    {
     "value": "Trưởng BP",
-    "count": 111
+    "count": 106
    },
    {
     "value": "Giám đốc",
@@ -50,7 +50,7 @@
   "provinces": [
    {
     "value": "TP. Hồ Chí Minh",
-    "count": 564
+    "count": 601
    }
   ],
   "industries": [
@@ -99,6 +99,18 @@
     "count": 4
    },
    {
+    "value": "Bán lẻ Chuỗi Cửa hàng Thịt sạch Ăn chay",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Chuỗi Nhà thuốc Hiện đại Hàng đầu",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Chuỗi Siêu thị Mẹ & Bé dẫn đầu thị trường",
+    "count": 1
+   },
+   {
     "value": "Bán lẻ Cửa hàng miễn thuế sân bay",
     "count": 1
    },
@@ -143,10 +155,6 @@
     "count": 2
    },
    {
-    "value": "Bán lẻ Thời trang & Thể thao",
-    "count": 1
-   },
-   {
     "value": "Bán lẻ Thời trang cao cấp",
     "count": 1
    },
@@ -159,11 +167,23 @@
     "count": 1
    },
    {
+    "value": "Bán lẻ Thực phẩm & Đồ uống Nhập khẩu Cao cấp",
+    "count": 1
+   },
+   {
     "value": "Bán lẻ Thực phẩm tươi sống & Thịt heo an toàn",
     "count": 1
    },
    {
     "value": "Bán lẻ Xăng dầu & Trạm sạc năng lượng",
+    "count": 1
+   },
+   {
+    "value": "Bán lẻ Đại siêu thị & Chuỗi Cung ứng Thực phẩm",
+    "count": 1
+   },
+   {
+    "value": "Bán sỉ & Phân phối Thực phẩm Hàng tiêu dùng quy mô lớn",
     "count": 1
    },
    {
@@ -183,7 +203,15 @@
     "count": 4
    },
    {
+    "value": "Bảo hiểm Nhân thọ & Quản lý Quỹ Đầu tư",
+    "count": 1
+   },
+   {
     "value": "Bảo hiểm Nhân thọ & Quản lý tài sản",
+    "count": 1
+   },
+   {
+    "value": "Bảo hiểm Nhân thọ Toàn cầu & Đào tạo Tài chính",
     "count": 1
    },
    {
@@ -231,7 +259,27 @@
     "count": 1
    },
    {
+    "value": "Bất động sản Bán lẻ & Cho thuê Trung tâm Thương mại",
+    "count": 1
+   },
+   {
+    "value": "Bất động sản Công nghiệp & Kho xưởng Logistics Hiện đại",
+    "count": 1
+   },
+   {
     "value": "Bất động sản Khu công nghiệp & Kho bãi logistics",
+    "count": 1
+   },
+   {
+    "value": "Bệnh viện Quốc tế Tiêu chuẩn Pháp & JCI",
+    "count": 1
+   },
+   {
+    "value": "Bệnh viện Đa khoa Quốc tế Tiêu chuẩn JCI",
+    "count": 1
+   },
+   {
+    "value": "Chuyển phát Bưu chính & Giao hàng Chặng cuối",
     "count": 1
    },
    {
@@ -243,7 +291,15 @@
     "count": 1
    },
    {
+    "value": "Chuyển phát nhanh Bưu phẩm & Kho vận Quốc tế",
+    "count": 1
+   },
+   {
     "value": "Chuyển đổi Mô hình làm việc hiện đại ngành Dược",
+    "count": 1
+   },
+   {
+    "value": "Chuỗi Cửa hàng Trà & Cà phê Cao cấp",
     "count": 1
    },
    {
@@ -299,6 +355,10 @@
     "count": 1
    },
    {
+    "value": "Chế biến Nước mắm Truyền thống Lâu đời",
+    "count": 1
+   },
+   {
     "value": "Chế biến Nước ngọt có gas đóng chai lon",
     "count": 1
    },
@@ -312,6 +372,10 @@
    },
    {
     "value": "Chế biến Thịt nguội & Xúc xích an toàn",
+    "count": 1
+   },
+   {
+    "value": "Chế biến Thực phẩm Tươi sống & Đồ hộp Truyền thống",
     "count": 1
    },
    {
@@ -348,6 +412,10 @@
    },
    {
     "value": "Công nghệ Giáo dục & AI",
+    "count": 1
+   },
+   {
+    "value": "Công nghệ Thông tin & Dịch vụ Nền tảng Số",
     "count": 1
    },
    {
@@ -408,7 +476,7 @@
    },
    {
     "value": "Công nghệ thông tin & Viễn thông",
-    "count": 2
+    "count": 1
    },
    {
     "value": "Công nghệ thông tin & Đào tạo trực tuyến",
@@ -436,10 +504,6 @@
    },
    {
     "value": "Dinh dưỡng chăm sóc sức khỏe & Thiết bị chẩn đoán",
-    "count": 1
-   },
-   {
-    "value": "Du lịch & Dịch vụ lữ hành",
     "count": 1
    },
    {
@@ -548,6 +612,10 @@
    },
    {
     "value": "Dịch vụ Kỹ thuật & Thiết bị công nghiệp",
+    "count": 1
+   },
+   {
+    "value": "Dịch vụ Môi giới & Phân phối Bất động sản",
     "count": 1
    },
    {
@@ -671,6 +739,14 @@
     "count": 1
    },
    {
+    "value": "Giao nhận Hàng Thương mại Điện tử Đô thị",
+    "count": 1
+   },
+   {
+    "value": "Giao nhận Vận tải Quốc tế Đa phương thức",
+    "count": 1
+   },
+   {
     "value": "Giao nhận chặng cuối & Bưu cục thương mại điện tử",
     "count": 1
    },
@@ -695,6 +771,10 @@
     "count": 2
    },
    {
+    "value": "Giải pháp Máy lạnh Trung tâm & Không khí Công nghiệp",
+    "count": 1
+   },
+   {
     "value": "Giải pháp Năng lượng & Dầu mỡ nhờn công nghiệp",
     "count": 1
    },
@@ -708,10 +788,18 @@
    },
    {
     "value": "Hàng tiêu dùng nhanh (FMCG)",
-    "count": 3
+    "count": 2
    },
    {
     "value": "Hậu cần Bán lẻ & Quản trị Trang bị Cửa hàng",
+    "count": 1
+   },
+   {
+    "value": "Hệ sinh thái Số & Nền tảng Bán lẻ Công nghệ",
+    "count": 1
+   },
+   {
+    "value": "Hệ thống Bán lẻ Hợp tác xã Hàng tiêu dùng",
     "count": 1
    },
    {
@@ -771,6 +859,10 @@
     "count": 1
    },
    {
+    "value": "Kinh doanh Chuỗi Nhà hàng Nướng Lẩu Hàn - Nhật",
+    "count": 1
+   },
+   {
     "value": "Kinh doanh Vàng bạc Đá quý & Trang sức",
     "count": 1
    },
@@ -823,6 +915,10 @@
     "count": 1
    },
    {
+    "value": "Logistics Toàn cầu & Quản lý Chuỗi Cung ứng",
+    "count": 1
+   },
+   {
     "value": "Lưu kho & Phân phối Thực phẩm đóng chai",
     "count": 1
    },
@@ -840,10 +936,6 @@
    },
    {
     "value": "Mô phỏng 3D Cơ điện & Đào tạo Phần mềm HVAC",
-    "count": 1
-   },
-   {
-    "value": "Mỹ phẩm & Làm đẹp",
     "count": 1
    },
    {
@@ -867,6 +959,14 @@
     "count": 1
    },
    {
+    "value": "Ngân hàng Thương mại & Dịch vụ Tài chính Doanh nghiệp",
+    "count": 1
+   },
+   {
+    "value": "Ngân hàng Thương mại Đa năng & Dịch vụ Số",
+    "count": 1
+   },
+   {
     "value": "Nhà hàng & Ẩm thực cao cấp",
     "count": 1
    },
@@ -884,6 +984,14 @@
    },
    {
     "value": "Nông nghiệp & Xuất khẩu nông sản",
+    "count": 1
+   },
+   {
+    "value": "Nông nghiệp Công nghệ cao & Chế biến Thịt sạch",
+    "count": 1
+   },
+   {
+    "value": "Nền tảng Quản trị Doanh nghiệp SaaS",
     "count": 1
    },
    {
@@ -912,10 +1020,6 @@
    },
    {
     "value": "Phân bón & Hóa chất bảo vệ thực vật",
-    "count": 1
-   },
-   {
-    "value": "Phân phối & Bán lẻ Hàng tiêu dùng",
     "count": 1
    },
    {
@@ -975,6 +1079,10 @@
     "count": 1
    },
    {
+    "value": "Phần mềm Quản lý Bán lẻ & Điện toán Đám mây",
+    "count": 1
+   },
+   {
     "value": "Phần mềm Quản lý bán hàng & Giải pháp số",
     "count": 1
    },
@@ -1015,6 +1123,10 @@
     "count": 1
    },
    {
+    "value": "Quản lý Kho vận & Dịch vụ Chuỗi Cung ứng Dược phẩm",
+    "count": 1
+   },
+   {
     "value": "Quản lý Môi trường & An toàn công nghiệp điện tử",
     "count": 1
    },
@@ -1023,7 +1135,15 @@
     "count": 1
    },
    {
+    "value": "Quản lý Vận hành Bất động sản Đô thị Thông minh",
+    "count": 1
+   },
+   {
     "value": "Quản trị Chuỗi Bán lẻ Thời trang quốc tế",
+    "count": 1
+   },
+   {
+    "value": "Quản trị Chuỗi Nhà hàng Ẩm thực F&B Đa thương hiệu",
     "count": 1
    },
    {
@@ -1063,11 +1183,11 @@
     "count": 1
    },
    {
-    "value": "Sản xuất & Công nghiệp phụ trợ",
+    "value": "Sản xuất & Cơ khí chính xác",
     "count": 1
    },
    {
-    "value": "Sản xuất & Cơ khí chính xác",
+    "value": "Sản xuất & Gia công Giày thể thao Xuất khẩu Toàn cầu",
     "count": 1
    },
    {
@@ -1076,6 +1196,10 @@
    },
    {
     "value": "Sản xuất & Hóa chất",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất & Phân phối Dược phẩm Tiêu chuẩn Nhật Bản",
     "count": 1
    },
    {
@@ -1088,10 +1212,6 @@
    },
    {
     "value": "Sản xuất & Phân phối Thiết bị điều hòa",
-    "count": 1
-   },
-   {
-    "value": "Sản xuất & Phân phối Thiết bị điện lạnh",
     "count": 1
    },
    {
@@ -1108,10 +1228,6 @@
    },
    {
     "value": "Sản xuất & Tiếp thị Đồ uống giải khát quốc tế",
-    "count": 1
-   },
-   {
-    "value": "Sản xuất & Vật liệu công nghiệp",
     "count": 1
    },
    {
@@ -1156,7 +1272,7 @@
    },
    {
     "value": "Sản xuất Bao bì & Nhựa",
-    "count": 4
+    "count": 3
    },
    {
     "value": "Sản xuất Bia & Đồ uống có cồn",
@@ -1188,6 +1304,10 @@
    },
    {
     "value": "Sản xuất Dây cáp điện & Linh kiện quang học",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất Dược phẩm Kháng sinh Tiêu chuẩn EU-GMP",
     "count": 1
    },
    {
@@ -1224,6 +1344,10 @@
    },
    {
     "value": "Sản xuất Hóa chất & Phân bón công nghiệp",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất Kết cấu Thép Nặng & Nhà thép Tiền chế",
     "count": 1
    },
    {
@@ -1299,6 +1423,10 @@
     "count": 1
    },
    {
+    "value": "Sản xuất Sữa Tươi Tiệt trùng & Đồ uống Dinh dưỡng",
+    "count": 1
+   },
+   {
     "value": "Sản xuất Sữa tươi & Sữa chua uống",
     "count": 1
    },
@@ -1312,6 +1440,10 @@
    },
    {
     "value": "Sản xuất Thiết bị quản lý năng lượng & Tự động hóa",
+    "count": 1
+   },
+   {
+    "value": "Sản xuất Thiết bị Điện tử Tiêu dùng & Gia dụng",
     "count": 1
    },
    {
@@ -1363,7 +1495,15 @@
     "count": 1
    },
    {
+    "value": "Sản xuất Động cơ Điện tử Chính xác Công nghệ cao",
+    "count": 1
+   },
+   {
     "value": "Số hóa Quản trị Nhân sự & Phần mềm ERP",
+    "count": 1
+   },
+   {
+    "value": "Thanh toán Điện tử & Thương mại Trực tuyến",
     "count": 1
    },
    {
@@ -1384,6 +1524,10 @@
    },
    {
     "value": "Thiết bị Vệ sinh & Vật liệu xây dựng kiến trúc",
+    "count": 1
+   },
+   {
+    "value": "Thiết bị Điện Thông minh & Tự động hóa Nhà máy",
     "count": 1
    },
    {
@@ -1448,7 +1592,7 @@
    },
    {
     "value": "Thương mại điện tử & Bán lẻ trực tuyến",
-    "count": 5
+    "count": 4
    },
    {
     "value": "Thương mại điện tử & Dịch vụ hỗ trợ khách hàng",
@@ -1559,15 +1703,15 @@
     "count": 4
    },
    {
+    "value": "Tài chính Tiêu dùng & Vay Tiêu dùng Cá nhân",
+    "count": 1
+   },
+   {
     "value": "Tín dụng Tiêu dùng & Dịch vụ Tài chính số",
     "count": 1
    },
    {
     "value": "Tư vấn & Quản lý Bất động sản quốc tế",
-    "count": 1
-   },
-   {
-    "value": "Tư vấn thiết kế & Kỹ thuật xây dựng",
     "count": 1
    },
    {
@@ -1587,6 +1731,10 @@
     "count": 1
    },
    {
+    "value": "Tổng thầu Xây dựng Công trình Dân dụng & Công nghiệp",
+    "count": 1
+   },
+   {
     "value": "Tổng thầu Xây dựng Công trình nhà cao tầng",
     "count": 1
    },
@@ -1599,12 +1747,16 @@
     "count": 1
    },
    {
-    "value": "Viễn thông & Dịch vụ BPO",
+    "value": "Viễn thông & Giải pháp Công nghệ Doanh nghiệp",
     "count": 1
    },
    {
     "value": "Viễn thông - Công nghệ",
     "count": 2
+   },
+   {
+    "value": "Ví điện tử & Công nghệ Tài chính Fintech",
+    "count": 1
    },
    {
     "value": "Văn hóa & Giải trí điện ảnh",
@@ -1659,6 +1811,10 @@
     "count": 1
    },
    {
+    "value": "Vận tải Thủy Nội địa & Dịch vụ Logistics Tích hợp",
+    "count": 1
+   },
+   {
     "value": "Vận tải công nghệ & Giao nhận",
     "count": 1
    },
@@ -1677,6 +1833,10 @@
    {
     "value": "Xây dựng Dân dụng & Công nghiệp",
     "count": 6
+   },
+   {
+    "value": "Xây dựng Hạ tầng Đô thị & Công trình Cao tầng",
+    "count": 1
    },
    {
     "value": "Xử lý Môi trường Nước thải chế biến thủy hải sản",
@@ -1704,6 +1864,10 @@
    },
    {
     "value": "Y tế Cơ sở & Chăm lo Sức khỏe Lao động Nữ may mặc",
+    "count": 1
+   },
+   {
+    "value": "Y tế Kỹ thuật cao & Chăm sóc Sức khỏe Chuyên sâu",
     "count": 1
    },
    {
@@ -1794,16 +1958,1316 @@
   "salary_types": [
    {
     "value": "Có dải lương",
-    "count": 441
+    "count": 483
    },
    {
     "value": "Lương thỏa thuận",
-    "count": 123
+    "count": 118
    }
   ]
  },
- "count": 564,
+ "count": 601,
  "jobs": [
+  {
+   "id": "JOB-2610-00578",
+   "slug": "employee-experience-workplace-operations-specialist-dich-vu-di-dong-truc-tuyen-vi-momo",
+   "title": "Employee Experience & Workplace Operations Specialist",
+   "company": "Công Ty Cổ Phần Dịch Vụ Di Động Trực Tuyến (Ví MoMo - Khối Vận Hành Trải Nghiệm Nhân Viên)",
+   "website": "https://momo.vn",
+   "level": "Chuyên viên",
+   "industry": "Ví điện tử & Công nghệ Tài chính Fintech",
+   "address": "Tòa nhà Phú Mỹ Hưng, 08 Hoàng Văn Thái",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Quản trị cơ sở vật chất văn phòng công nghệ mở, tối ưu hóa tiện ích pantry, tổ chức sự kiện Happy Hour và khảo sát chỉ số hạnh phúc nhân viên MoMo",
+   "apply_url": "https://www.vietnamworks.com/momo-workplace-operations-2132010-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00579",
+   "slug": "fintech-compliance-merchant-operations-hrbp-specialist-shopee-viet-nam-khoi-dich-vu-thanh",
+   "title": "Fintech Compliance & Merchant Operations HRBP Specialist",
+   "company": "Công Ty TNHH Shopee (Việt Nam) - Khối Dịch Vụ Thanh Toán ShopeePay",
+   "website": "https://shopee.vn",
+   "level": "Chuyên viên",
+   "industry": "Thanh toán Điện tử & Thương mại Trực tuyến",
+   "address": "Tòa nhà Saigon Centre Tower 2, 67 Lê Lợi",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 30000000,
+    "text": "20 - 30 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "HRBP cho bộ phận thẩm định hồ sơ điểm chấp nhận thanh toán ShopeePay, kiểm tra tuân thủ phòng chống rửa tiền và xây dựng KPI đội ngũ hỗ trợ đối tác",
+   "apply_url": "https://www.topcv.vn/viec-lam/shopeepay-hrbp-specialist/2262020.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00580",
+   "slug": "vinshop-grocery-network-sales-hrbp-specialist-one-mount-group-vinshop-khoi-ban-le-tap-hoa",
+   "title": "VinShop Grocery Network Sales HRBP Specialist",
+   "company": "Công Ty Cổ Phần One Mount Group (VinShop - Khối Bán Lẻ Tạp Hóa Công Nghệ Phía Nam)",
+   "website": "https://onemount.com",
+   "level": "Chuyên viên",
+   "industry": "Hệ sinh thái Số & Nền tảng Bán lẻ Công nghệ",
+   "address": "Tòa nhà Landmark 81, 720A Điện Biên Phủ",
+   "ward": "Phường 22",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 27000000,
+    "text": "19 - 27 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Đối tác nhân sự cho đội ngũ phát triển mạng lưới tiệm tạp hóa công nghệ VinShop tại TP.HCM, phân tích cơ chế thưởng hoa hồng theo sản lượng giỏ hàng",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/vinshop-sales-hrbp.35C8E110.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00581",
+   "slug": "hris-people-data-analytics-specialist-tap-doan-vng-zalopay-ban-quan-ly-du-lieu-nhan-su",
+   "title": "HRIS & People Data Analytics Specialist",
+   "company": "Công Ty Cổ Phần Tập Đoàn VNG (ZaloPay - Ban Quản Lý Dữ Liệu Nhân Sự & Chuyển Đổi Số)",
+   "website": "https://vng.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Công nghệ Thông tin & Dịch vụ Nền tảng Số",
+   "address": "Zalo & VNG Campus, Đường 13, KCX Tân Thuận",
+   "ward": "P.Tân Thuận Đông",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 22000000,
+    "max": 32000000,
+    "text": "22 - 32 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Triển khai hệ thống quản trị dữ liệu nhân sự Workday/SAP SuccessFactors, tự động hóa quy trình đánh giá hiệu suất OKR cho khối ZaloPay",
+   "apply_url": "https://vieclam24h.vn/nhan-su/hris-data-analytics-zalopay-200990110.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00582",
+   "slug": "b2b-solutions-sales-talent-acquisition-specialist-tong-cong-ty-dich-vu-vien-thong-chi",
+   "title": "B2B Solutions Sales Talent Acquisition Specialist",
+   "company": "Tổng Công Ty Dịch Vụ Viễn Thông (Chi Nhánh Viettel TP.HCM - Khối Khách Hàng Doanh Nghiệp)",
+   "website": "https://vietteltelecom.vn",
+   "level": "Chuyên viên",
+   "industry": "Viễn thông & Giải pháp Công nghệ Doanh nghiệp",
+   "address": "285 Cách Mạng Tháng Tám",
+   "ward": "Phường 12",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tuyển dụng chuyên viên kinh doanh giải pháp chữ ký số, hóa đơn điện tử và kênh truyền Internet leased-line cho doanh nghiệp lớn trên địa bàn TP.HCM",
+   "apply_url": "https://www.vietnamworks.com/b2b-ta-viettel-hcm-2132050-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00583",
+   "slug": "hrm-software-implementation-client-training-specialist-base-enterprise-base-vn-khoi-tu",
+   "title": "HRM Software Implementation & Client Training Specialist",
+   "company": "Công Ty Cổ Phần Base Enterprise (Base.vn - Khối Tư Vấn Chuyển Đổi Số Nhân Sự Phía Nam)",
+   "website": "https://base.vn",
+   "level": "Chuyên viên",
+   "industry": "Nền tảng Quản trị Doanh nghiệp SaaS",
+   "address": "Tầng 8, Tòa nhà Hà Phan, 1119 Trần Hưng Đạo",
+   "ward": "Phường 5",
+   "district": "Q.5",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 24000000,
+    "text": "16 - 24 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Đào tạo và hướng dẫn khách hàng doanh nghiệp thiết lập quy trình quản lý hồ sơ nhân sự, bảng chấm công số Base HRM và phê duyệt điện tử Base Request",
+   "apply_url": "https://www.topcv.vn/viec-lam/hrm-implementation-base-vn/2262060.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00584",
+   "slug": "retail-software-sales-trainer-onboarding-specialist-phan-mem-citigo-kiotviet-khoi-phat",
+   "title": "Retail Software Sales Trainer & Onboarding Specialist",
+   "company": "Công Ty Cổ Phần Phần Mềm Citigo (KiotViet - Khối Phát Triển Nhân Lực Bán Lẻ Phần Mềm)",
+   "website": "https://kiotviet.vn",
+   "level": "Chuyên viên",
+   "industry": "Phần mềm Quản lý Bán lẻ & Điện toán Đám mây",
+   "address": "Tòa nhà M.G Building, 39-41 Lê Thạch",
+   "ward": "Phường 13",
+   "district": "Q.4",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "Đào tạo kỹ năng tư vấn giải pháp phần mềm quản lý bán hàng KiotViet cho chuyên viên kinh doanh mới, tổ chức kiểm tra kịch bản tiếp cận chủ cửa hàng",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/sales-trainer-kiotviet.35C8E150.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00585",
+   "slug": "hypermarket-customer-service-cashier-supervisor-central-retail-viet-nam-chuoi-dai-sieu",
+   "title": "Hypermarket Customer Service & Cashier Supervisor",
+   "company": "Công Ty TNHH Central Retail Việt Nam (Chuỗi Đại Siêu Thị GO! An Phú)",
+   "website": "https://centralretail.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": "Bán lẻ Đại siêu thị & Chuỗi Cung ứng Thực phẩm",
+   "address": "Tầng B1, Tòa nhà Cantavil Premier, Số 1 Song Hành",
+   "ward": "P.An Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Giám sát định biên và chấm công đội ngũ thu ngân, nhân viên quầy dịch vụ khách hàng siêu thị GO! An Phú; kiểm soát kỷ luật tiền mặt và an toàn ca",
+   "apply_url": "https://vieclam24h.vn/nhan-su/cashier-supervisor-central-retail-200990340.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00586",
+   "slug": "supermarket-store-manager-trainee-program-coordinator-lien-hiep-htx-thuong-mai-tp-hcm",
+   "title": "Supermarket Store Manager Trainee Program Coordinator",
+   "company": "Liên Hiệp HTX Thương Mại TP.HCM (Saigon Co.op - Ban Đào Tạo Cán Bộ Quản Lý Siêu Thị)",
+   "website": "https://saigonco-op.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Hệ thống Bán lẻ Hợp tác xã Hàng tiêu dùng",
+   "address": "199-205 Nguyễn Thái Học",
+   "ward": "P.Phạm Ngũ Lão",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Điều phối khóa đào tạo Giám đốc siêu thị nguồn cho hệ thống Co.opmart, theo dõi thực hành luân chuyển qua các ngành hàng thực phẩm tươi sống và bách hóa",
+   "apply_url": "https://www.vietnamworks.com/store-manager-trainee-saigon-coop-2132090-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00587",
+   "slug": "wholesale-store-hrbp-loss-prevention-admin-specialist-mm-mega-market-viet-nam-trung-tam",
+   "title": "Wholesale Store HRBP & Loss Prevention Admin Specialist",
+   "company": "Công Ty TNHH MM Mega Market (Việt Nam) - Trung Tâm Phân Phối MM Mega Market An Phú",
+   "website": "https://mmvietnam.com",
+   "level": "Chuyên viên",
+   "industry": "Bán sỉ & Phân phối Thực phẩm Hàng tiêu dùng quy mô lớn",
+   "address": "Khu B, Đô thị mới An Phú - An Khánh",
+   "ward": "P.An Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "HRBP cho bộ phận bán sỉ HORECA (Khách sạn - Nhà hàng - Căn tin), quản lý hồ sơ kiểm soát thất thoát hàng hóa và kiểm tra kỷ luật lao động kho bán hàng",
+   "apply_url": "https://www.topcv.vn/viec-lam/store-hrbp-mm-mega-market/2262100.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00588",
+   "slug": "store-operations-hr-supervisor-quan-7-nha-be-con-cung-khoi-van-hanh-chuoi-sieu-thi-me-be",
+   "title": "Store Operations HR Supervisor (Quận 7 & Nhà Bè)",
+   "company": "Công Ty Cổ Phần Con Cưng (Khối Vận Hành Chuỗi Siêu Thị Mẹ & Bé Miền Nam)",
+   "website": "https://concung.com",
+   "level": "Trưởng nhóm",
+   "industry": "Bán lẻ Chuỗi Siêu thị Mẹ & Bé dẫn đầu thị trường",
+   "address": "Tầng 14, Tòa nhà Phú Mỹ Hưng, 08 Hoàng Văn Thái",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 27000000,
+    "text": "19 - 27 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Chịu trách nhiệm tuyển dụng, điều phối nhân sự và kiểm soát chi phí nhân công cho cụm 25 siêu thị Con Cưng khu vực phía Nam thành phố",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/store-hr-supervisor-concung.35C8E190.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00589",
+   "slug": "gourmet-food-retail-staff-trainer-quality-assessor-thuong-mai-quoc-te-an-nam-annam",
+   "title": "Gourmet Food Retail Staff Trainer & Quality Assessor",
+   "company": "Công Ty TNHH Thương Mại Quốc Tế An Nam (Annam Gourmet - Ban Quản Trị Nhân Sự Cửa Hàng)",
+   "website": "https://annagourmet.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Bán lẻ Thực phẩm & Đồ uống Nhập khẩu Cao cấp",
+   "address": "41 Thảo Điền",
+   "ward": "P.Thảo Điền",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Huấn luyện kiến thức rượu vang, phô mai châu Âu và kỹ năng phục vụ khách hàng ngoại quốc cho nhân viên bán hàng chuỗi Annam Gourmet Thảo Điền",
+   "apply_url": "https://vieclam24h.vn/nhan-su/retail-trainer-annam-gourmet-200990560.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00590",
+   "slug": "store-barista-training-service-quality-specialist-phuc-long-heritage-khoi-van-hanh-chuoi",
+   "title": "Store Barista Training & Service Quality Specialist",
+   "company": "Công Ty Cổ Phần Phúc Long Heritage (Khối Vận Hành Chuỗi Cửa Hàng Trà & Cà Phê)",
+   "website": "https://phuclong.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Chuỗi Cửa hàng Trà & Cà phê Cao cấp",
+   "address": "Tòa nhà The Peak Garden, 15B Nguyễn Lương Bằng",
+   "ward": "P.Phú Mỹ",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Tổ chức đào tạo công thức pha chế trà sữa Ô Long, trà đào Phúc Long cho nhân viên pha chế mới; chấm điểm kiểm tra định kỳ tiêu chuẩn cửa hàng",
+   "apply_url": "https://www.vietnamworks.com/barista-trainer-phuc-long-2132130-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00591",
+   "slug": "restaurant-cluster-hrbp-specialist-khu-vuc-quan-1-quan-3-thuong-mai-dich-vu-cong-vang",
+   "title": "Restaurant Cluster HRBP Specialist (Khu Vực Quận 1 & Quận 3)",
+   "company": "Công Ty Cổ Phần Thương Mại Dịch Vụ Cổng Vàng (Golden Gate Group - Khối Nhà Hàng TP.HCM)",
+   "website": "https://ggg.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Quản trị Chuỗi Nhà hàng Ẩm thực F&B Đa thương hiệu",
+   "address": "Tầng 4, Tòa nhà Thiên Sơn, 5 Nguyễn Gia Thiều",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Đối tác nhân sự cho cụm nhà hàng Gogi House, Kichi-Kichi, Manwah trung tâm thành phố; tuyển dụng quản lý nhà hàng và điều hòa quỹ lương nhân sự",
+   "apply_url": "https://www.topcv.vn/viec-lam/cluster-hrbp-golden-gate/2262140.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00592",
+   "slug": "kitchen-staffing-culinary-apprenticeship-specialist-dau-tu-redsun-iti-khoi-nha-hang-am",
+   "title": "Kitchen Staffing & Culinary Apprenticeship Specialist",
+   "company": "Công Ty Cổ Phần Đầu Tư Redsun ITI (Khối Nhà Hàng Ẩm Thực Châu Á Phía Nam)",
+   "website": "https://redsun-iti.vn",
+   "level": "Chuyên viên",
+   "industry": "Kinh doanh Chuỗi Nhà hàng Nướng Lẩu Hàn - Nhật",
+   "address": "Tòa nhà Pax Sky, 180-182 Nguyễn Gia Trí",
+   "ward": "Phường 25",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Tuyển dụng phụ bếp, đầu bếp món nướng Hàn - Nhật cho hệ thống nhà hàng King BBQ, Tasaki BBQ; liên kết với trường nghề ẩm thực tuyển học viên",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/kitchen-staffing-redsun.35C8E230.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00593",
+   "slug": "fresh-meat-distribution-hrbp-specialist-chan-nuoi-c-p-viet-nam-chi-nhanh-tp-hcm-ban-quan",
+   "title": "Fresh Meat Distribution HRBP Specialist",
+   "company": "Công Ty Cổ Phần Chăn Nuôi C.P. Việt Nam (Chi Nhánh TP.HCM - Ban Quản Trị Thị Trường Thực Phẩm)",
+   "website": "https://cp.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Nông nghiệp Công nghệ cao & Chế biến Thịt sạch",
+   "address": "Lô B10-B11, Đường 2E, KCN Vĩnh Lộc",
+   "ward": "P.Bình Hưng Hòa B",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 24000000,
+    "text": "16 - 24 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "HRBP cho bộ phận kinh doanh thịt gà, thịt heo mảnh kênh chợ truyền thống và siêu thị; tính thưởng chỉ tiêu trọng lượng thịt giao hàng ngày",
+   "apply_url": "https://vieclam24h.vn/nhan-su/meat-distribution-hrbp-cp-vietnam-200990780.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00594",
+   "slug": "slaughterhouse-hse-worker-welfare-specialist-viet-nam-ky-nghe-suc-san-vissan-ban-quan-ly",
+   "title": "Slaughterhouse HSE & Worker Welfare Specialist",
+   "company": "Công Ty Cổ Phần Việt Nam Kỹ Nghệ Súc Sản (VISSAN - Ban Quản Lý An Toàn Lao Động & Y Tế Lò Mổ)",
+   "website": "https://vissan.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Chế biến Thực phẩm Tươi sống & Đồ hộp Truyền thống",
+   "address": "420 Nơ Trang Long",
+   "ward": "Phường 13",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 14000000,
+    "max": 20000000,
+    "text": "14 - 20 triệu"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "Giám sát quy chuẩn bảo hộ chống trơn trượt khu giết mổ heo bò, quản lý phụ cấp độc hại ẩm ướt và kiểm tra sức khỏe định kỳ công nhân chế biến lạp xưởng",
+   "apply_url": "https://www.vietnamworks.com/hse-welfare-vissan-2132170-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00595",
+   "slug": "parcel-sorting-center-hr-supervisor-kerry-express-viet-nam-khoi-trung-tam-khai-thac-buu",
+   "title": "Parcel Sorting Center HR Supervisor",
+   "company": "Công Ty TNHH Kerry Express (Việt Nam) - Khối Trung Tâm Khai Thác Bưu Kiện Phía Nam",
+   "website": "https://kerryexpress.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": "Chuyển phát nhanh Bưu phẩm & Kho vận Quốc tế",
+   "address": "Kho Kerry Logistics, Lô 10, Đường C, KCN Tân Tạo",
+   "ward": "P.Tân Tạo A",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Quản lý tuyển dụng công nhân bốc xếp ca đêm, giám sát chấm công tự động qua vân tay và xử lý chính sách phụ cấp ca đêm kho bưu kiện Tân Tạo",
+   "apply_url": "https://www.topcv.vn/viec-lam/sorting-center-hr-kerry/2262180.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00596",
+   "slug": "freight-forwarding-operations-talent-acquisition-specialist-giao-nhan-van-tai-con-ong-bee",
+   "title": "Freight Forwarding Operations Talent Acquisition Specialist",
+   "company": "Công Ty Cổ Phần Giao Nhận Vận Tải Con Ong (Bee Logistics Corporation - Chi Nhánh TP.HCM)",
+   "website": "https://beelogistics.com",
+   "level": "Chuyên viên",
+   "industry": "Giao nhận Vận tải Quốc tế Đa phương thức",
+   "address": "Tầng 4, Tòa nhà Hải Âu, 39B Trường Sơn",
+   "ward": "Phường 4",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tuyển dụng nhân viên chứng từ xuất nhập khẩu (Docs Exim), nhân viên hiện trường hải quan cảng Cát Lái và chuyên viên kinh doanh cước tàu biển",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/forwarding-ta-bee-logistics.35C8E270.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00597",
+   "slug": "air-freight-logistics-hrbp-specialist-schenker-viet-nam-db-schenker-ban-quan-tri-nhan-su",
+   "title": "Air Freight Logistics HRBP Specialist",
+   "company": "Công Ty TNHH Schenker Việt Nam (DB Schenker - Ban Quản Trị Nhân Sự Khối Hậu Cần Hàng Không)",
+   "website": "https://dbschenker.com/vn",
+   "level": "Chuyên viên",
+   "industry": "Logistics Toàn cầu & Quản lý Chuỗi Cung ứng",
+   "address": "Tòa nhà Waseco, 10 Phổ Quang",
+   "ward": "Phường 2",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 29000000,
+    "text": "20 - 29 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "HRBP cho bộ phận xử lý hàng hóa hàng không sân bay Tân Sơn Nhất, quản lý chứng chỉ hàng nguy hiểm IATA của nhân viên và đánh giá KPI dịch vụ",
+   "apply_url": "https://vieclam24h.vn/nhan-su/air-freight-hrbp-db-schenker-200991010.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00598",
+   "slug": "pharma-warehouse-quality-hr-compliance-specialist-dhl-supply-chain-viet-nam-trung-tam-kho",
+   "title": "Pharma Warehouse Quality & HR Compliance Specialist",
+   "company": "Công Ty TNHH DHL Supply Chain Việt Nam (Trung Tâm Kho Phân Phối Dược Phẩm Cát Lái)",
+   "website": "https://dhl.com/vn-en",
+   "level": "Chuyên viên",
+   "industry": "Quản lý Kho vận & Dịch vụ Chuỗi Cung ứng Dược phẩm",
+   "address": "Khu C, KCN Cát Lái 2, Đường K1",
+   "ward": "P.Thạnh Mỹ Lợi",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 28000000,
+    "text": "19 - 28 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Kiểm soát tuân thủ tiêu chuẩn Thực hành tốt bảo quản thuốc (GSP) trong quản lý nhân sự kho lạnh DHL, đào tạo quy trình vệ sinh phòng đệm",
+   "apply_url": "https://www.vietnamworks.com/pharma-warehouse-hr-dhl-2132210-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00599",
+   "slug": "barge-logistics-river-transport-hr-coordinator-giao-nhan-tiep-van-quoc-te-itl-corp-ban",
+   "title": "Barge Logistics & River Transport HR Coordinator",
+   "company": "Công Ty Cổ Phần Giao Nhận Tiếp Vận Quốc Tế (ITL Corp - Ban Quản Trị Nhân Sự Khối Vận Tải Sà Lan)",
+   "website": "https://itlvn.com",
+   "level": "Chuyên viên",
+   "industry": "Vận tải Thủy Nội địa & Dịch vụ Logistics Tích hợp",
+   "address": "52-54-56 Thủ Khoa Huân",
+   "ward": "P.Bến Thành",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 24000000,
+    "text": "17 - 24 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Quản lý hồ sơ chứng chỉ thuyền viên, bằng lái tàu thủy nội địa của đội ngũ lái sà lan chuyên chở container tuyến TP.HCM - Cái Mép",
+   "apply_url": "https://www.topcv.vn/viec-lam/barge-hr-itl-corp/2262220.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00600",
+   "slug": "urban-delivery-hubs-hr-cluster-supervisor-ninja-van-viet-nam-khoi-quan-ly-mang-luoi-tram",
+   "title": "Urban Delivery Hubs HR Cluster Supervisor",
+   "company": "Công Ty TNHH Ninja Van Việt Nam (Khối Quản Lý Mạng Lưới Trạm Bưu Cục Trung Tâm TP.HCM)",
+   "website": "https://ninjavan.co/vi-vn",
+   "level": "Trưởng nhóm",
+   "industry": "Giao nhận Hàng Thương mại Điện tử Đô thị",
+   "address": "117/2D Hồ Văn Long",
+   "ward": "P.Tân Tạo",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Điều phối tuyển dụng và giám sát chấm công đội ngũ shipper xe máy cho 30 bưu cục Ninja Van khu vực trung tâm, giải quyết tranh chấp giao trễ",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/urban-hubs-hr-ninjavan.35C8E310.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00601",
+   "slug": "driver-onboarding-service-standard-trainer-giao-hang-nhanh-ghn-khoi-dao-tao-tai-xe-cong",
+   "title": "Driver Onboarding & Service Standard Trainer",
+   "company": "Công Ty Cổ Phần Giao Hàng Nhanh (GHN - Khối Đào Tạo Tài Xế Công Nghệ & Nhân Viên Bưu Cục)",
+   "website": "https://ghn.vn",
+   "level": "Chuyên viên",
+   "industry": "Chuyển phát Bưu chính & Giao hàng Chặng cuối",
+   "address": "Tầng 3, Tòa nhà Rivera Park, 7/28 Thành Thái",
+   "ward": "Phường 14",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Đào tạo nghiệp vụ nhận gửi hàng, quy trình kiểm đếm hàng giá trị cao và kỹ năng ứng xử văn minh với người mua hàng cho tài xế GHN mới gia nhập",
+   "apply_url": "https://vieclam24h.vn/nhan-su/driver-trainer-ghn-200991230.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00602",
+   "slug": "international-patient-relations-staffing-specialist-benh-vien-fv-fv-hospital-ban-quan-tri",
+   "title": "International Patient Relations Staffing Specialist",
+   "company": "Bệnh Viện FV (FV Hospital - Ban Quản Trị Nhân Sự Khối Chăm Sóc Khách Hàng Quốc Tế)",
+   "website": "https://fvhospital.com",
+   "level": "Chuyên viên",
+   "industry": "Bệnh viện Quốc tế Tiêu chuẩn Pháp & JCI",
+   "address": "6 Nguyễn Lương Bằng, Nam Sài Gòn",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 28000000,
+    "text": "19 - 28 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Tuyển dụng nhân viên phiên dịch y khoa tiếng Anh, tiếng Pháp; quản lý thời gian làm việc ca trực cấp cứu và kiểm tra thái độ phục vụ người bệnh",
+   "apply_url": "https://www.vietnamworks.com/patient-relations-fv-hospital-2132250-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00603",
+   "slug": "hospital-administrative-doctor-credentialing-specialist-benh-vien-gia-an-115-khu-y-te-ky",
+   "title": "Hospital Administrative & Doctor Credentialing Specialist",
+   "company": "Bệnh Viện Gia An 115 (Khu Y Tế Kỹ Thuật Cao Hoa Lâm Shangri-la)",
+   "website": "https://giaan115.com",
+   "level": "Chuyên viên",
+   "industry": "Y tế Kỹ thuật cao & Chăm sóc Sức khỏe Chuyên sâu",
+   "address": "Số 05, Đường 17A, Khu Y tế Kỹ thuật cao",
+   "ward": "P.Bình Trị Đông B",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Quản lý hồ sơ cấp thẻ bảo hiểm y tế, kiểm tra thủ tục đăng ký người hành nghề y tế với Sở Y tế TP.HCM và theo dõi lịch trực viện các khoa tim mạch",
+   "apply_url": "https://www.topcv.vn/viec-lam/credentialing-gia-an-115/2262260.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00604",
+   "slug": "ethical-hospital-channel-hrbp-specialist-duoc-hau-giang-chi-nhanh-tp-hcm-ban-quan-tri-doi",
+   "title": "Ethical Hospital Channel HRBP Specialist",
+   "company": "Công Ty Cổ Phần Dược Hậu Giang (Chi Nhánh TP.HCM - Ban Quản Trị Đội Ngũ Trình Dược Viên Bệnh Viện)",
+   "website": "https://dhgpharma.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất & Phân phối Dược phẩm Tiêu chuẩn Nhật Bản",
+   "address": "288Bis Nguyễn Tri Phương",
+   "ward": "Phường 4",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Đối tác nhân sự cho đội ngũ trình dược viên kê đơn kênh bệnh viện (ETC) tại các bệnh viện tuyến đầu Chợ Rẫy, Từ Dũ; tính thưởng trúng thầu thuốc",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/etc-hrbp-dhg-pharma.35C8E350.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00605",
+   "slug": "regulatory-affairs-quality-assurance-staffing-specialist-duoc-pham-imexpharm-van-phong",
+   "title": "Regulatory Affairs & Quality Assurance Staffing Specialist",
+   "company": "Công Ty Cổ Phần Dược Phẩm Imexpharm (Văn Phòng Đại Diện TP.HCM)",
+   "website": "https://imexpharm.com",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất Dược phẩm Kháng sinh Tiêu chuẩn EU-GMP",
+   "address": "Tầng 6, Tòa nhà Athena, 146 Cộng Hòa",
+   "ward": "Phường 12",
+   "district": "Q.Tân Bình",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Săn đón chuyên viên đăng ký thuốc (Regulatory Affairs), chuyên viên thẩm định hồ sơ EU-GMP nhà máy kháng sinh tiêm vô trùng",
+   "apply_url": "https://vieclam24h.vn/nhan-su/qa-staffing-imexpharm-200991450.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00606",
+   "slug": "store-pharmacist-compensation-incentive-analyst-duoc-pham-pharmacity-ban-quan-tri-dai-ngo",
+   "title": "Store Pharmacist Compensation & Incentive Analyst",
+   "company": "Công Ty Cổ Phần Dược Phẩm Pharmacity (Ban Quản Trị Đãi Ngộ & Lương Thưởng Dược Sĩ Trưởng)",
+   "website": "https://pharmacity.vn",
+   "level": "Chuyên viên",
+   "industry": "Bán lẻ Chuỗi Nhà thuốc Hiện đại Hàng đầu",
+   "address": "248A Nơ Trang Long",
+   "ward": "Phường 12",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 27000000,
+    "text": "18 - 27 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Phân tích số liệu doanh thu bán lẻ nhà thuốc, thiết kế cơ chế thưởng doanh số ngành hàng thực phẩm chức năng và mỹ phẩm cho Dược sĩ trưởng cửa hàng",
+   "apply_url": "https://www.vietnamworks.com/pharmacist-compensation-pharmacity-2132290-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00607",
+   "slug": "maternity-pediatric-nursing-hr-coordinator-benh-vien-da-khoa-quoc-te-vinmec-central-park",
+   "title": "Maternity & Pediatric Nursing HR Coordinator",
+   "company": "Bệnh Viện Đa Khoa Quốc Tế Vinmec Central Park (Ban Quản Trị Trải Nghiệm Điều Dưỡng Sản Nhi)",
+   "website": "https://vinmec.com",
+   "level": "Chuyên viên",
+   "industry": "Bệnh viện Đa khoa Quốc tế Tiêu chuẩn JCI",
+   "address": "208 Nguyễn Hữu Cảnh",
+   "ward": "Phường 22",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Quản lý tuyển dụng nữ hộ sinh chăm sóc mẹ và bé sau sinh, kiểm tra tuân thủ quy trình kiểm soát nhiễm khuẩn phòng mổ và chấm công ca trực 12 giờ",
+   "apply_url": "https://www.topcv.vn/viec-lam/maternity-nursing-hr-vinmec/2262300.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00608",
+   "slug": "township-customer-service-security-hr-supervisor-vinhomes-ban-quan-ly-khu-do-thi-vinhomes",
+   "title": "Township Customer Service & Security HR Supervisor",
+   "company": "Công Ty Cổ Phần Vinhomes (Ban Quản Lý Khu Đô Thị Vinhomes Grand Park)",
+   "website": "https://vinhomes.vn",
+   "level": "Trưởng nhóm",
+   "industry": "Quản lý Vận hành Bất động sản Đô thị Thông minh",
+   "address": "Khu Đô thị Vinhomes Grand Park, Đường Nguyễn Xiển",
+   "ward": "P.Long Thạnh Mỹ",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 28000000,
+    "text": "19 - 28 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Quản lý đội ngũ nhân viên lễ tân sảnh chung cư, giám sát chấm công và kỷ luật đội ngũ bảo vệ tuần tra công viên 36 hecta tại đại đô thị Grand Park",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/township-hr-vinhomes.35C8E390.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00609",
+   "slug": "shopping-mall-operations-hrbp-specialist-vincom-retail-ban-quan-ly-tttm-vincom-center",
+   "title": "Shopping Mall Operations HRBP Specialist",
+   "company": "Công Ty Cổ Phần Vincom Retail (Ban Quản Lý TTTM Vincom Center Đồng Khởi)",
+   "website": "https://vincom.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Bất động sản Bán lẻ & Cho thuê Trung tâm Thương mại",
+   "address": "72 Lê Thánh Tôn",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "HRBP cho bộ phận kỹ thuật bảo trì tòa nhà và bộ phận quản lý gian hàng khách thuê TTTM Vincom Center; giải quyết các sự cố ca kíp trung tâm",
+   "apply_url": "https://vieclam24h.vn/nhan-su/mall-hrbp-vincom-retail-200991670.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00610",
+   "slug": "real-estate-brokerage-sales-force-hr-specialist-tap-doan-dat-xanh-ban-quan-tri-nhan-su",
+   "title": "Real Estate Brokerage Sales Force HR Specialist",
+   "company": "Công Ty Cổ Phần Tập Đoàn Đất Xanh (Ban Quản Trị Nhân Sự Khối Môi Giới Dự Án Phía Đông)",
+   "website": "https://datxanh.vn",
+   "level": "Chuyên viên",
+   "industry": "Dịch vụ Môi giới & Phân phối Bất động sản",
+   "address": "2W Ung Văn Khiêm",
+   "ward": "Phường 25",
+   "district": "Q.Bình Thạnh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Tuyển dụng nhân viên môi giới căn hộ cao cấp, quản lý dữ liệu hợp đồng cộng tác viên sàn giao dịch và thẩm định hoa hồng theo hợp đồng mua bán cọc",
+   "apply_url": "https://www.vietnamworks.com/brokerage-hr-dat-xanh-2132330-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00611",
+   "slug": "civil-construction-site-hr-labor-safety-specialist-tap-doan-xay-dung-ricons-khoi-thi-cong",
+   "title": "Civil Construction Site HR & Labor Safety Specialist",
+   "company": "Công Ty Cổ Phần Tập Đoàn Xây Dựng Ricons (Khối Thi Công Kết Cấu Thép & Hạ Tầng Kỹ Thuật)",
+   "website": "https://ricons.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Tổng thầu Xây dựng Công trình Dân dụng & Công nghiệp",
+   "address": "Tòa nhà Ricons, 53-55 Bà Huyện Thanh Quan",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Quản lý hồ sơ an toàn lao động tại các dự án nhà cao tầng của Ricons, kiểm soát thẻ ra vào công trường của thợ cốt thép và giải quyết chế độ tai nạn",
+   "apply_url": "https://www.topcv.vn/viec-lam/site-hr-safety-ricons/2262340.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00612",
+   "slug": "site-labor-discipline-hse-training-coordinator-xay-dung-an-phong-ban-an-toan-lao-dong",
+   "title": "Site Labor Discipline & HSE Training Coordinator",
+   "company": "Công Ty Cổ Phần Xây Dựng An Phong (Ban An Toàn Lao Động & Quản Lý Lao Động Phổ Thông)",
+   "website": "https://anphong.vn",
+   "level": "Chuyên viên",
+   "industry": "Xây dựng Hạ tầng Đô thị & Công trình Cao tầng",
+   "address": "Tòa nhà An Phong, 42-44 Đường B2, Khu đô thị Sala",
+   "ward": "P.An Lợi Đông",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Tổ chức huấn luyện an toàn lao động nhóm 3 cho thợ giàn giáo, thợ cẩu tháp; kiểm tra nồng độ cồn đầu giờ làm việc và báo cáo tai nạn lao động",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/hse-training-an-phong.35C8E430.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00613",
+   "slug": "industrial-park-admin-facilities-specialist-phat-trien-cong-nghiep-bw-bw-industrial-ban",
+   "title": "Industrial Park Admin & Facilities Specialist",
+   "company": "Công Ty Cổ Phần Phát Triển Công Nghiệp BW (BW Industrial - Ban Quản Trị Vận Hành Cụm Nhà Xưởng Tân Phú Trung)",
+   "website": "https://bwindustrial.com",
+   "level": "Chuyên viên",
+   "industry": "Bất động sản Công nghiệp & Kho xưởng Logistics Hiện đại",
+   "address": "Lô B1-1, Đường D2, KCN Tân Phú Trung",
+   "ward": "Xã Tân Phú Trung",
+   "district": "H.Củ Chi",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Quản lý hành chính nhà điều hành cụm kho xưởng xây sẵn, giám sát hợp đồng nhà thầu bảo vệ, vệ sinh môi trường và bảo trì hệ thống xử lý nước thải",
+   "apply_url": "https://vieclam24h.vn/nhan-su/industrial-admin-bw-200991890.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00614",
+   "slug": "sme-banking-relationship-manager-talent-acquisition-specialist-ngan-hang-tmcp-viet-nam",
+   "title": "SME Banking Relationship Manager Talent Acquisition Specialist",
+   "company": "Ngân Hàng TMCP Việt Nam Thịnh Vượng (VPBank - Khối Khách Hàng Doanh Nghiệp Nhỏ & Vừa Miền Nam)",
+   "website": "https://vpbank.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Ngân hàng Thương mại & Dịch vụ Tài chính Doanh nghiệp",
+   "address": "Tòa nhà VPBank Saigon, 129 Pasteur",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 28000000,
+    "text": "19 - 28 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tuyển dụng chuyên viên quản lý quan hệ khách hàng doanh nghiệp SME, thẩm định kinh nghiệm thẩm định tài chính báo cáo thuế và cấp hạn mức tín dụng",
+   "apply_url": "https://www.vietnamworks.com/sme-ta-vpbank-2132370-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00615",
+   "slug": "branch-operations-teller-training-specialist-ngan-hang-tmcp-quan-doi-mbbank-khoi-van-hanh",
+   "title": "Branch Operations & Teller Training Specialist",
+   "company": "Ngân Hàng TMCP Quân Đội (MBBank - Khối Vận Hành Chi Nhánh Khu Vực Phía Nam)",
+   "website": "https://mbbank.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Ngân hàng Thương mại Đa năng & Dịch vụ Số",
+   "address": "Tòa nhà MBBank, 259 Trần Hưng Đạo",
+   "ward": "P.Cô Giang",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 27000000,
+    "text": "18 - 27 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Đào tạo nghiệp vụ kiểm đếm ngoại tệ, giao dịch tiền mặt tại quầy và quy định an toàn kho quỹ ngân hàng cho giao dịch viên chi nhánh mới",
+   "apply_url": "https://www.topcv.vn/viec-lam/teller-trainer-mbbank/2262380.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00616",
+   "slug": "agency-channel-compliance-code-of-conduct-specialist-bao-hiem-nhan-tho-prudential-viet",
+   "title": "Agency Channel Compliance & Code of Conduct Specialist",
+   "company": "Công Ty TNHH Bảo Hiểm Nhân Thọ Prudential Việt Nam (Ban Quản Trị Đội Ngũ Đại Lý Miền Nam)",
+   "website": "https://prudential.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Bảo hiểm Nhân thọ & Quản lý Quỹ Đầu tư",
+   "address": "Tầng 25, Tòa nhà Saigon Trade Center, 37 Tôn Đức Thắng",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 19000000,
+    "max": 28000000,
+    "text": "19 - 28 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Giám sát tính tuân thủ quy tắc ứng xử tư vấn bảo hiểm của đại lý, điều tra các khiếu nại tranh chấp hợp đồng bảo hiểm và báo cáo Cục Quản lý Giám sát BH",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/agency-compliance-prudential.35C8E470.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00617",
+   "slug": "agency-leadership-development-academy-trainer-manulife-viet-nam-khoi-huan-luyen-phat",
+   "title": "Agency Leadership Development Academy Trainer",
+   "company": "Công Ty TNHH Manulife (Việt Nam) - Khối Huấn Luyện & Phát Triển Cán Bộ Quản Trị Đại Lý",
+   "website": "https://manulife.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Bảo hiểm Nhân thọ Toàn cầu & Đào tạo Tài chính",
+   "address": "Tòa nhà Manulife Plaza, 75 Hoàng Văn Thái",
+   "ward": "P.Tân Phú",
+   "district": "Q.7",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 30000000,
+    "text": "20 - 30 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Huấn luyện kỹ năng tuyển dụng và quản lý đội nhóm cho các Trưởng ban kinh doanh bảo hiểm, tổ chức các hội thảo tài chính chuyên đề cho khách hàng",
+   "apply_url": "https://vieclam24h.vn/nhan-su/agency-trainer-manulife-200992110.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00618",
+   "slug": "debt-collection-staffing-ethical-conduct-supervisor-tai-chinh-tnhh-mtv-mirae-asset-viet",
+   "title": "Debt Collection Staffing & Ethical Conduct Supervisor",
+   "company": "Công Ty Tài Chính TNHH MTV Mirae Asset (Việt Nam) - Khối Quản Trị Nhân Lực Thu Hồi Nợ",
+   "website": "https://mafc.com.vn",
+   "level": "Trưởng nhóm",
+   "industry": "Tài chính Tiêu dùng & Vay Tiêu dùng Cá nhân",
+   "address": "Tầng 1, Tòa nhà Sài Gòn Royal, 91 Pasteur",
+   "ward": "P.Bến Nghé",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tuyển dụng nhân viên nhắc nợ qua điện thoại (telesales collection), kiểm soát việc tuân thủ pháp luật và đạo đức gọi điện theo quy định Ngân hàng Nhà nước",
+   "apply_url": "https://www.vietnamworks.com/collection-hr-mirae-asset-2132410-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00619",
+   "slug": "customer-service-warranty-technicians-hr-specialist-panasonic-viet-nam-trung-tam-dich-vu",
+   "title": "Customer Service & Warranty Technicians HR Specialist",
+   "company": "Công Ty TNHH Panasonic Việt Nam (Trung Tâm Dịch Vụ Khách Hàng & Bảo Hành TP.HCM)",
+   "website": "https://panasonic.com/vn",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất Thiết bị Điện tử Tiêu dùng & Gia dụng",
+   "address": "Tầng 1, Tòa nhà Qunimex, 28 Nguyễn Thị Diệu",
+   "ward": "P.Võ Thị Sáu",
+   "district": "Q.3",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "HRBP cho bộ phận kỹ thuật viên sửa chữa tủ lạnh, máy giặt, tivi tại nhà khách hàng; quản lý phụ cấp xăng xe đi lại và tính thưởng độ hài lòng khách",
+   "apply_url": "https://www.topcv.vn/viec-lam/technicians-hr-panasonic/2262420.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00620",
+   "slug": "precision-motor-assembly-training-specialist-nidec-sankyo-vietnam-ban-quan-ly-dao-tao-tay",
+   "title": "Precision Motor Assembly Training Specialist",
+   "company": "Công Ty TNHH Nidec Sankyo Vietnam (Ban Quản Lý Đào Tạo Tay Nghề Lắp Ráp Động Cơ Chính Xác)",
+   "website": "https://nidec.com",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất Động cơ Điện tử Chính xác Công nghệ cao",
+   "address": "Lô I1-N2, Đường D1, Khu Công Nghệ Cao",
+   "ward": "P.Tân Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 21000000,
+    "text": "15 - 21 triệu"
+   },
+   "exp_years": "2 - 3 năm",
+   "requirements": "Huấn luyện thao tác gắp cuộn dây micro, hàn linh kiện bảng mạch động cơ bước không chổi than cho công nhân dây chuyền phòng sạch",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/motor-training-nidec.35C8E510.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-25",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00621",
+   "slug": "dairy-processing-plant-hse-labor-admin-specialist-sua-quoc-te-lof-nha-may-sua-cu-chi-ban",
+   "title": "Dairy Processing Plant HSE & Labor Admin Specialist",
+   "company": "Công Ty Cổ Phần Sữa Quốc Tế LOF (Nhà Máy Sữa Củ Chi - Ban Quản Trị Nhân Sự & An Toàn Thực Phẩm)",
+   "website": "https://lof.vn",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất Sữa Tươi Tiệt trùng & Đồ uống Dinh dưỡng",
+   "address": "Lô B2-B3, Đường D4, KCN Đông Nam",
+   "ward": "Xã Hòa Phú",
+   "district": "H.Củ Chi",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 16000000,
+    "max": 23000000,
+    "text": "16 - 23 triệu"
+   },
+   "exp_years": "3 năm",
+   "requirements": "Kiểm tra điều kiện vệ sinh an toàn công nhân phòng rót sữa tiệt trùng UHT, quản lý hồ sơ khám sức khỏe định kỳ và cấp phát đồ bảo hộ phòng sạch",
+   "apply_url": "https://vieclam24h.vn/nhan-su/plant-hse-admin-lof-200992330.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-29",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00622",
+   "slug": "chiller-hvac-engineers-talent-acquisition-specialist-daikin-air-conditioning-vietnam",
+   "title": "Chiller HVAC Engineers Talent Acquisition Specialist",
+   "company": "Công Ty TNHH Daikin Air Conditioning (Vietnam) - Trung Tâm Kỹ Thuật Lạnh Chiller Phía Nam",
+   "website": "https://daikin.com.vn",
+   "level": "Chuyên viên",
+   "industry": "Giải pháp Máy lạnh Trung tâm & Không khí Công nghiệp",
+   "address": "Tòa nhà Viettel Complex, 285 Cách Mạng Tháng Tám",
+   "ward": "Phường 12",
+   "district": "Q.10",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 26000000,
+    "text": "18 - 26 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Tìm kiếm kỹ sư chuyên ngành Nhiệt - Điện lạnh có kinh nghiệm vận hành hệ thống máy lạnh trung tâm Chiller giải nhiệt nước cho tòa nhà cao ốc",
+   "apply_url": "https://www.vietnamworks.com/chiller-ta-daikin-2132450-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00623",
+   "slug": "smart-factory-continuous-improvement-kaizen-hr-specialist-schneider-electric-viet-nam-ban",
+   "title": "Smart Factory Continuous Improvement & Kaizen HR Specialist",
+   "company": "Công Ty TNHH Schneider Electric Việt Nam (Ban Quản Trị Hệ Thống Quản Lý Đổi Mới Nơi Làm Việc)",
+   "website": "https://se.com/vn",
+   "level": "Chuyên viên",
+   "industry": "Thiết bị Điện Thông minh & Tự động hóa Nhà máy",
+   "address": "Lô DVTM-11-12-13, Đường số 1, Khu Công Nghệ Cao",
+   "ward": "P.Tân Phú",
+   "district": "TP.Thủ Đức",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 20000000,
+    "max": 29000000,
+    "text": "20 - 29 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Thúc đẩy các phong trào sáng kiến cải tiến Kaizen nhà máy thông minh, tổ chức vinh danh cá nhân xuất sắc và đánh giá tác động tiết kiệm chi phí sản xuất",
+   "apply_url": "https://www.topcv.vn/viec-lam/kaizen-hr-schneider/2262460.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00624",
+   "slug": "footwear-assembly-productivity-5s-training-supervisor-pouyuen-viet-nam-ban-quan-ly-cai",
+   "title": "Footwear Assembly Productivity & 5S Training Supervisor",
+   "company": "Công Ty TNHH PouYuen Việt Nam (Ban Quản Lý Cải Tiến Năng Suất Lao Động Kaizen)",
+   "website": "https://pouchen.com",
+   "level": "Trưởng nhóm",
+   "industry": "Sản xuất & Gia công Giày thể thao Xuất khẩu Toàn cầu",
+   "address": "D10/89Q Quốc lộ 1A",
+   "ward": "P.Tân Tạo",
+   "district": "Q.Bình Tân",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 17000000,
+    "max": 25000000,
+    "text": "17 - 25 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Đào tạo phương pháp 5S và loại bỏ lãng phí Lean Manufacturing tại các chuyền may giày Nike, Adidas; đánh giá xếp loại thi đua năng suất các xưởng",
+   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/lean-training-pouyuen.35C8E550.html",
+   "source": "careerviet.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-27",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00625",
+   "slug": "heavy-steel-welding-ndt-testing-hr-specialist-co-khi-xay-dung-thuong-mai-dai-dung-xuong",
+   "title": "Heavy Steel Welding & NDT Testing HR Specialist",
+   "company": "Công Ty Cổ Phần Cơ Khí Xây Dựng Thương Mại Đại Dũng (Xưởng Kết Cấu Thép An Hạ)",
+   "website": "https://daidung.com",
+   "level": "Chuyên viên",
+   "industry": "Sản xuất Kết cấu Thép Nặng & Nhà thép Tiền chế",
+   "address": "Đường An Hạ, Xã Phạm Văn Hai",
+   "ward": "Xã Phạm Văn Hai",
+   "district": "H.Bình Chánh",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 15000000,
+    "max": 22000000,
+    "text": "15 - 22 triệu"
+   },
+   "exp_years": "2 - 4 năm",
+   "requirements": "Tuyển dụng thợ hàn áp lực 6G, kỹ thuật viên kiểm tra mối hàn không phá hủy (NDT); theo dõi cấp phát trang bị mặt nạ hàn và chế độ độc hại",
+   "apply_url": "https://vieclam24h.vn/nhan-su/welding-hr-dai-dung-200992560.html",
+   "source": "vieclam24h.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-30",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00626",
+   "slug": "packaging-line-worker-shift-attendance-specialist-nuoc-mam-lien-thanh-xuong-dong-goi-nuoc",
+   "title": "Packaging Line Worker Shift & Attendance Specialist",
+   "company": "Công Ty Cổ Phần Nước Mắm Liên Thành (Xưởng Đóng Gói Nước Mắm Truyền Thống)",
+   "website": "https://lienthanh1906.vn",
+   "level": "Chuyên viên",
+   "industry": "Chế biến Nước mắm Truyền thống Lâu đời",
+   "address": "243 Bến Vân Đồn",
+   "ward": "Phường 2",
+   "district": "Q.4",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 12000000,
+    "max": 17000000,
+    "text": "12 - 17 triệu"
+   },
+   "exp_years": "2 năm",
+   "requirements": "Chấm công ca kíp công nhân dán nhãn đóng thùng chai nước mắm truyền thống, theo dõi tiền lương sản phẩm và làm thủ tục phụ cấp chuyên cần",
+   "apply_url": "https://www.vietnamworks.com/packaging-hr-lien-thanh-2132490-jv",
+   "source": "vietnamworks.com",
+   "updated": "2026-10-26",
+   "expires": "2026-11-26",
+   "published": "2026-10-26"
+  },
+  {
+   "id": "JOB-2610-00627",
+   "slug": "hoc-mon-cluster-meat-shop-hr-supervisor-nong-nghiep-baf-viet-nam-khoi-ban-le-thuc-pham",
+   "title": "Hoc Mon Cluster Meat Shop HR Supervisor",
+   "company": "Công Ty Cổ Phần Nông Nghiệp BaF Việt Nam (Khối Bán Lẻ Thực Phẩm Tươi Sống Hóc Môn)",
+   "website": "https://baf.vn",
+   "level": "Trưởng nhóm",
+   "industry": "Bán lẻ Chuỗi Cửa hàng Thịt sạch Ăn chay",
+   "address": "Tòa nhà BaF, 56-58 Nguyễn Đình Chiểu",
+   "ward": "P.Đa Kao",
+   "district": "Q.1",
+   "province": "TP. Hồ Chí Minh",
+   "salary": {
+    "type": "Có dải lương",
+    "min": 18000000,
+    "max": 25000000,
+    "text": "18 - 25 triệu"
+   },
+   "exp_years": "3 - 5 năm",
+   "requirements": "Quản lý tuyển dụng nhân viên đứng quầy thịt sạch Meat Corner khu vực huyện Hóc Môn và Quận 12; giám sát chấm công và giải quyết chế độ thử việc",
+   "apply_url": "https://www.topcv.vn/viec-lam/hoc-mon-store-hr-baf/2262500.html",
+   "source": "topcv.vn",
+   "updated": "2026-10-26",
+   "expires": "2026-11-28",
+   "published": "2026-10-26"
+  },
   {
    "id": "JOB-2610-00528",
    "slug": "chuyen-vien-chuyen-doi-so-nhan-su-quan-tri-du-lieu-hris-tap-doan-hung-thinh-khoi-chuyen",
@@ -13167,32 +14631,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00117",
-   "slug": "nhan-vien-nhan-su-tong-hop-in-bao-bi-toan-phat",
-   "title": "Nhân Viên Nhân Sự Tổng Hợp",
-   "company": "Công Ty TNHH In Bao Bì Toàn Phát",
-   "website": null,
-   "level": "Chuyên viên",
-   "industry": "Sản xuất Bao bì & Nhựa",
-   "address": "Lô 11, Đường 2B, KCN Vĩnh Lộc",
-   "ward": "P.Bình Hưng Hòa B",
-   "district": "Q.Bình Tân",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 10000000,
-    "max": 14000000,
-    "text": "10 - 14 triệu"
-   },
-   "exp_years": "1 năm",
-   "requirements": "Từ 1 năm kinh nghiệm quản lý hồ sơ nhân viên nhà máy bao bì, chấm công vân tay, làm thủ tục tăng giảm BHXH và hỗ trợ tuyển dụng công nhân lao động phổ thông.",
-   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/nhan-vien-nhan-su-tong-hop-toan-phat.35C89B54.html",
-   "source": "careerviet.vn",
-   "updated": "2026-10-08",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00118",
    "slug": "chuyen-vien-dao-tao-phat-trien-nhan-su-cong-nghiep-weldcom",
    "title": "Chuyên Viên Đào Tạo & Phát Triển Nhân Sự",
@@ -14935,58 +16373,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00013",
-   "slug": "hr-manager-truong-phong-nhan-su-hanmir",
-   "title": "HR Manager – Trưởng Phòng Nhân Sự",
-   "company": "Công Ty TNHH Hanmir",
-   "website": null,
-   "level": "Trưởng BP",
-   "industry": "Sản xuất & Vật liệu công nghiệp",
-   "address": "Tầng 16, Tòa nhà M-H Building, 728 Võ Văn Kiệt",
-   "ward": "Phường 1",
-   "district": "Q.5",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "5 - 10 năm",
-   "requirements": "5 - 10 năm kinh nghiệm HR & Admin tổng thể, quản lý C&B, tuyển dụng, quan hệ lao động",
-   "apply_url": "https://www.vietnamworks.com/hr-manager-truong-phong-nhan-su-1790144309848759578-2110501-jv",
-   "source": "vietnamworks.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-23",
-   "published": "2026-10-08"
-  },
-  {
-   "id": "JOB-2610-00014",
-   "slug": "truong-phong-hanh-chinh-nhan-su-minh-an",
-   "title": "Trưởng Phòng Hành Chính Nhân Sự",
-   "company": "Công Ty Cổ Phần Minh An",
-   "website": null,
-   "level": "Trưởng BP",
-   "industry": "Sản xuất & Công nghiệp phụ trợ",
-   "address": "Lô B2-57, Đường Kênh 19/5, KCN Tân Bình",
-   "ward": "P.Tây Thạnh",
-   "district": "Q.Tân Phú",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 25000000,
-    "max": 33000000,
-    "text": "25 - 33 triệu"
-   },
-   "exp_years": "3 năm",
-   "requirements": "3 năm kinh nghiệm quản lý HCNS nhà máy sản xuất, xử lý quan hệ lao động, kỷ luật và tuyển dụng",
-   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su-luong-khoi-diem-den-33trieu-thang/2272625.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-23",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00015",
    "slug": "truong-phong-hanh-chinh-nhan-su-hrbp-asiafoods-corporation-cong-ty-co-phan-thuc-pham-a",
    "title": "Trưởng Phòng Hành Chính Nhân Sự (HRBP)",
@@ -15247,32 +16633,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00028",
-   "slug": "hr-manager-hrbp-cum-l-od-daikin-air-conditioning-vietnam",
-   "title": "HR Manager (HRBP Cum L&OD)",
-   "company": "Công Ty Cổ Phần Daikin Air Conditioning (Vietnam)",
-   "website": "https://www.daikin.com.vn",
-   "level": "Trưởng BP",
-   "industry": "Sản xuất & Phân phối Thiết bị điện lạnh",
-   "address": "Tầng 12, Tòa nhà Viettel, 285 Cách Mạng Tháng Tám",
-   "ward": "Phường 12",
-   "district": "Q.10",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "5 năm",
-   "requirements": "Tối thiểu 5 năm kinh nghiệm quản lý HRBP và L&OD, có kinh nghiệm xây dựng khung năng lực, lộ trình thăng tiến và đào tạo phát triển tổ chức trong doanh nghiệp đa quốc gia.",
-   "apply_url": "https://www.vietnamworks.com/hr-manager-hrbp-cum-l-od-1790317854996831129-2111766-jv",
-   "source": "vietnamworks.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00029",
    "slug": "hrbp-manager-hang-tieu-dung-masan",
    "title": "HRBP Manager",
@@ -15455,32 +16815,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00036",
-   "slug": "hr-manager-gbc-engineers-viet-nam",
-   "title": "HR Manager",
-   "company": "Công Ty TNHH GBC Engineers Việt Nam",
-   "website": "https://gbc-engineers.com",
-   "level": "Trưởng BP",
-   "industry": "Tư vấn thiết kế & Kỹ thuật xây dựng",
-   "address": "Tầng 5, Tòa nhà Pax Sky, 123 Nguyễn Đình Chiểu",
-   "ward": "P.Võ Thị Sáu",
-   "district": "Q.3",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "4 - 6 năm",
-   "requirements": "Có ít nhất 4 năm kinh nghiệm quản lý HR trong ngành kỹ thuật, xây dựng hoặc tư vấn thiết kế quốc tế; thành thạo tiếng Anh, quản trị nhân sự theo mô hình Agile.",
-   "apply_url": "https://www.vietnamworks.com/hr-manager-gbc-engineers-2104138-jv",
-   "source": "vietnamworks.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00037",
    "slug": "ho-hr-business-partner-senior-manager-ngan-hang-thuong-mai-co-phan-a-chau-acb",
    "title": "HO - HR Business Partner, Senior Manager",
@@ -15559,32 +16893,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00040",
-   "slug": "chuyen-vien-hanh-chinh-nhan-su-hang-tieu-dung-new-day",
-   "title": "Chuyên Viên Hành Chính Nhân Sự",
-   "company": "Công Ty Cổ Phần Hàng Tiêu Dùng New Day",
-   "website": null,
-   "level": "Chuyên viên",
-   "industry": "Hàng tiêu dùng nhanh (FMCG)",
-   "address": "18A Phan Xích Long",
-   "ward": "Phường 2",
-   "district": "Q.Phú Nhuận",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 12000000,
-    "max": 15000000,
-    "text": "12 - 15 triệu"
-   },
-   "exp_years": "2 năm",
-   "requirements": "2 năm kinh nghiệm thực hiện các nghiệp vụ nhân sự tổng hợp: tính lương, BHXH, quản lý hồ sơ nhân viên và mua sắm cơ sở vật chất văn phòng.",
-   "apply_url": "https://glints.com/vn/opportunities/jobs/chuyen-vien-hanh-chinh-nhan-su/new-day-consumer-21158",
-   "source": "glints.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00041",
    "slug": "recruitment-admin-executive-ez-games",
    "title": "Recruitment & Admin Executive",
@@ -15637,32 +16945,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00043",
-   "slug": "truong-phong-nhan-su-van-hoa-doanh-nghiep-fitme",
-   "title": "Trưởng Phòng Nhân Sự & Văn Hóa Doanh Nghiệp",
-   "company": "Công Ty Cổ Phần Fitme",
-   "website": "https://fitme.vn",
-   "level": "Trưởng BP",
-   "industry": "Bán lẻ Thời trang & Thể thao",
-   "address": "Tòa nhà Pico Plaza, 20 Cộng Hòa",
-   "ward": "Phường 12",
-   "district": "Q.Tân Bình",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 20000000,
-    "max": 28000000,
-    "text": "20 - 28 triệu"
-   },
-   "exp_years": "3 - 5 năm",
-   "requirements": "Từ 3 năm kinh nghiệm quản lý HR, phụ trách xây dựng văn hóa doanh nghiệp gắn kết, tổ chức đào tạo nội bộ và kiểm soát quy trình nhân sự tổng thể.",
-   "apply_url": "https://www.topcv.vn/viec-lam/truong-phong-nhan-su-van-hoa-doanh-nghiep-thu-nhap-hap-dan-den-28-trieu-lam-viec-tai-ho-chi-minh/2280399.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00044",
    "slug": "truong-phong-nhan-su-cong-nghe-y-te-nhat-viet",
    "title": "Trưởng Phòng Nhân Sự",
@@ -15712,32 +16994,6 @@
    "source": "topcv.vn",
    "updated": "2026-10-07",
    "expires": "2026-11-15",
-   "published": "2026-10-08"
-  },
-  {
-   "id": "JOB-2610-00046",
-   "slug": "chuyen-vien-tuyen-dung-talent-acquisition-thuong-mai-ung-dung-duoc-my-pham-cong-nghe-cao",
-   "title": "Chuyên Viên Tuyển Dụng / Talent Acquisition",
-   "company": "Công Ty TNHH Thương Mại Ứng Dụng Dược Mỹ Phẩm Công Nghệ Cao Mocha",
-   "website": "https://mochagroup.com.vn",
-   "level": "Chuyên viên",
-   "industry": "Mỹ phẩm & Làm đẹp",
-   "address": "Tòa nhà Mocha, 81 Cách Mạng Tháng Tám",
-   "ward": "P.Bến Thành",
-   "district": "Q.1",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 10000000,
-    "max": 15000000,
-    "text": "10 - 15 triệu"
-   },
-   "exp_years": "1 - 2 năm",
-   "requirements": "Tối thiểu 1 năm kinh nghiệm tuyển dụng trong ngành mỹ phẩm, FMCG hoặc E-commerce; thành thạo các kênh tuyển dụng mạng xã hội và kỹ năng phỏng vấn đánh giá ứng viên.",
-   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-tuyen-dung-talent-acquisition-ho-chi-minh-di-lam-ngay/2189896.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
    "published": "2026-10-08"
   },
   {
@@ -15819,32 +17075,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00051",
-   "slug": "chuyen-vien-nhan-su-hr-thuong-mai-dich-vu-the-arena-travel",
-   "title": "Chuyên Viên Nhân Sự (HR)",
-   "company": "Công Ty TNHH Thương Mại Dịch Vụ The Arena Travel",
-   "website": "https://arenatravel.vn",
-   "level": "Chuyên viên",
-   "industry": "Du lịch & Dịch vụ lữ hành",
-   "address": "24 Phan Đăng Lưu",
-   "ward": "Phường 6",
-   "district": "Q.Bình Thạnh",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 12000000,
-    "max": 18000000,
-    "text": "12 - 18 triệu"
-   },
-   "exp_years": "2 năm",
-   "requirements": "Ít nhất 2 năm kinh nghiệm nhân sự ngành du lịch, lữ hành hoặc dịch vụ; quản lý tuyển dụng hướng dẫn viên, nhân viên kinh doanh và vận hành chính sách phúc lợi.",
-   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-nhan-su-hr-tai-tp-ho-chi-minh/2058208.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-24",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00052",
    "slug": "chuyen-vien-nhan-su-du-an-vinpearl-can-gio-vinpearl",
    "title": "Chuyên Viên Nhân Sự (Dự Án Vinpearl Cần Giờ)",
@@ -15868,32 +17098,6 @@
    "source": "careerviet.vn",
    "updated": "2026-10-07",
    "expires": "2026-10-30",
-   "published": "2026-10-08"
-  },
-  {
-   "id": "JOB-2610-00055",
-   "slug": "hr-executive-vnetwork",
-   "title": "HR Executive",
-   "company": "Công Ty Cổ Phần Vnetwork",
-   "website": "https://vnetwork.vn",
-   "level": "Chuyên viên",
-   "industry": "Công nghệ thông tin & Viễn thông",
-   "address": "Tầng 3, Tòa nhà An Phú Plaza, 117-119 Lý Chính Thắng",
-   "ward": "P.Võ Thị Sáu",
-   "district": "Q.3",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "2 năm",
-   "requirements": "Tối thiểu 2 năm kinh nghiệm nhân sự ngành công nghệ thông tin/phần mềm; tham gia tuyển dụng vị trí lập trình viên và triển khai hoạt động gắn kết văn hóa doanh nghiệp.",
-   "apply_url": "https://careerviet.vn/vi/tim-viec-lam/hr-executive.35C84B3C.html",
-   "source": "careerviet.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
    "published": "2026-10-08"
   },
   {
@@ -16053,32 +17257,6 @@
    "published": "2026-10-08"
   },
   {
-   "id": "JOB-2610-00062",
-   "slug": "chuyen-vien-dao-tao-va-tuyen-dung-tai-hcm-bt-international",
-   "title": "Chuyên Viên Đào Tạo Và Tuyển Dụng Tại HCM",
-   "company": "Công Ty Cổ Phần BT International",
-   "website": "https://btinternational.vn",
-   "level": "Chuyên viên",
-   "industry": "Phân phối & Bán lẻ Hàng tiêu dùng",
-   "address": "112 Cao Thắng",
-   "ward": "Phường 4",
-   "district": "Q.3",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 14000000,
-    "max": 18000000,
-    "text": "14 - 18 triệu"
-   },
-   "exp_years": "2 năm",
-   "requirements": "Ít nhất 2 năm kinh nghiệm song hành tuyển dụng và đào tạo nội bộ; xây dựng bài giảng hội nhập, quản lý kế hoạch tuyển dụng nhân sự bán lẻ và phân phối.",
-   "apply_url": "https://www.topcv.vn/viec-lam/chuyen-vien-dao-tao-va-tuyen-dung-tai-hcm-thu-nhap-tu-14-18-trieu/2212004.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
-   "published": "2026-10-08"
-  },
-  {
    "id": "JOB-2610-00063",
    "slug": "chuyen-vien-dao-tao-kinh-mat-hmk-vietnam",
    "title": "Chuyên Viên Đào Tạo",
@@ -16102,32 +17280,6 @@
    "source": "topcv.vn",
    "updated": "2026-10-07",
    "expires": "2026-10-30",
-   "published": "2026-10-08"
-  },
-  {
-   "id": "JOB-2610-00064",
-   "slug": "truong-nhom-tuyen-dung-minh-phuc-transformation",
-   "title": "Trưởng Nhóm Tuyển Dụng",
-   "company": "Công Ty Cổ Phần Minh Phúc Transformation",
-   "website": "https://mptelecom.com.vn",
-   "level": "Trưởng nhóm",
-   "industry": "Viễn thông & Dịch vụ BPO",
-   "address": "36-38A Trần Văn Dư",
-   "ward": "Phường 13",
-   "district": "Q.Tân Bình",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Lương thỏa thuận",
-    "min": null,
-    "max": null,
-    "text": "Thỏa thuận"
-   },
-   "exp_years": "2 năm",
-   "requirements": "Trên 2 năm kinh nghiệm vị trí tương đương, đặc biệt thế mạnh tuyển dụng số lượng lớn (mass hiring) cho các dự án Contact Center, Telesales, CSKH tại TP.HCM.",
-   "apply_url": "https://www.topcv.vn/viec-lam/truong-nhom-tuyen-dung/2182669.html",
-   "source": "topcv.vn",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
    "published": "2026-10-08"
   },
   {
@@ -16232,32 +17384,6 @@
    "source": "vietnamworks.com",
    "updated": "2026-10-07",
    "expires": "2026-10-31",
-   "published": "2026-10-08"
-  },
-  {
-   "id": "JOB-2610-00069",
-   "slug": "hr-generalist-scj-viet-nam",
-   "title": "HR Generalist",
-   "company": "Công Ty TNHH SCJ Việt Nam",
-   "website": "https://scj.vn",
-   "level": "Chuyên viên",
-   "industry": "Thương mại điện tử & Bán lẻ trực tuyến",
-   "address": "Tòa nhà SCJ, Kho B2, Đường D1, KCN Tân Thới Hiệp",
-   "ward": "P.Hiệp Thành",
-   "district": "Q.12",
-   "province": "TP. Hồ Chí Minh",
-   "salary": {
-    "type": "Có dải lương",
-    "min": 13000000,
-    "max": 20000000,
-    "text": "13 - 20 triệu"
-   },
-   "exp_years": "2 - 4 năm",
-   "requirements": "Từ 2 đến 4 năm kinh nghiệm làm HR Generalist ngành truyền hình mua sắm/bán lẻ; chịu trách nhiệm tuyển dụng, giám sát nội quy và quan hệ lao động.",
-   "apply_url": "https://www.vietnamworks.com/hr-generalist-scj-vietnam-2112842-jv",
-   "source": "vietnamworks.com",
-   "updated": "2026-10-07",
-   "expires": "2026-10-25",
    "published": "2026-10-08"
   },
   {
@@ -16469,5 +17595,5 @@
    "published": "2026-10-08"
   }
  ],
- "generated_at": "2026-10-22T09:16:42.159Z"
+ "generated_at": "2026-10-26T09:36:25.419Z"
 }
